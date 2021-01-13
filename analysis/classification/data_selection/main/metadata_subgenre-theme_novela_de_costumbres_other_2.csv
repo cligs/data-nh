@@ -1,0 +1,101 @@
+idno,author-short,title-short,year,country,narrative-perspective,subgenre-theme,subgenre-current,subgenre-novela,tokens
+nh0001,VillaverdeC,Guajiro,1842,Cuba,heterodiegetic,novela de costumbres,novela romántica,none,36461
+nh0005,AltamiranoIM,Navidad,1871,Mexico,autodiegetic,novela de costumbres,novela romántica,none,17404
+nh0008,RivarolaEE,AmarVuelo,1884,Argentina,heterodiegetic,novela de costumbres,novela realista,none,41611
+nh0009,GutierrezE,Rastreador,1886,Argentina,heterodiegetic,other,novela romántica,none,88720
+nh0010,MezaR,TioEmpleado,1887,Cuba,homodiegetic,novela de costumbres,novela realista,novela,93573
+nh0012,CambaceresE,Sangre,1887,Argentina,heterodiegetic,other,novela naturalista,none,40924
+nh0013,MezaR,Carmela,1887,Cuba,heterodiegetic,other,novela naturalista,none,50455
+nh0019,GamboaF,Cerillos,1889,Mexico,heterodiegetic,other,novela naturalista,none,16898
+nh0022,FriasH,Tomochic,1894,Mexico,heterodiegetic,other,novela naturalista,novela,61881
+nh0027,LopezLV,GranAldea,1884,Argentina,autodiegetic,novela de costumbres,novela realista,none,50497
+nh0029,SicardiF,Extrano,1894,Argentina,heterodiegetic,other,novela naturalista,none,99767
+nh0033,SicardiF,Justicia,1902,Argentina,heterodiegetic,other,novela naturalista,none,66652
+nh0036,LopezPortilloJ,Parcela,1898,Mexico,heterodiegetic,novela de costumbres,novela realista,novela,90800
+nh0037,LopezVF,Loca,1896,Argentina,homodiegetic,other,novela romántica,none,100022
+nh0039,CantiloJL,Quimera,1899,Argentina,heterodiegetic,novela de costumbres,novela naturalista,none,36161
+nh0041,GorritiJM,Yocci,1876,Argentina,heterodiegetic,other,novela romántica,none,19643
+nh0042,AlvarezJS,Austral,1897,Argentina,autodiegetic,novela de costumbres,unknown,none,62521
+nh0044,CastellanosJ,Conjura,1909,Cuba,heterodiegetic,other,novela realista,novela,22991
+nh0045,MachaliR,EmiliaCoquetismo,1862,Argentina,heterodiegetic,other,novela romántica,none,39646
+nh0046,OcantosCM,Promision,1897,Argentina,heterodiegetic,other,novela realista,novela,65026
+nh0048,OcantosCM,Perfecto,1902,Argentina,autodiegetic,novela de costumbres,novela realista,novela,64894
+nh0050,CuellarJT,EnsaladaPollos,1871,Mexico,heterodiegetic,novela de costumbres,novela romántica,novela,48747
+nh0051,BarraE,Stella,1905,Argentina,heterodiegetic,novela de costumbres,unknown,novela,100447
+nh0056,GutierrezE,MuerteHeroe,1886,Argentina,heterodiegetic,other,novela romántica,none,104443
+nh0057,CambaceresE,Potpourri,1882,Argentina,autodiegetic,novela de costumbres,novela naturalista,none,50450
+nh0061,EchagueP,Chapanay,1884,Argentina,heterodiegetic,novela de costumbres,novela romántica,none,26780
+nh0062,CantiloJM,Quillango,1880,Argentina,heterodiegetic,novela de costumbres,novela realista,none,17162
+nh0063,ZayasGuarnerosP,Herencias,1899,Mexico,heterodiegetic,novela de costumbres,novela romántica,novela,95614
+nh0065,DiazCovarrubiasJ,ClaseMedia,1858,Mexico,heterodiegetic,novela de costumbres,novela romántica,novela,30551
+nh0066,MartinezVillergasJ,VidaChaleco,1859,Cuba,heterodiegetic,novela de costumbres,unknown,novela,197895
+nh0067,FriasH,UltimoDuelo,1896,Mexico,heterodiegetic,other,novela realista,novela,51837
+nh0070,MezaR,DonAniceto,1889,Cuba,heterodiegetic,novela de costumbres,unknown,novela,41914
+nh0071,MezaR,UltimasPaginas,1891,Cuba,heterodiegetic,novela de costumbres,novela romántica,novela,36132
+nh0073,DiazCovarrubiasJ,Diablo,1858,Mexico,heterodiegetic,novela de costumbres,novela romántica,novela,17663
+nh0077,ZayasGuarnerosP,AmorSublime,1899,Mexico,heterodiegetic,novela de costumbres,unknown,novela,120775
+nh0078,AlvarezJS,ViajeMatreros,1897,Argentina,homodiegetic,novela de costumbres,unknown,none,26082
+nh0079,AlvarezJS,MemoriasVigilante,1897,Argentina,autodiegetic,novela de costumbres,unknown,none,21866
+nh0086,LugonesL,Guerra,1905,Argentina,heterodiegetic,other,novela modernista,none,62205
+nh0087,CaneMI,Esther,1858,Argentina,heterodiegetic,other,novela romántica,novela,17724
+nh0090,PaynoM,Bandidos,1892,Mexico,heterodiegetic,novela de costumbres,novela naturalista,novela,217243
+nh0091,CalcagnoF,DonEnriquito,1895,Cuba,heterodiegetic,other,unknown,novela,26096
+nh0092,RiveraYRioJ,VirgenNiagara,1871,Mexico,heterodiegetic,other,novela romántica,novela,115995
+nh0093,EstradaS,Pampa,1866,Argentina,heterodiegetic,novela de costumbres,unknown,none,22668
+nh0094,MansoJP,MisteriosPlata,1868,Argentina,heterodiegetic,other,novela romántica,novela,42919
+nh0101,BarraE,MechaIturbe,1906,Argentina,heterodiegetic,novela de costumbres,unknown,none,101792
+nh0105,PaynoM,HombreSituacion,1861,Mexico,heterodiegetic,novela de costumbres,novela romántica,novela,50534
+nh0106,SierraOReillyJ,HijaJudio,1848,Mexico,heterodiegetic,other,novela romántica,novela,195753
+nh0109,MoruaDelgadoM,Sofia,1891,Cuba,heterodiegetic,other,novela naturalista,novela,58700
+nh0110,GorritiJM,Peregrinaciones,1876,Argentina,autodiegetic,other,novela romántica,none,42815
+nh0114,BobadillaE,Fuego,1903,Cuba,heterodiegetic,other,novela naturalista,novela,63807
+nh0117,GomezAvellanedaG,Espatolino,1844,Cuba,heterodiegetic,other,novela romántica,novela,58341
+nh0118,VillaverdeC,Cecilia,1839,Cuba,heterodiegetic,novela de costumbres,novela romántica,novela,182647
+nh0120,PaynoM,Fistol,1846,Mexico,heterodiegetic,novela de costumbres,novela romántica,novela,239353
+nh0122,RivaPalacioV,Muertos,1870,Mexico,heterodiegetic,other,novela romántica,novela,108815
+nh0127,OcantosCM,Candidato,1893,Argentina,heterodiegetic,other,novela realista,none,72592
+nh0129,CuellarJT,Fuerenos,1883,Mexico,heterodiegetic,novela de costumbres,novela romántica,novela,25032
+nh0131,CuellarJT,BaileCochino,1886,Mexico,heterodiegetic,novela de costumbres,novela romántica,novela,34925
+nh0133,CampoValleA,Rumba,1891,Mexico,heterodiegetic,novela de costumbres,novela realista,none,33506
+nh0135,ZambranaVazquezF,Francisco,1873,Cuba,heterodiegetic,novela de costumbres,novela realista,novela,36604
+nh0137,MalpicaLaBarcaD,Cafetal,1890,Cuba,homodiegetic,novela de costumbres,unknown,novela,96690
+nh0138,CuellarJT,GabrielCerrajero,1872,Mexico,heterodiegetic,novela de costumbres,novela romántica,novela,56883
+nh0139,RoblesP,Plateados,1891,Mexico,heterodiegetic,other,unknown,none,52286
+nh0140,GomezAvellanedaG,DosMujeres,1843,Cuba,heterodiegetic,other,novela romántica,none,82518
+nh0141,CuellarJT,GentesAsi,1872,Mexico,heterodiegetic,novela de costumbres,novela romántica,novela,128841
+nh0144,CuellarJT,IsolinaExFigurante,1871,Mexico,heterodiegetic,novela de costumbres,novela romántica,novela,69206
+nh0145,CasteraP,DramasCorazon,1890,Mexico,heterodiegetic,other,novela romántica,none,42858
+nh0147,PichardoE,Fatalista,1866,Cuba,heterodiegetic,novela de costumbres,novela romántica,novela,73296
+nh0149,PazI,Marina,1883,Mexico,heterodiegetic,other,novela romántica,novela,188941
+nh0154,AuberNoyaVF,Wilhelmina,1843,Cuba,heterodiegetic,other,unknown,none,28612
+nh0164,GroussacP,FrutoVedado,1881,Argentina,heterodiegetic,novela de costumbres,novela naturalista,none,68462
+nh0166,BacardiMoreauE,ViaCrucis,1910,Cuba,heterodiegetic,other,unknown,none,99221
+nh0169,VillaverdeC,Penitente,1889,Cuba,homodiegetic,other,novela romántica,novela,36425
+nh0171,CasteraP,Carmen,1882,Mexico,autodiegetic,other,novela romántica,none,62013
+nh0172,LarrosaAnsaldoL,Lujo,1889,Argentina,heterodiegetic,novela de costumbres,novela romántica,novela,39528
+nh0179,DominguezS,PerfilesMedallones,1886,Argentina,autodiegetic,novela de costumbres,novela naturalista,none,46760
+nh0183,RiveraYRioJ,DramasNuevaYork,1869,Mexico,heterodiegetic,other,novela romántica,novela,175143
+nh0190,GamboaF,Apariencias,1892,Mexico,heterodiegetic,other,novela naturalista,none,109540
+nh0192,GamboaF,SupremaLey,1896,Mexico,heterodiegetic,other,novela naturalista,none,114201
+nh0197,CuellarJT,ChuchoNinfo,1871,Mexico,heterodiegetic,novela de costumbres,novela romántica,novela,63808
+nh0199,CuellarJT,Mariditos,1890,Mexico,heterodiegetic,novela de costumbres,novela romántica,novela,25753
+nh0201,GutierrezE,CarloLanza,1886,Argentina,heterodiegetic,other,novela romántica,none,115941
+nh0204,AzuelaM,Fracasados,1908,Mexico,heterodiegetic,other,novela realista,none,43221
+nh0211,SanchezMarmolM,Pocahontas,1882,Mexico,heterodiegetic,other,unknown,none,35091
+nh0213,BlancoCM,Salvaje,1891,Argentina,heterodiegetic,novela de costumbres,unknown,novela,20912
+nh0214,ZentellaA,Perico,1885,Mexico,heterodiegetic,novela de costumbres,novela realista,novela,22593
+nh0216,AnconaE,Mestiza,1891,Mexico,heterodiegetic,other,novela romántica,novela,79401
+nh0217,MendezCuencaL,EspejoAmarilis,1902,Mexico,heterodiegetic,novela de costumbres,novela naturalista,novela,180344
+nh0219,CampoE,Camila,1856,Argentina,heterodiegetic,other,novela romántica,novela,23008
+nh0220,PuigPuenteF,CampanaTarde,1873,Cuba,heterodiegetic,novela de costumbres,novela romántica,novela,46047
+nh0223,SolarA,ContraMarea,1894,Argentina,heterodiegetic,other,novela naturalista,none,51085
+nh0227,MateosJA,SacerdoteCaudillo,1869,Mexico,heterodiegetic,other,novela romántica,novela,190317
+nh0228,GuiterasFontE,IreneAlbar,1885,Cuba,heterodiegetic,other,unknown,novela,40281
+nh0237,PizarroN,Coqueta,1861,Mexico,heterodiegetic,other,novela romántica,novela,51132
+nh0238,BetancourtR,FeriaCaridad,1841,Cuba,heterodiegetic,novela de costumbres,novela romántica,none,43766
+nh0240,CasteraP,Maduros,1882,Mexico,heterodiegetic,other,novela romántica,none,17444
+nh0242,HerediaN,HombreNegocios,1882,Cuba,heterodiegetic,novela de costumbres,unknown,novela,42098
+nh0243,MarquezJ,HermanosSilencio,1896,Cuba,heterodiegetic,other,unknown,novela,27840
+nh0246,TovarP,Ironias,1851,Mexico,heterodiegetic,novela de costumbres,novela romántica,novela,206900
+nh0248,CabralJV,SanTelmo,1897,Argentina,heterodiegetic,other,novela romántica,none,35057
+nh0253,CuellarJT,PecadoSiglo,1869,Mexico,heterodiegetic,other,novela romántica,novela,119738
