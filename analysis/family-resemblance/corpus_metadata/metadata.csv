@@ -1,0 +1,84 @@
+idno,author-short,author-gender,title-short,author-long,title-long,year,decade,country,source-edition,narrative-perspective,subgenre-theme,subgenre-current
+nh0004,PayroR,male,Inca,"Payró, Roberto",El falso Inca,1905,1901-1910,Argentina,historical,heterodiegetic,novela histórica,unknown
+nh0006,AltamiranoIM,male,Clemencia,"Altamirano, Ignacio Manuel",Clemencia,1869,1861-1870,Mexico,unknown,homodiegetic,novela sentimental,novela romántica
+nh0007,AltamiranoIM,male,Zarco,"Altamirano, Ignacio Manuel",El Zarco,1901,1901-1910,Mexico,modern,heterodiegetic,novela histórica,novela romántica
+nh0013,MezaR,male,Carmela,"Meza, Ramón",Carmela,1887,1881-1890,Cuba,first,heterodiegetic,novela sentimental,novela naturalista
+nh0014,AuberNoyaVF,female,Leoncio,"Auber Noya, Virginia Felicia",Leoncio,1844,1840-1850,Cuba,first,heterodiegetic,novela sentimental,unknown
+nh0015,SaladoAlvarezV,male,Puebla,"Salado Álvarez, Victoriano",Puebla,1903,1901-1910,Mexico,first,heterodiegetic,novela histórica,novela realista
+nh0017,MarmolJ,male,Amalia,"Mármol, José",Amalia,1855,1851-1860,Argentina,unknown,heterodiegetic,novela histórica,novela romántica
+nh0018,IglesiaA,male,Adoracion,"Iglesia, Álvaro de la",Adoración,1894,1891-1900,Cuba,historical,autodiegetic,novela sentimental,unknown
+nh0021,OcantosCM,male,CruzFalta,"Ocantos, Carlos María",La cruz de la falta,1883,1881-1890,Argentina,first,heterodiegetic,novela sentimental,novela romántica
+nh0022,FriasH,male,Tomochic,"Frías, Heriberto",Tomóchic,1894,1891-1900,Mexico,first,heterodiegetic,novela histórica,novela naturalista
+nh0025,MansillaE,female,Miranda,"Mansilla, Eduarda",Lucía Miranda,1860,1851-1860,Argentina,historical,heterodiegetic,novela histórica,novela romántica
+nh0026,AnconaE,male,Cruz,"Ancona, Eligio",La cruz y la espada,1866,1861-1870,Mexico,modern,heterodiegetic,novela histórica,novela romántica
+nh0034,CambaceresE,male,Musica,"Cambaceres, Eugenio",Música sentimental,1884,1881-1890,Argentina,first,homodiegetic,novela sentimental,novela naturalista
+nh0035,LopezVF,male,NoviaDelHereje,"López, Vicente Fidel",La novia del hereje o La Inquisición de Lima,1855,1851-1860,Argentina,historical,heterodiegetic,novela histórica,novela romántica
+nh0040,GutierrezJM,male,CapitanPatricios,"Gutiérrez, Juan María",El capitán de patricios,1864,1861-1870,Argentina,modern,heterodiegetic,novela histórica,novela romántica
+nh0041,GorritiJM,female,Yocci,"Gorriti, Juana Manuela",El pozo del Yocci,1876,1871-1880,Argentina,modern,heterodiegetic,novela histórica,novela romántica
+nh0043,GorritiJM,female,JuezVerdugo,"Gorriti, Juana Manuela",Juez y verdugo,1876,1871-1880,Argentina,modern,heterodiegetic,novela sentimental,novela romántica
+nh0045,MachaliR,male,EmiliaCoquetismo,"Machali, Ramón","Emilia, o los efectos del coquetismo",1862,1861-1870,Argentina,historical,heterodiegetic,novela sentimental,novela romántica
+nh0054,GutierrezE,male,Chacho,"Gutiérrez, Eduardo",El Chacho,1884,1881-1890,Argentina,historical,heterodiegetic,novela histórica,novela romántica
+nh0064,DiazCovarrubiasJ,male,Gomez,"Díaz Covarrubias, Juan","Gil Gómez, el insurgente o la hija del médico",1858,1851-1860,Mexico,historical,heterodiegetic,novela histórica,novela romántica
+nh0069,MateosJA,male,CerroCampanas,"Mateos, Juan Antonio",El cerro de las campanas,1868,1861-1870,Mexico,historical,heterodiegetic,novela histórica,novela romántica
+nh0072,BarredaR,male,MisteriosCorazon,"Barreda, Rafael",Misterios del corazón,1875,1871-1880,Argentina,historical,heterodiegetic,novela sentimental,novela romántica
+nh0076,HerediaN,male,Leonela,"Heredia, Nicolás",Leonela,1893,1891-1900,Cuba,first,heterodiegetic,novela sentimental,novela naturalista
+nh0081,BungeCO,male,Sangre,"Bunge, Carlos Octavio",La Novela de la Sangre,1903,1901-1910,Argentina,historical,heterodiegetic,novela histórica,unknown
+nh0082,PodestaMT,male,AlmaNina,"Podestá, Manuel T.",Alma de niña,1892,1891-1900,Argentina,first,heterodiegetic,novela sentimental,novela romántica
+nh0084,LarretaE,male,GloriaRamiro,"Larreta, Enrique",La gloria de Don Ramiro,1908,1901-1910,Argentina,modern,heterodiegetic,novela histórica,novela modernista
+nh0086,LugonesL,male,Guerra,"Lugones, Leopoldo",La guerra gaucha,1905,1901-1910,Argentina,unknown,heterodiegetic,novela histórica,novela modernista
+nh0087,CaneMI,male,Esther,"Cané, Miguel",Esther,1858,1851-1860,Argentina,first,heterodiegetic,novela sentimental,novela romántica
+nh0089,DelgadoR,male,Angelina,"Delgado, Rafael",Angelina,1893,1891-1900,Mexico,modern,autodiegetic,novela sentimental,novela realista
+nh0091,CalcagnoF,male,DonEnriquito,"Calcagno, Francisco",Don Enriquito,1895,1891-1900,Cuba,first,heterodiegetic,novela histórica,unknown
+nh0094,MansoJP,female,MisteriosPlata,"Manso de Noronha, Juana Paula",Los misterios del Plata,1868,1861-1870,Argentina,modern,heterodiegetic,novela histórica,novela romántica
+nh0096,MitreB,male,Soledad,"Mitre, Bartolomé",Soledad,1847,1840-1850,Argentina,first,heterodiegetic,novela sentimental,novela romántica
+nh0098,RosasdeRiveraM,female,MariaMontiel,"Rosas de Rivera, Mercedes",María de Montiel,1861,1861-1870,Argentina,modern,heterodiegetic,novela sentimental,novela romántica
+nh0099,NajeraM,male,Cielo,"Gutiérrez Nájera, Manuel",Por dónde se sube al cielo,1882,1881-1890,Mexico,unknown,heterodiegetic,novela sentimental,novela modernista
+nh0100,PortilloA,male,MariaLuisa,"Portillo, Andrés",María Luisa,1896,1891-1900,Mexico,first,heterodiegetic,novela histórica,unknown
+nh0102,VillaverdeC,male,DosAmores,"Villaverde, Cirilo",Dos amores,1858,1851-1860,Cuba,first,heterodiegetic,novela sentimental,novela romántica
+nh0103,ZamacoisN,male,MendigoSanAngel,"Zamacois, Niceto de",El mendigo de San Ángel,1865,1861-1870,Mexico,first,heterodiegetic,novela histórica,unknown
+nh0104,CastilloFM,male,HermanaAngeles,"Castillo, Florencio María del",Hermana de los ángeles,1854,1851-1860,Mexico,historical,heterodiegetic,novela sentimental,novela romántica
+nh0106,SierraOReillyJ,male,HijaJudio,"Sierra O'Reilly, Justo",La hija del judío,1849,1840-1850,Mexico,modern,heterodiegetic,novela histórica,novela romántica
+nh0108,InclanLG,male,Astucia,"Inclán, Luis Gonzaga",Astucia,1866,1861-1870,Mexico,modern,heterodiegetic,novela histórica,novela romántica
+nh0115,GomezAvellanedaG,female,Guatimozin,"Gómez de Avellaneda, Gertrudis","Guatimozín, último emperador de Méjico",1846,1840-1850,Cuba,historical,heterodiegetic,novela histórica,novela romántica
+nh0119,MartiJ,male,Amistad,"Martí, José",Amistad funesta,1885,1881-1890,Cuba,modern,heterodiegetic,novela sentimental,novela modernista
+nh0123,SylvaV,male,AsiSea,"Sylva, Victorio",¡Así sea!,1893,1891-1900,Argentina,historical,autodiegetic,novela sentimental,unknown
+nh0125,RivaPalacioV,male,Calvario,"Riva Palacio, Vicente",Calvario y Tabor,1868,1861-1870,Mexico,historical,heterodiegetic,novela histórica,novela romántica
+nh0130,AguilarV,male,Otilia,"Aguilar, Ventura",Otilia,1887,1881-1890,Argentina,historical,heterodiegetic,novela sentimental,unknown
+nh0132,OteroR,male,CeciliaMatancera,"Otero, Rafael",Cecilia la Matancera,1861,1861-1870,Cuba,historical,heterodiegetic,novela sentimental,unknown
+nh0136,AzuelaM,male,MariaLuisa,"Azuela, Mariano",María Luisa,1907,1901-1910,Mexico,first,heterodiegetic,novela sentimental,novela naturalista
+nh0139,RoblesP,male,Plateados,"Robles, Pedro",Los plateados de Tierra Caliente,1891,1891-1900,Mexico,unknown,heterodiegetic,novela histórica,unknown
+nh0140,GomezAvellanedaG,female,DosMujeres,"Gómez de Avellaneda, Gertrudis",Dos mujeres,1843,1840-1850,Cuba,first,heterodiegetic,novela sentimental,novela romántica
+nh0142,OlavarriaFerrariE,male,TalamoHorca,"Olavarría y Ferrari, Enrique",El tálamo y la horca,1868,1861-1870,Mexico,first,heterodiegetic,novela histórica,novela romántica
+nh0150,LarrosaAnsaldoL,female,Esposos,"Larrosa de Ansaldo, Lola",Los esposos,1893,1891-1900,Argentina,first,heterodiegetic,novela histórica,novela romántica
+nh0151,GuadalajaraJR,male,AmaliaPaginas,"Guadalajara, José Rafael",Amalia,1891,1891-1900,Mexico,modern,autodiegetic,novela sentimental,novela romántica
+nh0152,PazI,male,Juarez,"Paz, Ireneo",Juárez,1904,1901-1910,Mexico,first,heterodiegetic,novela histórica,novela romántica
+nh0158,EchaizJ,male,Paladin,"Echáiz, Jesús",El paladín extranjero,1871,1871-1880,Mexico,first,heterodiegetic,novela histórica,novela romántica
+nh0160,BarredaR,male,PepaLarrica,"Barreda, Rafael",Pepa Larrica,1884,1881-1890,Argentina,first,heterodiegetic,novela histórica,unknown
+nh0162,PazI,male,AmorDeViejo,"Paz, Ireneo",Amor de viejo,1874,1871-1880,Mexico,modern,heterodiegetic,novela sentimental,novela romántica
+nh0166,BacardiMoreauE,male,ViaCrucis,"Bacardí Moreau, Emilio",Vía Crucis,1910,1901-1910,Cuba,modern,heterodiegetic,novela histórica,unknown
+nh0169,VillaverdeC,male,Penitente,"Villaverde, Cirilo",El penitente,1889,1881-1890,Cuba,historical,homodiegetic,novela histórica,novela romántica
+nh0171,CasteraP,male,Carmen,"Castera, Pedro",Carmen,1882,1881-1890,Mexico,historical,autodiegetic,novela sentimental,novela romántica
+nh0176,OlascoagaMJ,male,SargentoClaro,"Olascoaga, Manuel J.","El sargento Claro, o la guerra de Chile",1898,1891-1900,Argentina,first,heterodiegetic,novela histórica,unknown
+nh0183,RiveraYRioJ,male,DramasNuevaYork,"Rivera y Río, José",Los dramas de Nueva-York,1869,1861-1870,Mexico,first,heterodiegetic,novela sentimental,novela romántica
+nh0184,AlmazanJP,male,HerejeMusulman,"Almazán, José Pascual",Un hereje y un musulmán,1870,1861-1870,Mexico,modern,heterodiegetic,novela histórica,unknown
+nh0187,HolmbergEL,male,Nelly,"Holmberg, Eduardo Ladislao",Nelly,1896,1891-1900,Argentina,historical,heterodiegetic,novela sentimental,unknown
+nh0195,PellizaSagastaJ,female,Margarita,"Pelliza de Sagasta, Josefina",Margarita,1875,1871-1880,Argentina,first,heterodiegetic,novela sentimental,novela romántica
+nh0202,LopezPortilloJ,male,Precursores,"López Portillo y Rojas, José",Los precursores,1909,1901-1910,Mexico,modern,heterodiegetic,novela sentimental,novela realista
+nh0207,GuerreroPallaresT,male,Anatomia,"Guerrero y Pallarés, Teodoro",Anatomía del corazón,1856,1851-1860,Cuba,historical,heterodiegetic,novela sentimental,unknown
+nh0208,SanchezMarmolM,male,AntonPerez,"Sánchez Mármol, Manuel",Antón Pérez,1903,1901-1910,Mexico,modern,heterodiegetic,novela histórica,novela realista
+nh0210,ZayasEnriquezR,male,Teniente,"Zayas Enríquez, Rafael de",El teniente de los gavilanes,1902,1901-1910,Mexico,modern,heterodiegetic,novela histórica,novela realista
+nh0212,SanchezMarmolM,male,JuanitaSousa,"Sánchez Mármol, Manuel",Juanita Sousa,1890,1881-1890,Mexico,modern,heterodiegetic,novela sentimental,unknown
+nh0216,AnconaE,male,Mestiza,"Ancona, Eligio",La Mestiza,1891,1891-1900,Mexico,modern,heterodiegetic,novela sentimental,novela romántica
+nh0218,LlanosJ,male,ArturoSierra,"Llanos, Julio",Arturo Sierra,1884,1881-1890,Argentina,modern,heterodiegetic,novela sentimental,unknown
+nh0219,CampoE,male,Camila,"Campo, Estanislao del",Camila o la virtud triunfante,1856,1851-1860,Argentina,unknown,heterodiegetic,novela sentimental,novela romántica
+nh0228,GuiterasFontE,male,IreneAlbar,"Guiteras y Font, Eusebio",Irene Albar,1885,1881-1890,Cuba,first,heterodiegetic,novela sentimental,unknown
+nh0231,IglesiaA,male,PepeAntonio,"Iglesia, Álvaro de la",Pepe Antonio,1903,1901-1910,Cuba,first,heterodiegetic,novela histórica,unknown
+nh0233,SegaleA,male,AurasAbril,"Segale, Atenógenes",Auras de Abril,1897,1891-1900,Mexico,first,homodiegetic,novela sentimental,unknown
+nh0237,PizarroN,male,Coqueta,"Pizarro, Nicolás",La coqueta,1861,1861-1870,Mexico,modern,heterodiegetic,novela sentimental,novela romántica
+nh0241,MoralesV,male,Epinay,"Morales, Vicente",Silveria de Epinay,1872,1871-1880,Mexico,modern,heterodiegetic,novela sentimental,unknown
+nh0243,MarquezJ,male,HermanosSilencio,"Márquez, José de Jesús",Los Hermanos del Silencio,1896,1891-1900,Cuba,first,heterodiegetic,novela histórica,unknown
+nh0247,CabralJV,male,AmeliaFloriani,"Cabral, José Victoriano",Amelia de Floriani o el castillo del diablo,1887,1881-1890,Argentina,first,heterodiegetic,novela histórica,novela romántica
+nh0250,OchagaviaMR,female,AngelDemonio,"Ochagavia, Margarita Rufina","Un ángel y un demonio, o el valor de un juramento",1857,1851-1860,Argentina,first,heterodiegetic,novela sentimental,novela romántica
+nh0251,RamirezJM,male,Avelina,"Ramírez, José María",Avelina,1864,1861-1870,Mexico,first,autodiegetic,novela sentimental,novela romántica
+nh0253,CuellarJT,male,PecadoSiglo,"Cuéllar, José Tomás de",El pecado del siglo,1869,1861-1870,Mexico,first,heterodiegetic,novela histórica,novela romántica
+nh0254,GarciaVellosoE,male,Neurosis,"García Velloso, Enrique",Neurosis sentimental,1900,1891-1900,Argentina,first,heterodiegetic,novela sentimental,novela naturalista
