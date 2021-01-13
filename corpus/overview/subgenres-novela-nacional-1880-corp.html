@@ -1,0 +1,128 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 700px; height: 600px;"></div><script>
+                        var trace1 = {
+                        type: "bar",
+                        name: "before 1880",
+                        x: ["novela mexicana","novela argentina","novela cubana","other","none"],
+                        y: [16,1,11,26,44]
+                        };
+                        
+                        var trace2 = {
+                        type: "bar",
+                        name: "in or after 1880",
+                        x: ["novela mexicana","novela argentina","novela cubana","other","none"],
+                        y: [14,8,11,14,111]
+                        };
+                        
+                        var data = [trace1, trace2];
+                        var layout = {
+                        barmode: "group",
+                        xaxis: {tickmode: "linear", dtick: 1, title: "subgenres", tickfont: {size: 16}, automargin: true},
+                        yaxis: {title: "number of works"},
+                        legend: {font: {size: 16}},
+                        font: {size: 16},
+                        
+                        annotations: [
+                            {
+                            x: 0,
+                            y: 16,
+                            text: "16%",
+                            showarrow: false,
+                            xanchor: "right",
+                            yanchor: "bottom",
+                            font: {size: 14}
+                            },
+                            {
+                            x: 0,
+                            y: 14,
+                            text: "9%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 14}
+                            }
+                            ,
+                            {
+                            x: 1,
+                            y: 1,
+                            text: "1%",
+                            showarrow: false,
+                            xanchor: "right",
+                            yanchor: "bottom",
+                            font: {size: 14}
+                            },
+                            {
+                            x: 1,
+                            y: 8,
+                            text: "5%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 14}
+                            }
+                            ,
+                            {
+                            x: 2,
+                            y: 11,
+                            text: "11%",
+                            showarrow: false,
+                            xanchor: "right",
+                            yanchor: "bottom",
+                            font: {size: 14}
+                            },
+                            {
+                            x: 2,
+                            y: 11,
+                            text: "7%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 14}
+                            }
+                            ,
+                            {
+                            x: 3,
+                            y: 26,
+                            text: "27%",
+                            showarrow: false,
+                            xanchor: "right",
+                            yanchor: "bottom",
+                            font: {size: 14}
+                            },
+                            {
+                            x: 3,
+                            y: 14,
+                            text: "9%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 14}
+                            }
+                            ,
+                            {
+                            x: 4,
+                            y: 44,
+                            text: "45%",
+                            showarrow: false,
+                            xanchor: "right",
+                            yanchor: "bottom",
+                            font: {size: 14}
+                            },
+                            {
+                            x: 4,
+                            y: 111,
+                            text: "70%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 14}
+                            }
+                            
+                        ]
+                        };
+                        Plotly.newPlot("myDiv", data, layout);
+                    </script></body>
+</html>

@@ -1,0 +1,90 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 700px; height: 600px;"></div><script>
+                        var trace1 = {
+                        type: "bar",
+                        name: "before 1880",
+                        x: ["novela americana","other","none"],
+                        y: [49,70,149]
+                        };
+                        
+                        var trace2 = {
+                        type: "bar",
+                        name: "in or after 1880",
+                        x: ["novela americana","other","none"],
+                        y: [105,49,407]
+                        };
+                        
+                        var data = [trace1, trace2];
+                        var layout = {
+                        barmode: "group",
+                        xaxis: {tickmode: "linear", dtick: 1, title: "subgenres", tickfont: {size: 16}, automargin: true},
+                        yaxis: {title: "number of works"},
+                        legend: {font: {size: 16}},
+                        font: {size: 16},
+                        
+                        annotations: [
+                            {
+                            x: 0,
+                            y: 49,
+                            text: "18%",
+                            showarrow: false,
+                            xanchor: "right",
+                            yanchor: "bottom",
+                            font: {size: 14}
+                            },
+                            {
+                            x: 0,
+                            y: 105,
+                            text: "19%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 14}
+                            }
+                            ,
+                            {
+                            x: 1,
+                            y: 70,
+                            text: "26%",
+                            showarrow: false,
+                            xanchor: "right",
+                            yanchor: "bottom",
+                            font: {size: 14}
+                            },
+                            {
+                            x: 1,
+                            y: 49,
+                            text: "9%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 14}
+                            }
+                            ,
+                            {
+                            x: 2,
+                            y: 149,
+                            text: "56%",
+                            showarrow: false,
+                            xanchor: "right",
+                            yanchor: "bottom",
+                            font: {size: 14}
+                            },
+                            {
+                            x: 2,
+                            y: 407,
+                            text: "73%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 14}
+                            }
+                            
+                        ]
+                        };
+                        Plotly.newPlot("myDiv", data, layout);
+                    </script></body>
+</html>

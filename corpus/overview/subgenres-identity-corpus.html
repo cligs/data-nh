@@ -1,0 +1,65 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 900px; height: 400px;"></div><script>
+                        var data = [{
+                        
+                            values: [36, 220],
+                            labels: ["novela original", "other"],
+                            type: "pie",
+                            hole: 0.5,
+                            name: "Original novels",
+                            domain: {row: 0, column: 0},
+                            direction: "clockwise",
+                            legendgroup: "group1"
+                            },{
+                        
+                            values: [67, 189],
+                            labels: ["novela americana", "other"],
+                            type: "pie",
+                            hole: 0.5,
+                            name: "American novels",
+                            domain: {row: 0, column: 1},
+                            direction: "clockwise",
+                            legendgroup: "group2"
+                            },{
+                        
+                            values: [30, 22, 9, 195],
+                            labels: ["novela mexicana","novela cubana","novela argentina", "other"],
+                            type: "pie",
+                            hole: 0.5,
+                            name: "National novels",
+                            domain: {row: 0, column: 2},
+                            direction: "clockwise",
+                            legendgroup: "group3"
+                            },
+                        ];
+                        
+                        var layout = {
+                        grid: {rows: 1, columns: 3},
+                        annotations: [{
+                            text: "original",
+                            x: 0.1,
+                            y: 0.5,
+                            font: {size: 18},
+                            showarrow: false
+                            },{
+                            text: "American",
+                            x: 0.5,
+                            y: 0.5,
+                            font: {size: 18},
+                            showarrow: false
+                            },{
+                            text: "national",
+                            x: 0.9,
+                            y: 0.5,
+                            font: {size: 18},
+                            showarrow: false
+                            }
+                        ]
+                        };
+                        
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

@@ -1,0 +1,46 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 600px; height: 500px;"></div><script>
+                        
+                        var trace1 = {
+                        x: ["novela política","novela satírica","reseña","novela festiva","elegía"],
+                        y: [4,0,1,1,1],
+                        name: 'explicit signals',
+                        type: 'bar'
+                        };
+                        
+                        var trace2 = {
+                        x: ["novela política","novela satírica","reseña","novela festiva","elegía"],
+                        y: [27,0,0,0,0],
+                        name: 'implicit signals',
+                        type: 'bar'
+                        };
+                        
+                        var trace3 = {
+                        x: ["novela política","novela satírica","reseña","novela festiva","elegía"],
+                        y: [31,4,0,0,0],
+                        name: 'literary historical',
+                        type: 'bar'
+                        };
+                        
+                        var data = [trace1, trace2, trace3];
+                        
+                        var layout = {
+                        barmode: 'stack',
+                        font: {size: 14},
+                        legend: {
+                        x: 1,
+                        xanchor: 'right',
+                        y: 1,
+                        font: {size: 16}
+                        },
+                        title: 'Sources of subgenre labels related to the attitude in Bib-ACMé',
+                        xaxis: {title: 'subgenres', automargin: true},
+                        yaxis: {title: 'number of works'}
+                        };
+                        
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

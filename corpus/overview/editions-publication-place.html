@@ -1,0 +1,31 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 900px; height: 700px;"></div><script>
+                        var trace1 = {
+                        x: ["México","Buenos Aires","La Habana","Barcelona","Madrid","París","Mérida","La Plata","Zacatecas","Guadalajara","Matanzas","San Juan Bautista, Tabasco","unknown","Guatemala","San Luis Potosí","Nueva York","Santander","Veracruz","Cádiz","Mazatlán","Oaxaca","Valencia","Córdoba","Filadelfia","Guanajay, Pinar del Río","Puebla","San Cristóbal de Las Casas","Valparaíso","Campeche","Leipzig","Mendoza","Orizaba, Veracruz","Puerto Príncipe","Rosario","Río Grande City, Texas","San Juan","San Pedro","Santiago de Chile","Santiago de Cuba","Argentina","Barranquilla, Colombia","Cartagena de Indias, Colombia","Celaya, Guanajuato","Chiapas","Chihuahua","Chivilcoy","Ciudad Guzmán","Cuenca, México","Cárdenas, Matanzas","El Paso, Texas","Francia","Guadalupe","Génova","Iguala","Jalapa","La Paz","Lagos de Moreno","Lima","Los Ángeles","Montevideo","Motul","Pachuca","Paraná","Progreso de Castro","Puerto Rico","Remedios, Las Villas","Salamanca","San Antonio de los Baños, La Habana","San Antonio, Texas","Santa Fe","Sevilla","Tabasco","Tepic","Tixtla de Guerrera","Victoria","Villa Clara","Xalapa"],
+                        y: [417,400,103,68,50,42,15,13,10,8,8,8,8,7,7,6,6,5,4,4,4,4,3,3,3,3,3,3,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
+                        name: 'Bib-ACMé',
+                        type: 'bar'
+                        };
+                        
+                        var trace2 = {
+                        x: ["México","Buenos Aires","La Habana","Barcelona","Madrid","París","Mérida","La Plata","Zacatecas","Guadalajara","Matanzas","San Juan Bautista, Tabasco","unknown","Guatemala","San Luis Potosí","Nueva York","Santander","Veracruz","Cádiz","Mazatlán","Oaxaca","Valencia","Córdoba","Filadelfia","Guanajay, Pinar del Río","Puebla","San Cristóbal de Las Casas","Valparaíso","Campeche","Leipzig","Mendoza","Orizaba, Veracruz","Puerto Príncipe","Rosario","Río Grande City, Texas","San Juan","San Pedro","Santiago de Chile","Santiago de Cuba","Argentina","Barranquilla, Colombia","Cartagena de Indias, Colombia","Celaya, Guanajuato","Chiapas","Chihuahua","Chivilcoy","Ciudad Guzmán","Cuenca, México","Cárdenas, Matanzas","El Paso, Texas","Francia","Guadalupe","Génova","Iguala","Jalapa","La Paz","Lagos de Moreno","Lima","Los Ángeles","Montevideo","Motul","Pachuca","Paraná","Progreso de Castro","Puerto Rico","Remedios, Las Villas","Salamanca","San Antonio de los Baños, La Habana","San Antonio, Texas","Santa Fe","Sevilla","Tabasco","Tepic","Tixtla de Guerrera","Victoria","Villa Clara","Xalapa"],
+                        y: [152,178,41,38,25,17,8,2,0,1,6,5,0,7,1,5,4,0,0,2,2,2,0,0,0,0,0,3,0,2,0,2,2,1,1,1,0,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0],
+                        name: 'Conha19',
+                        type: 'bar'
+                        };
+                        
+                        var data = [trace1, trace2];
+                        
+                        var layout = {
+                            barmode: 'group',
+                            yaxis: {title: 'number of editions'},
+                            xaxis: {title: 'places', tickmode: 'linear', dtick: 1, tickangle: 270, automargin: true},
+                            legend: {x: 1, y: 1, xanchor: 'right'}
+                        };
+                        
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

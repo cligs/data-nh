@@ -1,0 +1,26 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 600px"></div><script>
+                        var data = [
+                        {
+                        x: ['pages', 'lines', 'words', 'characters'],
+                        y: [32,
+                        16,
+                        106,
+                        18],
+                        type: 'bar'
+                        }
+                        ];
+                        var layout = {
+                        xaxis: {
+                        tickfont: {size: 14},
+                        title: "type of gap"
+                        },
+                        yaxis: {title: "number"}
+                        }
+                        
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

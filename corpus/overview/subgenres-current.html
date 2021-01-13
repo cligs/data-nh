@@ -1,0 +1,94 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 800px; height: 800px;"></div><script>
+                        var trace1 = {
+                        x: ["novela romántica","novela realista","novela naturalista","novela modernista","novela verista","novela clasicista"],
+                        y: [269,122,81,8,5,3],
+                        name: 'Bib-ACMé',
+                        type: 'bar'
+                        };
+                        
+                        var trace2 = {
+                        x: ["novela romántica","novela realista","novela naturalista","novela modernista","novela verista","novela clasicista"],
+                        y: [121,70,60,6,3,1],
+                        name: 'Conha19',
+                        type: 'bar'
+                        };
+                        
+                        var data = [trace1, trace2];
+                        
+                        var layout = {
+                            barmode: 'group', 
+                            font: {size: 14},
+                            title: 'Subgenre labels related to literary currents in Bib-ACMé and Conha19',
+                            xaxis: {title: 'subgenres', automargin: true},
+                            yaxis: {title: 'number of works'},
+                            legend: {
+                            x: 1,
+                            xanchor: 'right',
+                            y: 1,
+                            font: {size: 16}
+                            },
+                            annotations: [
+                            {
+                                
+                                x: 0.05,
+                                y: 121,
+                                text: "45%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                font: {size: 14}
+                                },{
+                                
+                                x: 1.05,
+                                y: 70,
+                                text: "57%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                font: {size: 14}
+                                },{
+                                
+                                x: 2.05,
+                                y: 60,
+                                text: "74%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                font: {size: 14}
+                                },{
+                                
+                                x: 3.05,
+                                y: 6,
+                                text: "75%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                font: {size: 14}
+                                },{
+                                
+                                x: 4.05,
+                                y: 3,
+                                text: "60%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                font: {size: 14}
+                                },{
+                                
+                                x: 5.05,
+                                y: 1,
+                                text: "33%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                font: {size: 14}
+                                }]
+                        };
+                        
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

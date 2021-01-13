@@ -1,0 +1,46 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 800px; height: 800px;"></div><script>
+                        
+                        var trace1 = {
+                        x: ["novela romántica","novela realista","novela naturalista","novela modernista","novela verista","novela clasicista"],
+                        y: [0,6,5,0,0,0],
+                        name: 'explicit signal',
+                        type: 'bar'
+                        };
+                        
+                        var trace2 = {
+                        x: ["novela romántica","novela realista","novela naturalista","novela modernista","novela verista","novela clasicista"],
+                        y: [138,26,35,0,0,0],
+                        name: 'implicit signal',
+                        type: 'bar'
+                        };
+                        
+                        var trace3 = {
+                        x: ["novela romántica","novela realista","novela naturalista","novela modernista","novela verista","novela clasicista"],
+                        y: [180,113,76,8,5,3],
+                        name: 'literary historical',
+                        type: 'bar'
+                        };
+                        
+                        var data = [trace1, trace2, trace3];
+                        
+                        var layout = {
+                        font: {size: 14},
+                        barmode: 'stack',
+                        legend: {
+                        x: 1,
+                        xanchor: 'right',
+                        y: 1,
+                        font: {size: 16}
+                        },
+                        title: 'Sources of subgenre labels related to literary currents in Bib-ACMé',
+                        xaxis: {title: 'subgenres', automargin: true},
+                        yaxis: {title: 'number of works'}
+                        };
+                        
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

@@ -1,0 +1,30 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 600px; height: 700px;"></div><script>
+                        var data = [
+                        {
+                        y: [
+                        4536,6426,10017,4347,7749,10395,9261,3780,4914,10584,5859,4158,38934,8127,5292,3024,6048,7371,6048,6426,3780,6237,8694,6804,4536,10962,8127,8127,7560,4914,7749,25137,30429,7749,8883,3969,5859,6237,11907,5481,2268,5481,3591,3969,3213,4725,5481,6048,15687,7560,16821,12474,5103,3969,9450,3780,10395,13986,10773,9072,12096,23247,29672,62052,31596
+                        ],
+                        boxpoints: 'all',
+                        jitter: 1,
+                        pointpos: -2,
+                        type: 'box',
+                        name: 'novelas'
+                        }
+                        ];
+                        
+                        layout = {
+                        yaxis: {
+                        dtick: 10000,
+                        title: 'number of words'
+                        },
+                        xaxis: {tickfont: {size: 14}}
+                        };
+                        
+                        
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

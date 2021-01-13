@@ -1,0 +1,10 @@
+label_combination,amount_bib,amount_corp
+"novela americana-novela original",1,1
+"novela andaluza-novela regional",1,0
+"novela argentina-novela franco-argentina",1,1
+"novela criolla-novela regional",2,0
+"novela cubana-novela original",2,2
+"novela cubana-novela original-novela regional",1,1
+"novela mexicana-novela nacional",24,2
+"novela mexicana-novela original",1,1
+"novela regional-novela suriana",1,0

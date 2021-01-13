@@ -1,0 +1,54 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 600px; height: 600px;"></div><script>
+                        var trace1 = {
+                        x: ["before 1880", "in or after 1880"],
+                        y: [137,
+                        277],
+                        name: "Bib-ACMé",
+                        type: "bar"
+                        };
+                        
+                        var trace2 = {
+                        x: ["before 1880", "in or after 1880"],
+                        y: [54,
+                        87],
+                        name: "Conha19",
+                        type: "bar"
+                        };
+                        
+                        var data = [trace1, trace2];
+                        
+                        var layout = {
+                            xaxis: {tickmode: "linear", dtick: 1},
+                            barmode: "group",
+                            legend: {
+                                orientation: "h",
+                                font: {size: 16}
+                                },
+                            font: {size: 16},
+                            annotations: [{
+                                x: 0.2,
+                                y: 54,
+                                text: "39%",
+                                showarrow: false,
+                                xanchor: "center",
+                                yanchor: "bottom",
+                                font: {size: 16}
+                                },{
+                                x: 1.2,
+                                y: 87,
+                                text: "31%",
+                                showarrow: false,
+                                xanchor: "center",
+                                yanchor: "bottom",
+                                font: {size: 16}
+                                }
+                                
+                            ]
+                        };
+                        Plotly.newPlot("myDiv", data, layout);
+                    </script></body>
+</html>

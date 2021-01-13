@@ -1,0 +1,46 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 1200px; height: 800px;"></div><script>
+                        
+                        var trace1 = {
+                        x: ["novela sentimental","novela histórica","novela social","novela de costumbres","novela política","leyenda","novela criminal","novela de la ciudad","novela indigenista","novela gauchesca","novela moralista","novela policial","novela de aventuras","novela abolicionista","novela contemporánea","novela de viajes","novela de familia","crónica"],
+                        y: [2,136,16,60,4,44,3,0,0,0,4,13,4,1,7,7,0,6],
+                        name: 'explicit signal',
+                        type: 'bar'
+                        };
+                        
+                        var trace2 = {
+                        x: ["novela sentimental","novela histórica","novela social","novela de costumbres","novela política","leyenda","novela criminal","novela de la ciudad","novela indigenista","novela gauchesca","novela moralista","novela policial","novela de aventuras","novela abolicionista","novela contemporánea","novela de viajes","novela de familia","crónica"],
+                        y: [207,82,77,20,27,0,26,23,21,13,5,0,3,6,4,3,9,0],
+                        name: 'implicit signal',
+                        type: 'bar'
+                        };
+                        
+                        var trace3 = {
+                        x: ["novela sentimental","novela histórica","novela social","novela de costumbres","novela política","leyenda","novela criminal","novela de la ciudad","novela indigenista","novela gauchesca","novela moralista","novela policial","novela de aventuras","novela abolicionista","novela contemporánea","novela de viajes","novela de familia","crónica"],
+                        y: [103,121,112,85,31,0,20,4,15,15,6,0,6,12,0,1,1,4],
+                        name: 'literary historical',
+                        type: 'bar'
+                        };
+                        
+                        var data = [trace1, trace2, trace3];
+                        
+                        var layout = {
+                        barmode: 'stack', 
+                        font: {size: 14},
+                        legend: {
+                            x: 1,
+                            xanchor: 'right',
+                            y: 1,
+                            font: {size: 16}
+                        },
+                        title: 'Sources of thematic subgenre labels in Bib-ACMé',
+                        xaxis: {title: 'subgenres', automargin: true},
+                        yaxis: {title: 'number of works'}
+                        };
+                        
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

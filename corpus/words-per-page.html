@@ -1,0 +1,37 @@
+
+	<html>
+		<head>
+			<!-- Plotly.js -->
+			<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+		</head>
+		<body>
+			<!-- Plotly chart will be drawn inside this DIV -->
+			<div id="myDiv" style="width: 500px; height: 500px;"></div>
+			<script>
+				var data = [
+				{
+				y: [
+	202,251,212,198,229,146,145,316,100,119,145,134,475,254,292,284,303,246,147,208,125,249,295,256,178,227,201,141,210,242,195,162,129,111,147,167,192,178,211,199,196,181,184,184,255,237,98,226,313,262,133,157,272,159,100,169,163,50,121,127,241,263,179,137,83,213,258,228,215,169,290,285,133,165,208,190,262,226,128,166,134,154,142,186,154,144,252,231,231,254,166,171,184,214,247,220,182,247,78,82
+				],
+				boxpoints: 'all',
+				jitter: 1,
+				pointpos: -2,
+				type: 'box',
+				name: 'pages'
+				}
+				];
+				
+				layout = {
+				yaxis: {
+				dtick: 50,
+				title: 'number of words'
+				},
+				xaxis: {tickfont: {size: 14}}
+				};
+				
+				
+				Plotly.newPlot('myDiv', data, layout);
+			</script>
+		</body>
+	</html>
+	

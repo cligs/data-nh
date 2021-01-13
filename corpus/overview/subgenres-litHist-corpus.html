@@ -1,0 +1,31 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 900px; height: 700px;"></div><script>
+                        var trace1 = {
+                        x: ["novela romántica","novela social","novela de costumbres","novela realista","novela sentimental","novela naturalista","novela histórica","novela política","novela abolicionista","novela indigenista","novela modernista","novela gauchesca","novela científica","novela criminal","novela de aventuras","novela de la ciudad","novela moralista","novela regional","novela satírica","novela verista"],
+                        y: [109,79,72,64,62,57,56,21,10,8,6,5,4,4,4,4,3,3,3,3],
+                        name: 'Conha19',
+                        type: 'bar'
+                        };
+                        
+                        var trace2 = {
+                        x: ["novela romántica","novela social","novela de costumbres","novela realista","novela sentimental","novela naturalista","novela histórica","novela política","novela abolicionista","novela indigenista","novela modernista","novela gauchesca","novela científica","novela criminal","novela de aventuras","novela de la ciudad","novela moralista","novela regional","novela satírica","novela verista"],
+                        y: [180,112,85,112,102,76,120,31,12,15,8,15,4,20,6,4,6,3,4,5],
+                        name: 'Bib-ACMé',
+                        type: 'bar'
+                        };
+                        
+                        var data = [trace1, trace2];
+                        
+                        var layout = {
+                        barmode: 'group',
+                        yaxis: {title: 'number of assignments'},
+                        xaxis: {title: 'subgenre labels', tickmode: 'linear', dtick: 1, tickangle: 270, automargin: true},
+                        legend: {x: 1, y: 1, xanchor: 'right'}
+                        };
+                        
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

@@ -1,0 +1,529 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 900px; height: 1200px;"></div><script>
+                        var trace1 = {
+                        x: ["novela histórica","novela sentimental","novela de costumbres","novela social","novela política","other","none"],
+                        
+                        y: [161,110,57,63,18,112,75],
+                        xaxis: "x1",
+                        yaxis: "y1",
+                        type: "bar",
+                        name: "Mexico (Bib-ACMé)",
+                        domain: {row: 0, column: 0},
+                        legendgroup: "a"
+                        };
+                        var trace2 = {
+                        x: ["novela histórica","novela sentimental","novela de costumbres","novela social","novela política","other","none"],
+                        
+                        y: [65,84,43,85,31,178,41],
+                        xaxis: "x2",
+                        yaxis: "y2",
+                        type: "bar",
+                        name: "Argentina (Bib-ACMé)",
+                        domain: {row: 1, column: 0},
+                        legendgroup: "b"
+                        };
+                        var trace3 = {
+                        x: ["novela histórica","novela sentimental","novela de costumbres","novela social","novela política","other","none"],
+                        
+                        y: [18,58,33,29,2,59,18],
+                        xaxis: "x3",
+                        yaxis: "y3",
+                        type: "bar",
+                        name: "Cuba (Bib-ACMé)",
+                        domain: {row: 2, column: 0},
+                        legendgroup: "c"
+                        };
+                        var trace4 = {
+                        x: ["novela histórica","novela sentimental","novela de costumbres","novela social","novela política","other","none"],
+                        
+                        y: [43,38,39,43,15,35,0],
+                        xaxis: "x1",
+                        yaxis: "y1",
+                        type: "bar",
+                        name: "Mexico (Conha19)",
+                        domain: {row: 0, column: 0},
+                        legendgroup: "a"
+                        };
+                        var trace5 = {
+                        x: ["novela histórica","novela sentimental","novela de costumbres","novela social","novela política","other","none"],
+                        
+                        y: [27,35,31,42,12,73,0],
+                        xaxis: "x2",
+                        yaxis: "y2",
+                        type: "bar",
+                        name: "Argentina (Conha19)",
+                        domain: {row: 1, column: 0},
+                        legendgroup: "b"
+                        };
+                        var trace6 = {
+                        x: ["novela histórica","novela sentimental","novela de costumbres","novela social","novela política","other","none"],
+                        
+                        y: [12,22,22,17,1,23,0],
+                        xaxis: "x3",
+                        yaxis: "y3",
+                        type: "bar",
+                        name: "Cuba (Conha19)",
+                        domain: {row: 2, column: 0},
+                        legendgroup: "c"
+                        };
+                        var data = [trace1, trace2, trace3, trace4, trace5, trace6];
+                        var layout = {
+                        grid: {rows: 3, columns: 1},
+                        font: {size: 12},
+                        barmode: "group",
+                        legend: {font: {size: 14}},
+                        xaxis: {title: "subgenres", automargin: true},
+                        xaxis2: {anchor: "y2", title: "subgenres", automargin: true},
+                        xaxis3: {anchor: "y3", title: "subgenres", automargin: true},
+                        yaxis: {title: "number of works", range: [0,250], automargin: true},
+                        yaxis2: {title: "number of works", range: [0,250], automargin: true},
+                        yaxis3: {title: "number of works", range: [0,250], automargin: true},
+                        annotations: [
+                                {
+                                x: 0,
+                                y: 161,
+                                text: "41%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y1",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 0,
+                                y: 43,
+                                text: "40%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y1",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 1,
+                                y: 110,
+                                text: "28%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y1",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 1,
+                                y: 38,
+                                text: "35%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y1",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 2,
+                                y: 57,
+                                text: "14%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y1",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 2,
+                                y: 39,
+                                text: "36%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y1",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 3,
+                                y: 63,
+                                text: "16%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y1",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 3,
+                                y: 43,
+                                text: "40%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y1",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 4,
+                                y: 18,
+                                text: "5%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y1",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 4,
+                                y: 15,
+                                text: "14%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y1",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 5,
+                                y: 112,
+                                text: "28%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y1",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 5,
+                                y: 35,
+                                text: "32%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y1",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 6,
+                                y: 75,
+                                text: "19%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y1",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 6,
+                                y: 0,
+                                text: "0%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y1",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 0,
+                                y: 65,
+                                text: "21%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y2",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 0,
+                                y: 27,
+                                text: "27%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y2",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 1,
+                                y: 84,
+                                text: "28%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y2",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 1,
+                                y: 35,
+                                text: "35%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y2",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 2,
+                                y: 43,
+                                text: "14%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y2",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 2,
+                                y: 31,
+                                text: "31%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y2",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 3,
+                                y: 85,
+                                text: "28%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y2",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 3,
+                                y: 42,
+                                text: "42%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y2",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 4,
+                                y: 31,
+                                text: "10%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y2",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 4,
+                                y: 12,
+                                text: "12%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y2",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 5,
+                                y: 178,
+                                text: "59%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y2",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 5,
+                                y: 73,
+                                text: "74%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y2",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 6,
+                                y: 41,
+                                text: "14%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y2",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 6,
+                                y: 0,
+                                text: "0%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y2",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 0,
+                                y: 18,
+                                text: "14%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y3",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 0,
+                                y: 12,
+                                text: "24%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y3",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 1,
+                                y: 58,
+                                text: "44%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y3",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 1,
+                                y: 22,
+                                text: "45%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y3",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 2,
+                                y: 33,
+                                text: "25%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y3",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 2,
+                                y: 22,
+                                text: "45%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y3",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 3,
+                                y: 29,
+                                text: "22%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y3",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 3,
+                                y: 17,
+                                text: "35%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y3",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 4,
+                                y: 2,
+                                text: "2%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y3",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 4,
+                                y: 1,
+                                text: "2%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y3",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 5,
+                                y: 59,
+                                text: "45%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y3",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 5,
+                                y: 23,
+                                text: "47%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y3",
+                                font: {size: 12}
+                                }
+                                ,
+                                {
+                                x: 6,
+                                y: 18,
+                                text: "14%",
+                                showarrow: false,
+                                xanchor: "right",
+                                yanchor: "bottom",
+                                yref: "y3",
+                                font: {size: 12}
+                                },
+                                {
+                                x: 6,
+                                y: 0,
+                                text: "0%",
+                                showarrow: false,
+                                xanchor: "left",
+                                yanchor: "bottom",
+                                yref: "y3",
+                                font: {size: 12}
+                                }
+                                ]
+                        };
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

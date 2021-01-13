@@ -1,0 +1,31 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 900px; height: 700px;"></div><script>
+                        var trace1 = {
+                        x: ["novela","novela histórica","novela original","novela mexicana","novela de costumbres","episodios","memorias","leyenda","novela cubana","drama","novela nacional","historia","novela social","cuento","novela argentina","novela americana","novela policial","escenas","cuadros","ensayo"],
+                        y: [404,136,113,67,60,54,54,44,35,29,26,25,16,15,15,13,13,12,11,9],
+                        name: 'Bib-ACMé',
+                        type: 'bar'
+                        };
+                        
+                        var trace2 = {
+                        x: ["novela","novela histórica","novela original","novela mexicana","novela de costumbres","episodios","memorias","leyenda","novela cubana","drama","novela nacional","historia","novela social","cuento","novela argentina","novela americana","novela policial","escenas","cuadros","ensayo"],
+                        y: [134,40,36,28,34,11,9,5,20,11,3,8,6,9,7,5,4,1,8,2],
+                        name: 'Conha19',
+                        type: 'bar'
+                        };
+                        
+                        var data = [trace1, trace2];
+                        
+                        var layout = {
+                        barmode: 'group',
+                        yaxis: {title: 'number of assignments'},
+                        xaxis: {title: 'subgenre labels', tickmode: 'linear', dtick: 1, tickangle: 270, automargin: true},
+                        legend: {x: 1, y: 1, xanchor: 'right'}
+                        };
+                        
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

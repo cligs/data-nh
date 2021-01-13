@@ -1,0 +1,51 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 400px; height: 500px;"></div><script>
+                        var trace1 = {
+                        x: ["before 1880", "in or after 1880"],
+                        y: [81,150
+                        ],
+                        type: "bar",
+                        name: "America"
+                        
+                        };
+                        var trace2 = {
+                        x: ["before 1880", "in or after 1880"],
+                        y: [16,8
+                        ],
+                        type: "bar",
+                        name: "Europe"
+                        };
+                        
+                        var data = [trace1, trace2];
+                        var layout = {
+                        yaxis: {title: "number of works"},
+                        barmode: "group",
+                        annotations: [{
+                        
+                        x: 0.25,
+                        y: 16,
+                        text: "20%",
+                        showarrow: false,
+                        xanchor: "center",
+                        yanchor: "bottom",
+                        font: {size: 14}
+                        },
+                        {
+                        
+                        x: 1.25,
+                        y: 8,
+                        text: "5%",
+                        showarrow: false,
+                        xanchor: "center",
+                        yanchor: "bottom",
+                        font: {size: 14}
+                        }
+                        ]
+                        };
+                        
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

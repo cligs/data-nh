@@ -1,0 +1,85 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 600px; height: 500px;"></div><script>
+                        var trace1 = {
+                        x: ["novela política","novela satírica","reseña","novela festiva","elegía"],
+                        y: [51,4,1,1,1],
+                        name: 'Bib-ACMé',
+                        type: 'bar'
+                        };
+                        
+                        var trace2 = {
+                        x: ["novela política","novela satírica","reseña","novela festiva","elegía"],
+                        y: [28,3,0,0,1],
+                        name: 'Conha19',
+                        type: 'bar'
+                        };
+                        
+                        var data = [trace1, trace2];
+                        
+                        var layout = {
+                        barmode: 'group',
+                        font: {size: 14},
+                        legend: {
+                        x: 1,
+                        xanchor: 'right',
+                        y: 1,
+                        font: {size: 16}
+                        },
+                        title: 'Subgenre labels related to the attitude in Bib-ACMé and Conha19',
+                        xaxis: {title: 'subgenres', automargin: true},
+                        yaxis: {title: 'number of works'},
+                        annotations: [
+                        {
+                            
+                            x: 0,
+                            y: 28,
+                            text: "55%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 12}
+                            },{
+                            
+                            x: 1,
+                            y: 3,
+                            text: "75%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 12}
+                            },{
+                            
+                            x: 2,
+                            y: 0,
+                            text: "0%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 12}
+                            },{
+                            
+                            x: 3,
+                            y: 0,
+                            text: "0%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 12}
+                            },{
+                            
+                            x: 4,
+                            y: 1,
+                            text: "100%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 12}
+                            }]
+                        };
+                        
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

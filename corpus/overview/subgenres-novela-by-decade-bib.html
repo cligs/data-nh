@@ -1,0 +1,45 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 1000px; height: 600px;"></div><script>
+                            var trace1 = {
+                            type: "bar",
+                            name: "novela",
+                            x: [1830,1840,1850,1860,1870,1880,1890,1900,1910],
+                            
+                            
+                            y: [8,13,39,56,54,66,78,80,10]
+                            };
+                        
+                            var trace2 = {
+                            type: "bar",
+                            name: "other",
+                            x: [1830,1840,1850,1860,1870,1880,1890,1900,1910],
+                            
+                            
+                            y: [1,4,6,6,14,60,29,28,4]
+                            };
+                        
+                            var trace3 = {
+                            type: "bar",
+                            name: "none",
+                            x: [1830,1840,1850,1860,1870,1880,1890,1900,1910],
+                            
+                            
+                            y: [2,7,14,19,25,59,69,72,6]
+                            };
+                        
+                        
+                        var data = [trace1,trace2,trace3];
+                        var layout = {
+                        barmode: "stack",
+                        xaxis: {tickmode: "linear", dtick: 10, title: "decades", tickfont: {size: 16}},
+                        yaxis: {title: "number of works"},
+                        legend: {font: {size: 14}},
+                        font: {size: 16},
+                        colorway: ["rgb(31, 119, 180)","rgb(148, 103, 189)","rgb(227, 119, 194)"]
+                        };
+                        Plotly.newPlot("myDiv", data, layout);
+                    </script></body>
+</html>

@@ -1,0 +1,31 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 900px; height: 700px;"></div><script>
+                        var trace1 = {
+                        x: ["novela","novela sentimental","novela histórica","novela de costumbres","novela social","novela romántica","novela original","novela naturalista","novela mexicana","novela realista","novela cubana","novela política","drama","episodios","cuento","memorias","cuadros","historia","novela criminal","novela gauchesca"],
+                        y: [134,76,72,49,49,41,36,32,28,24,20,12,11,11,9,9,8,8,8,8],
+                        name: 'Conha19',
+                        type: 'bar'
+                        };
+                        
+                        var trace2 = {
+                        x: ["novela","novela sentimental","novela histórica","novela de costumbres","novela social","novela romántica","novela original","novela naturalista","novela mexicana","novela realista","novela cubana","novela política","drama","episodios","cuento","memorias","cuadros","historia","novela criminal","novela gauchesca"],
+                        y: [404,209,218,80,94,138,113,40,67,30,35,31,29,54,15,54,11,25,29,13],
+                        name: 'Bib-ACMé',
+                        type: 'bar'
+                        };
+                        
+                        var data = [trace1, trace2];
+                        
+                        var layout = {
+                        barmode: 'group',
+                        yaxis: {title: 'number of assignments'},
+                        xaxis: {title: 'subgenre labels', tickmode: 'linear', dtick: 1, tickangle: 270, automargin: true},
+                        legend: {x: 1, y: 1, xanchor: 'right'}
+                        };
+                        
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

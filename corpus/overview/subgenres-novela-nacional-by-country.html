@@ -1,0 +1,133 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 900px; height: 700px;"></div><script>
+                        var trace1 = {
+                        labels: ["novela mexicana","novela argentina","novela cubana","other","none"],
+                        
+                        values: [75,0,0,74,246],
+                        type: "pie",
+                        hole: 0.5,
+                        direction: "clockwise",
+                        name: "Mexico (Bib)",
+                        domain: {row: 0, column: 0}
+                        };
+                        var trace2 = {
+                        labels: ["novela mexicana","novela argentina","novela cubana","other","none"],
+                        
+                        values: [0,22,0,37,244],
+                        type: "pie",
+                        hole: 0.5,
+                        direction: "clockwise",
+                        name: "Argentina (Bib)",
+                        domain: {row: 0, column: 1}
+                        };
+                        var trace3 = {
+                        labels: ["novela mexicana","novela argentina","novela cubana","other","none"],
+                        
+                        values: [0,0,38,27,66],
+                        type: "pie",
+                        hole: 0.5,
+                        direction: "clockwise",
+                        name: "Cuba (Bib)",
+                        domain: {row: 0, column: 2}
+                        };
+                        var trace4 = {
+                        labels: ["novela mexicana","novela argentina","novela cubana","other","none"],
+                        
+                        values: [30,0,0,16,62],
+                        type: "pie",
+                        hole: 0.5,
+                        direction: "clockwise",
+                        name: "Mexico (Corp)",
+                        domain: {row: 1, column: 0}
+                        };
+                        var trace5 = {
+                        labels: ["novela mexicana","novela argentina","novela cubana","other","none"],
+                        
+                        values: [0,9,0,15,75],
+                        type: "pie",
+                        hole: 0.5,
+                        direction: "clockwise",
+                        name: "Argentina (Corp)",
+                        domain: {row: 1, column: 1}
+                        };
+                        var trace6 = {
+                        labels: ["novela mexicana","novela argentina","novela cubana","other","none"],
+                        
+                        values: [0,0,22,9,18],
+                        type: "pie",
+                        hole: 0.5,
+                        direction: "clockwise",
+                        name: "Cuba (Corp)",
+                        domain: {row: 1, column: 2}
+                        };
+                        var data = [trace1, trace2, trace3, trace4, trace5, trace6];
+                        var layout = {
+                        grid: {rows: 2, columns: 3},
+                        font: {size: 12},
+                        legend: {font: {size: 14}, orientation: "h"},
+                        colorway: ["rgb(227, 119, 194)","rgb(44, 160, 44)","rgb(148, 103, 189)","rgb(31, 119, 180)","rgb(214, 39, 40)"],
+                        annotations: [
+                        {
+                        font: {
+                        size: 12
+                        },
+                        showarrow: false,
+                        text: 'Mexico (Bib)',
+                        x: 0.1,
+                        y: 0.78
+                        },
+                        {
+                        font: {
+                        size: 12
+                        },
+                        showarrow: false,
+                        text: 'Argentina (Bib)',
+                        x: 0.5,
+                        y: 0.78
+                        },
+                        ,
+                        {
+                        font: {
+                        size: 12
+                        },
+                        showarrow: false,
+                        text: 'Cuba (Bib)',
+                        x: 0.89,
+                        y: 0.78
+                        },
+                        {
+                        font: {
+                        size: 12
+                        },
+                        showarrow: false,
+                        text: 'Mexico (Corp)',
+                        x: 0.09,
+                        y: 0.22
+                        },
+                        {
+                        font: {
+                        size: 12
+                        },
+                        showarrow: false,
+                        text: 'Argentina (Corp)',
+                        x: 0.5,
+                        y: 0.22
+                        },
+                        ,
+                        {
+                        font: {
+                        size: 12
+                        },
+                        showarrow: false,
+                        text: 'Cuba (Corp)',
+                        x: 0.9,
+                        y: 0.22
+                        }
+                        ]
+                        };
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

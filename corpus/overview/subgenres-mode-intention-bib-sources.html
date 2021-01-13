@@ -1,0 +1,46 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 800px; height: 600px;"></div><script>
+                        
+                        var trace1 = {
+                        x: ["novela moralista","estudio","novela humorística","novela didáctica","novela de propaganda","novela cómica","entretenimientos","lecturas","novela curiosa","juguete","novela enciclopédica","comedia de carácter","novela de horrores"],
+                        y: [4,7,4,1,2,2,2,1,1,1,1,1,1],
+                        name: 'explicit signals',
+                        type: 'bar'
+                        };
+                        
+                        var trace2 = {
+                        x: ["novela moralista","estudio","novela humorística","novela didáctica","novela de propaganda","novela cómica","entretenimientos","lecturas","novela curiosa","juguete","novela enciclopédica","comedia de carácter","novela de horrores"],
+                        y: [5,0,2,2,0,0,0,0,0,0,0,0,0],
+                        name: 'implicit signals',
+                        type: 'bar'
+                        };
+                        
+                        var trace3 = {
+                        x: ["novela moralista","estudio","novela humorística","novela didáctica","novela de propaganda","novela cómica","entretenimientos","lecturas","novela curiosa","juguete","novela enciclopédica","comedia de carácter","novela de horrores"],
+                        y: [5,0,0,2,0,0,0,0,0,0,0,0,0],
+                        name: 'literary historical',
+                        type: 'bar'
+                        };
+                        
+                        var data = [trace1, trace2, trace3];
+                        
+                        var layout = {
+                        barmode: 'stack',
+                        font: {size: 14},
+                        legend: {
+                        x: 1,
+                        xanchor: 'right',
+                        y: 1,
+                        font: {size: 16}
+                        },
+                        title: 'Sources of subgenre labels related to the intention in Bib-ACMé',
+                        xaxis: {title: 'subgenres', automargin: true},
+                        yaxis: {title: 'number of works'}
+                        };
+                        
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

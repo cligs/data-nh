@@ -1,0 +1,58 @@
+label_combination,amount_bib,amount_corp
+"apuntamientos-cuadros-narración",1,1
+"apuntes-novela",2,1
+"bosquejo-cuadros",1,0
+"capricho-novela",1,0
+"confesiones-episodios",1,1
+"confesiones-memorias",1,0
+"crónica-drama",4,2
+"crónica-drama-tragedia",1,1
+"crónica-ensayo-novela",1,1
+"crónica-novela",5,3
+"crónica-novela epistolar",1,1
+"crónica-novela-páginas",1,1
+"cuadros-cuento",2,1
+"cuadros-escenas-novela",1,0
+"cuadros-estudio",1,1
+"cuadros-novela",5,4
+"cuento-episodios",1,1
+"cuento-memorias",2,1
+"cuento-novela",1,1
+"cuento-romance",1,0
+"drama-episodios",1,1
+"drama-novela",2,1
+"drama-tragedia",2,1
+"ensayo-memorias-novela",1,0
+"ensayo-novela",5,2
+"ensayo-novela analítica",1,1
+"episodios-historia-novela",7,0
+"episodios-historia-novela-tragedia",1,0
+"episodios-memorias-novela",19,1
+"episodios-novela",33,5
+"episodios-novela-relación",1,1
+"episodios-relato",1,0
+"esbozos-novela",1,1
+"escenas-novela",2,0
+"estudio-novela",2,2
+"estudio-novela-novela filosófica",1,1
+"fragmentos-memorias",2,0
+"historia-novela",14,3
+"historia-novela psicológica",1,1
+"medallones-panorama-perfiles",1,1
+"memorias-novela",39,6
+"memorias-novela anecdótica-relato",4,0
+"memorias-novela psicológica",1,0
+"memorias-páginas",2,0
+"memorias-silueta",1,0
+"narración-novela anecdótica",1,0
+"notas-novela-novela psicológica",1,0
+"novela filosófica-reflexiones",1,0
+"novela-novela corta",3,0
+"novela-novela epistolar",3,2
+"novela-novela epistolar-novela psicológica",1,1
+"novela-novela filosófica",3,1
+"novela-perfiles",1,1
+"novela-páginas",3,1
+"novela-relato",5,1
+"novela-romance",2,2
+"novela-tragedia",2,0

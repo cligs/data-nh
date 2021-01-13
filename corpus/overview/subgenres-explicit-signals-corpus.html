@@ -1,0 +1,31 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 900px; height: 700px;"></div><script>
+                        var trace1 = {
+                        x: ["novela","novela histórica","novela original","novela de costumbres","novela mexicana","novela cubana","drama","episodios","cuento","memorias","cuadros","historia","novela argentina","novela social","estudio","leyenda","novela americana","novela realista","crónica","novela militar"],
+                        y: [134,40,36,34,28,20,11,11,9,9,8,8,7,6,5,5,5,5,4,4],
+                        name: 'Conha19',
+                        type: 'bar'
+                        };
+                        
+                        var trace2 = {
+                        x: ["novela","novela histórica","novela original","novela de costumbres","novela mexicana","novela cubana","drama","episodios","cuento","memorias","cuadros","historia","novela argentina","novela social","estudio","leyenda","novela americana","novela realista","crónica","novela militar"],
+                        y: [404,136,113,60,67,35,29,54,15,54,11,25,15,16,7,44,13,6,6,7],
+                        name: 'Bib-ACMé',
+                        type: 'bar'
+                        };
+                        
+                        var data = [trace1, trace2];
+                        
+                        var layout = {
+                        barmode: 'group',
+                        yaxis: {title: 'number of assignments'},
+                        xaxis: {title: 'subgenre labels', tickmode: 'linear', dtick: 1, tickangle: 270, automargin: true},
+                        legend: {x: 1, y: 1, xanchor: 'right'}
+                        };
+                        
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

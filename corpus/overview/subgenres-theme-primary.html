@@ -1,0 +1,55 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 900px; height: 950px;"></div><script>
+                        var labels_bib = ["novela social","novela sentimental","novela histórica","novela de costumbres","novela criminal","none","novela política","novela de viajes","novela filosófica","novela moralista","novela psicológica","Künstlerroman","leyenda","novela de la ciudad","confesiones","novela regional","novela científica","novela abolicionista","novela indigenista","crónica","novela gauchesca","novela didáctica","novela de familia","novela de aventuras","novela fantástica","novela picaresca","novela doméstica","novela militar","novela biográfica"]
+                        var labels_corp = ["novela sentimental","novela de costumbres","novela social","novela histórica","novela política","novela psicológica","Künstlerroman","novela de la ciudad","novela abolicionista","novela moralista","novela de viajes","novela criminal","novela gauchesca","novela científica","novela indigenista","novela doméstica"]
+                        var values_bib = [97,172,221,82,30,134,25,6,2,5,3,4,5,5,1,3,6,5,6,1,2,1,1,4,3,1,1,2,1]
+                        var values_corp = [55,50,45,67,13,2,2,2,4,2,1,5,1,5,1,1]
+                        var data = [{
+                        values: values_bib,
+                        labels: labels_bib,
+                        type: "pie",
+                        direction: "clockwise",
+                        name: "Bib-ACMé",
+                        domain: {row: 0, column: 0},
+                        hole: 0.4
+                        },{
+                        values: values_corp,
+                        labels: labels_corp,
+                        type: "pie",
+                        direction: "clockwise",
+                        name: "Conha19",
+                        domain: {row: 0, column: 1},
+                        hole: 0.4
+                        }];
+                        
+                        var layout = {
+                        grid: {rows: 1, columns: 2},
+                        annotations: [
+                        {
+                        font: {
+                        size: 18
+                        },
+                        showarrow: false,
+                        text: 'Bib-ACMé',
+                        x: 0.16,
+                        y: 0.5
+                        },
+                        {
+                        font: {
+                        size: 18
+                        },
+                        showarrow: false,
+                        text: 'Conha19',
+                        x: 0.84,
+                        y: 0.5
+                        }
+                        ],
+                        legend: {font: {size: 16}}
+                        };
+                        
+                        Plotly.newPlot("myDiv", data, layout);
+                    </script></body>
+</html>

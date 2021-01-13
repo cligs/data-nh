@@ -1,0 +1,46 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 1200px; height: 800px;"></div><script>
+                        
+                        var trace1 = {
+                        x: ["novela original","novela mexicana","novela cubana","novela nacional","novela argentina","novela americana","novela regional","novela criolla","novela bonaerense","novela porteña","novela habanera","novela yucateca","novela suriana","novela romana","novela tapatía","novela patriótica","novela india","novela franco-argentina","novela mixteca","novela de Tabasco","novela azteca","novela camagüeyana","novela siciliana","novela kantabro-americana","novela andaluza"],
+                        y: [113,67,35,26,15,13,3,4,4,3,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1],
+                        name: 'explicit signals',
+                        type: 'bar'
+                        };
+                        
+                        var trace2 = {
+                        x: ["novela original","novela mexicana","novela cubana","novela nacional","novela argentina","novela americana","novela regional","novela criolla","novela bonaerense","novela porteña","novela habanera","novela yucateca","novela suriana","novela romana","novela tapatía","novela patriótica","novela india","novela franco-argentina","novela mixteca","novela de Tabasco","novela azteca","novela camagüeyana","novela siciliana","novela kantabro-americana","novela andaluza"],
+                        y: [0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+                        name: 'implicit signals',
+                        type: 'bar'
+                        };
+                        
+                        var trace3 = {
+                        x: ["novela original","novela mexicana","novela cubana","novela nacional","novela argentina","novela americana","novela regional","novela criolla","novela bonaerense","novela porteña","novela habanera","novela yucateca","novela suriana","novela romana","novela tapatía","novela patriótica","novela india","novela franco-argentina","novela mixteca","novela de Tabasco","novela azteca","novela camagüeyana","novela siciliana","novela kantabro-americana","novela andaluza"],
+                        y: [0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+                        name: 'literary historical',
+                        type: 'bar'
+                        };
+                        
+                        var data = [trace1, trace2, trace3];
+                        
+                        var layout = {
+                        barmode: 'stack',
+                        font: {size: 14},
+                        legend: {
+                        x: 1,
+                        xanchor: 'right',
+                        y: 1,
+                        font: {size: 16}
+                        },
+                        title: 'Sources of subgenre labels related to the identity in Bib-ACMé',
+                        xaxis: {title: 'subgenres', automargin: true},
+                        yaxis: {title: 'number of works'}
+                        };
+                        
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

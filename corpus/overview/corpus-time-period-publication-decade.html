@@ -1,0 +1,200 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 900px; height: 600px;"></div><script>
+                        var trace1 = {
+                        x: [1830,1840,1850,1860,1870,1880,1890,1900,1910],
+                        y: [1,10,14,18,24,49,48,22,2],
+                        type: "bar",
+                        name: "contemporary"
+                        
+                        };
+                        var trace2 = {
+                        x: [1830,1840,1850,1860,1870,1880,1890,1900,1910],
+                        y: [0,2,3,9,4,7,7,8,0],
+                        type: "bar",
+                        name: "past"
+                        };
+                        var trace3 = {
+                        x: [1830,1840,1850,1860,1870,1880,1890,1900,1910],
+                        y: [1,1,2,5,4,3,5,6,1],
+                        type: "bar",
+                        name: "recent past"
+                        };
+                        
+                        var data = [trace1, trace2, trace3];
+                        var layout = {
+                        yaxis: {title: "number of works"},
+                        xaxis: {title: "decades"},
+                        barmode: "group",
+                        annotations: [
+                        {
+                            
+                            x: 1828.25,
+                            y: 0,
+                            text: "0%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 11}
+                            },{
+                            
+                            x: 1838.25,
+                            y: 2,
+                            text: "15%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 11}
+                            },{
+                            
+                            x: 1848.25,
+                            y: 3,
+                            text: "16%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 11}
+                            },{
+                            
+                            x: 1858.25,
+                            y: 9,
+                            text: "28%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 11}
+                            },{
+                            
+                            x: 1868.25,
+                            y: 4,
+                            text: "13%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 11}
+                            },{
+                            
+                            x: 1878.25,
+                            y: 7,
+                            text: "12%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 11}
+                            },{
+                            
+                            x: 1888.25,
+                            y: 7,
+                            text: "12%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 11}
+                            },{
+                            
+                            x: 1898.25,
+                            y: 8,
+                            text: "22%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 11}
+                            },{
+                            
+                            x: 1908.25,
+                            y: 0,
+                            text: "0%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 11}
+                            },
+                        {
+                            
+                            x: 1831.25,
+                            y: 1,
+                            text: "50%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 11}
+                            },{
+                            
+                            x: 1841.25,
+                            y: 1,
+                            text: "8%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 11}
+                            },{
+                            
+                            x: 1851.25,
+                            y: 2,
+                            text: "11%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 11}
+                            },{
+                            
+                            x: 1861.25,
+                            y: 5,
+                            text: "16%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 11}
+                            },{
+                            
+                            x: 1871.25,
+                            y: 4,
+                            text: "13%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 11}
+                            },{
+                            
+                            x: 1881.25,
+                            y: 3,
+                            text: "5%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 11}
+                            },{
+                            
+                            x: 1891.25,
+                            y: 5,
+                            text: "8%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 11}
+                            },{
+                            
+                            x: 1901.25,
+                            y: 6,
+                            text: "17%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 11}
+                            },{
+                            
+                            x: 1911.25,
+                            y: 1,
+                            text: "33%",
+                            showarrow: false,
+                            xanchor: "left",
+                            yanchor: "bottom",
+                            font: {size: 11}
+                            }]
+                        };
+                        
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

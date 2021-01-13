@@ -1,0 +1,2 @@
+\b\w*[aei]rse\b
+\b\w*[aeiáéí]r(se)?l[eao]s?\b

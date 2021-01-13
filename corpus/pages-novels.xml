@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="acronym">Bib-ACMé</title>
+                <title level="m" type="main">Bibliografía digital de novelas argentinas, cubanas y
+                    mexicanas (1830-1910)</title>
+                <title level="a">Ediciones selectas</title>
+                <principal xml:id="uhk">Ulrike Henny-Krahmer</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <pubPlace>Würzburg</pubPlace>
+                <date when="2019">2019</date>
+                <idno type="url">http://bibacme.cligs.digital-humanities.de/</idno>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct corresp="works.xml#W2" xml:id="E2">
+                    <monogr>
+                        <author key="A1">Aguilar, Ventura</author>
+                        <title type="main" level="m">Noche penal</title>
+                        <title type="sub" level="m">(Episodio de circunstancias)</title>
+                        <imprint>
+                            <publisher>Imprenta de Buffet y Bosch</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1888">1888</date>
+                        </imprint>
+                        <extent n="67">67 pp.</extent>
+                    </monogr>
+                    <ref>https://es.wikisource.org/wiki/Noche_penal</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W3" xml:id="E268">
+                    <monogr>
+                        <author key="A1">Aguilar, Ventura</author>
+                        <title type="main" level="m">Otilia</title>
+                        <title type="sub" level="m">Novela americana</title>
+                        <imprint>
+                            <publisher>Henrich</publisher>
+                            <pubPlace corresp="countries.xml#ES">Barcelona</pubPlace>
+                            <date when="1895">1895</date>
+                        </imprint>
+                        <extent n="319">319 pp.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/100327394</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W7" xml:id="E10">
+                    <monogr>
+                        <author key="A4">Alberto, Jorge</author>
+                        <title type="main" level="m">Estela</title>
+                        <imprint>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <date when="1880">1880</date>
+                        </imprint>
+                        <extent n="171">171 pp.</extent>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/7/7d/Estela_-_Alberto_Jorge.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W9" xml:id="E269">
+                    <monogr>
+                        <author key="A6">Álvarez, José Sixto</author>
+                        <title type="main" level="m">En el mar austral</title>
+                        <title type="sub" level="m">(Croquis fueguinos)</title>
+                        <imprint>
+                            <publisher>Ivaldi y Checchi</publisher>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <date when="1898">1898</date>
+                        </imprint>
+                        <extent n="262">262 pp.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/enelmaraustrl00fragoog</ref>
+                    <ref>https://catalog.hathitrust.org/Record/006532387</ref>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/0/09/En_el_Mar_Austral_-_Fray_Mocho_-_Jose_Seferino_Alvarez.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W14" xml:id="E18">
+                    <monogr>
+                        <author key="A0">Anónimo</author>
+                        <title type="main" level="m">El niño expósito</title>
+                        <title type="sub" level="m">Novela escrita por el "reporter" de Luz del
+                            Alma</title>
+                        <imprint>
+                            <publisher>Luz del Alma</publisher>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <date when="1887">1887</date>
+                        </imprint>
+                        <extent n="175">175 pp.</extent>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/a/af/El_ni%C3%B1o_exposito_-_Luz_del_Alma.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W18" xml:id="E24">
+                    <monogr>
+                        <author key="A11">Astort, Antonio</author>
+                        <title type="main" level="m">El despotismo del oro</title>
+                        <title type="sub" level="m">Novela original</title>
+                        <imprint>
+                            <publisher>Presa</publisher>
+                            <pubPlace corresp="countries.xml#ES">Barcelona</pubPlace>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1910">1910</date>
+                        </imprint>
+                        <extent n="224">224 pp.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/001369280</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W541" xml:id="E776">
+                    <monogr>
+                        <author key="A219">Morante, Pedro G.</author>
+                        <title level="m" type="main">Grandezas</title>
+                        <title level="m" type="sub">Novela</title>
+                        <imprint>
+                            <publisher>Félix Lajouane</publisher>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <date when="1896">1896</date>
+                        </imprint>
+                        <extent n="317">317 pp.</extent>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/9/9c/Grandezas_-_Pedro_G._Morante.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W23" xml:id="E29">
+                    <monogr>
+                        <author key="A13">Zamacois, Niceto de</author>
+                        <title type="main" level="m">El Capítan Rossi</title>
+                        <title type="sub" level="m">Novela histórica original</title>
+                        <imprint>
+                            <publisher>Imprenta Literaria</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1864">1864</date>
+                        </imprint>
+                        <extent n="1346">3 tomos: 452 pp.; 455 pp.; 439 pp.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/008448970</ref>
+                    <ref>https://cd.dgb.uanl.mx/handle/201504211/14743</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W24" xml:id="E30">
+                    <monogr>
+                        <author key="A13">Zamacois, Niceto de</author>
+                        <title type="main" level="m">El mendigo</title>
+                        <title type="sub" level="m">Novela histórica original</title>
+                        <imprint>
+                            <publisher>Imprenta Literaria</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date from="1864" to="1865">1864-1865</date>
+                        </imprint>
+                        <extent n="2204">4 tomos, 2204 pp.: 551 pp.; 561 pp.; 558 pp.; 534
+                            pp.</extent>
+                    </monogr>
+                    <ref>https://cd.dgb.uanl.mx/handle/201504211/14814</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W25" xml:id="E31">
+                    <monogr>
+                        <author key="A13">Zamacois, Niceto de</author>
+                        <title type="main" level="m">La destrucción de Pompeya</title>
+                        <imprint>
+                            <publisher>Imprenta de Ignacio Cumplido</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1871">1871</date>
+                        </imprint>
+                        <extent n="705">4°, 2 tomos en un volumen: 246 pp.; 459 pp.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/100163001</ref>
+                    <ref>https://cd.dgb.uanl.mx/handle/201504211/12770</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W546" xml:id="E782">
+                    <monogr>
+                        <author key="A223">Ocantos, Carlos María</author>
+                        <title level="m" type="main">Don Perfecto</title>
+                        <imprint>
+                            <publisher>Montaner y Simón</publisher>
+                            <pubPlace corresp="countries.xml#ES">Barcelona</pubPlace>
+                            <date when="1902">1902</date>
+                        </imprint>
+                        <extent n="295">295 pp.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Novelas argentinas por Carlos María
+                            Ocantos</title>
+                    </series>
+                    <ref>https://catalog.hathitrust.org/Record/001052995</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W34" xml:id="E40">
+                    <monogr>
+                        <author key="A17">Zayas Guarneros, Pablo</author>
+                        <title type="main" level="m">Herencias de bienes robados</title>
+                        <title type="sub" level="m">Cuestión de honra en la lucha por la
+                            vida</title>
+                        <title type="sub" level="m">Novela de costumbres</title>
+                        <imprint>
+                            <publisher>Tipografía La Española</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1899">1899</date>
+                            <biblScope unit="part">primera parte</biblScope>
+                        </imprint>
+                        <extent n="326">2 volúmenes en 4°, 191 y 135 pp., con láminas</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/001721757</ref>
+                    <ref>https://books.google.de/books?id=BbjQpP66eV0C</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W36" xml:id="E42">
+                    <monogr>
+                        <author key="A17">Zayas Guarneros, Pablo</author>
+                        <title type="main" level="m">Amor sublime</title>
+                        <title type="sub" level="m">Novela de costumbres mexicanas</title>
+                        <title type="sub" level="m">Estudio filosófico sobre la nobleza del corazón
+                            y la del linaje</title>
+                        <imprint>
+                            <publisher>Maucci Hermanos</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1899">1899</date>
+                        </imprint>
+                        <extent n="409">En 4°, 409 pp., con láminas</extent>
+                    </monogr>
+                    <series>
+                        <title level="s">Biblioteca Mexicana</title>
+                    </series>
+                    <note>A la v.: Imp. de la Casa Ed. Maucci, Barcelona.</note>
+                    <ref>https://catalog.hathitrust.org/Record/100408372</ref>
+                    <ref>https://books.google.de/books/about/Amor_sublime.html?id=wUxEAQAAMAAJ</ref>
+                    <ref>http://bdh.bne.es/bnesearch/detalle/bdh0000143350</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W38" xml:id="E49">
+                    <monogr>
+                        <author key="A19">Zambrana y Vázquez, Antonio</author>
+                        <title type="main" level="m">El negro Francisco</title>
+                        <title type="sub" level="m">Novela orijinal de costumbres cubanas</title>
+                        <imprint>
+                            <publisher>Imprenta de la Librería del Mercurio</publisher>
+                            <pubPlace corresp="countries.xml#CH">Santiago</pubPlace>
+                            <date when="1875">1875</date>
+                        </imprint>
+                        <extent n="182">x, 182 pp.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/100333165</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W42" xml:id="E53">
+                    <monogr>
+                        <author key="A22">Villaverde, Cirilo</author>
+                        <title type="main" level="m">La joven de la flecha de oro</title>
+                        <title type="sub" level="m">Historia habanera</title>
+                        <imprint>
+                            <publisher>Imp. de R. Oliva</publisher>
+                            <pubPlace corresp="countries.xml#CU">La Habana</pubPlace>
+                            <date when="1841">1841</date>
+                        </imprint>
+                        <extent n="327">En 12°, 327, (1) ps.</extent>
+                    </monogr>
+                    <ref>https://books.google.de/books?id=PpECAAAAYAAJ</ref>
+                    <ref>https://catalog.hathitrust.org/Record/011617769</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W59" xml:id="E78">
+                    <monogr>
+                        <author key="A25">Bahamonde, Manuel</author>
+                        <title type="main" level="m">Mareos</title>
+                        <title type="sub" level="m">(Novela americana)</title>
+                        <imprint>
+                            <publisher>B. Valdettaro</publisher>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <date when="1892">1892</date>
+                        </imprint>
+                        <extent n="225">225 pp.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/008715185</ref>
+                </biblStruct>
+                <biblStruct corresp="W62" xml:id="E81">
+                    <monogr>
+                        <author key="A27">Barra, Emma de la</author>
+                        <title type="main" level="m">El manantial</title>
+                        <imprint>
+                            <publisher>Angel Estrada</publisher>
+                            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+                            <date when="1908">1908</date>
+                        </imprint>
+                        <extent n="264">264 pp.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/008715131</ref>
+                    <ref>https://catalog.hathitrust.org/Record/008904593</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W63" xml:id="E82">
+                    <monogr>
+                        <author key="A27">Barra, Emma de la</author>
+                        <title type="main" level="m">Mecha Iturbe</title>
+                        <imprint>
+                            <publisher>Maucci</publisher>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <date when="1906">1906</date>
+                        </imprint>
+                        <extent n="526">526 pp.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/009833713</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W64" xml:id="E85">
+                    <monogr>
+                        <author key="A27">Barra, Emma de la</author>
+                        <title type="main" level="m">Stella</title>
+                        <imprint>
+                            <publisher>J. Cúneo</publisher>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <date when="1906">1906</date>
+                        </imprint>
+                        <extent n="480">480 pp.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/008715142</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W67" xml:id="E91">
+                    <monogr>
+                        <author key="A29">Barreda, Rafael</author>
+                        <title type="main" level="m">Pepa Larrica</title>
+                        <imprint>
+                            <publisher>Imprenta de El Nacional</publisher>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <date when="1899">1899</date>
+                        </imprint>
+                        <extent resp="#Lichtblau_1997" n="584">La novela se divide en tres partes, con
+                            sendas paginaciones: I. Las dos tragedias, 232 pp.; II. La confesión de
+                            un médico, 160 pp.; III. Religión o muerte, 192 pp.</extent>
+                    </monogr>
+                    <ref>http://resolver.iai.spk-berlin.de/IAI0000602E00010000</ref>
+                    <ref>http://resolver.iai.spk-berlin.de/IAI0000602E00020000</ref>
+                    <ref>http://resolver.iai.spk-berlin.de/IAI0000602E00030000</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W83" xml:id="E107">
+                    <monogr>
+                        <author key="A38">Bunge, Carlos Octavio</author>
+                        <title level="m" type="main">La novela de la sangre</title>
+                        <imprint>
+                            <publisher>D. Jorro</publisher>
+                            <pubPlace corresp="countries.xml#ES">Madrid</pubPlace>
+                            <date when="1903">1903</date>
+                        </imprint>
+                        <extent n="468">468 pp.</extent>
+                    </monogr>
+                    <ref>https://books.google.de/books/about/La_novela_de_la_sangre.html?id=RxFLAAAAIAAJ</ref>
+                    <ref>https://catalog.hathitrust.org/Record/001522740</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W84" xml:id="E110">
+                    <monogr>
+                        <author key="A38">Bunge, Carlos Octavio</author>
+                        <title level="m" type="main">Xarcas silenciario</title>
+                        <title level="m" type="sub">(Novela)</title>
+                        <imprint>
+                            <publisher>Henrich</publisher>
+                            <pubPlace corresp="countries.xml#ES">Barcelona</pubPlace>
+                            <date when="1903">1903</date>
+                        </imprint>
+                        <extent n="251">251 pp.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/2864878.0001.001.umich.edu</ref>
+                    <ref>https://catalog.hathitrust.org/Record/002864878</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W91" xml:id="E119">
+                    <monogr>
+                        <author key="A39">Valle, Guillermo del</author>
+                        <editor>Lic. Miguel Román</editor>
+                        <title level="m" type="main">El Millón de Libras Esterlinas</title>
+                        <title level="m" type="sub">Novela original</title>
+                        <edition>tercera edición</edition>
+                        <imprint>
+                            <publisher>Tipografía Enrique García</publisher>
+                            <pubPlace corresp="countries.xml#MX">Zacatecas</pubPlace>
+                            <date when="1907">1907</date>
+                        </imprint>
+                        <extent n="139">En 16°, de 139 pp.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/100629952</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W111" xml:id="E141">
+                    <monogr>
+                        <author key="A56">Cabral, José Victoriano</author>
+                        <title level="m" type="main">Amelia de Floriani o el castillo del
+                            diablo</title>
+                        <title level="m" type="sub">(Novela histórica)</title>
+                        <imprint>
+                            <publisher>Imprenta de M. Biedma</publisher>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <date when="1887">1887</date>
+                        </imprint>
+                        <extent n="840">2 tomos: 438 y 402 pp.</extent>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/a/aa/Amelia_de_Floriani_-_Jose_Victoriano_Cabral-_v1.pdf</ref>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/d/d1/Amelia_de_Floriani_-_Jose_Victoriano_Cabral_-_v2.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W113" xml:id="E143">
+                    <monogr>
+                        <author key="A56">Cabral, José Victoriano</author>
+                        <title level="m" type="main">Lina Montalván, o el terremoto que destruyó el
+                            Callao y la ciudad de Lima en 1746</title>
+                        <imprint>
+                            <publisher>El Porvenir</publisher>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <date when="1880">1880</date>
+                        </imprint>
+                        <extent n="280">280 pp.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/linamontalvnoel00cabrgoog</ref>
+                    <ref>https://catalog.hathitrust.org/Record/007371558</ref>
+                    <note>"Con una reseña sobre el descubrimiento del Perú, a que se agrega (sic)
+                        algunas reminiscencias históricas acerca de su independencia."</note>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W116" xml:id="E147">
+                    <monogr>
+                        <author key="A58">Cambaceres, Eugenio</author>
+                        <title type="main" level="a">En la sangre</title>
+                        <imprint>
+                            <publisher>Sud-América</publisher>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <date when="1887">1887</date>
+                        </imprint>
+                        <extent n="290">290 pp.</extent>
+                    </monogr>
+                    <ref>https://upload.wikimedia.org/wikipedia/commons/1/1b/En_la_sangre_-_Eugenio_Cambaceres.pdf</ref>
+                    <ref>https://catalog.hathitrust.org/Record/100653860</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W149" xml:id="E191">
+                    <monogr>
+                        <author key="A77">Tovar, Pantaleón</author>
+                        <title level="m" type="main">Ironías de la vida</title>
+                        <title level="m" type="sub">Novela de costumbres nacionales</title>
+                        <imprint>
+                            <publisher>Imprenta de J. M. Lara</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1851">1851</date>
+                            <biblScope unit="volume">Tomo I</biblScope>
+                        </imprint>
+                        <extent n="784">2 volúmenes en 4°, 392 pp. cada uno</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/ironiasdelavidan01tova</ref>
+                    <ref>https://archive.org/details/ironiasdelavidan02tova</ref>
+                    <ref>http://bdh.bne.es/bnesearch/detalle/bdh0000045225</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W153" xml:id="E195">
+                    <analytic>
+                        <author key="A79">Salado Álvarez, Victoriano</author>
+                        <title level="a" type="main">Las ranas pidiendo rey</title>
+                        <title level="a" type="sub">Confesiones de una afrancesada</title>
+                        <title level="a" type="sub">(1861-62)</title>
+                    </analytic>
+                    <monogr>
+                        <title level="m" type="main">La Intervención y el Imperio
+                            (1861-1867)</title>
+                        <title level="m" type="sub">Por el Lic. D. Victoriano Salado Álvarez,
+                            Correspondiente de la Academia Mexicana de la Lengua</title>
+                        <title level="m" type="sub">Dibujos de D. A. Utrillo</title>
+                        <imprint>
+                            <publisher>Ed. J. Ballescá y Cía., Suc.; Impr. y Lit. de Henrich y
+                                Cía.</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1903">1903</date>
+                        </imprint>
+                        <extent n="2782">4 volúmenes en 4°: vol. I, 754, (4) pp. más 41 láminas;
+                            vol. II, 737, (5) pp. más 44 láminas; vol. III, 578, (4) pp. más 38
+                            láminas; vol. IV, 713, (4) pp. más 31 láminas</extent>
+                        <biblScope unit="volume">tomo I</biblScope>
+                        <biblScope unit="page" n="292">11-303</biblScope>
+                    </monogr>
+                    <series>
+                        <title level="s">Episodios Nacionales Mexicanos</title>
+                        <biblScope unit="part">segunda serie</biblScope>
+                    </series>
+                    <ref>https://archive.org/details/laintervencinye02alvagoog</ref>
+                    <ref>https://archive.org/details/laintervencinye00unkngoog</ref>
+                    <ref>https://archive.org/details/laintervencinye01unkngoog</ref>
+                    <ref>https://archive.org/details/laintervencinye00alvagoog</ref>
+                    <ref>https://cd.dgb.uanl.mx/handle/201504211/13318</ref>
+                </biblStruct>
+                <biblStruct corresp="W154" xml:id="E196">
+                    <monogr>
+                        <author key="A80">Salas y Quiroga, Jacinto de</author>
+                        <title level="m" type="main">El dios del siglo</title>
+                        <title level="m" type="sub">Novela original de costumbres
+                            contemporáneas</title>
+                        <title level="m" type="sub">Por D. Jacinto de Salas y Quiroga</title>
+                        <imprint>
+                            <publisher>Imprenta de Ignacio Cumplido</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1853">1853</date>
+                        </imprint>
+                        <extent n="411">En 4°, 411 pp.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/eldiosdelsiglono00salauoft</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W156" xml:id="E198">
+                    <monogr>
+                        <author key="A82">San Juan, Manuel H.</author>
+                        <title level="m" type="main">El Señor Gobernador</title>
+                        <title level="m" type="sub">Breves apuntamientos sobre cosas nacionales del
+                            siglo pasado</title>
+                        <title level="m" type="sub">Con un prólogo de D. Luis González
+                            Obregón</title>
+                        <imprint>
+                            <publisher>Imprenta y Encuadernación de M. Nava</publisher>
+                            <pubPlace corresp="countries.xml#MX">Oaxaca</pubPlace>
+                            <date when="1901">1901</date>
+                        </imprint>
+                        <extent n="158">En 8°, (2), VIII, 158 pp.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s">Narraciones mexicanas</title>
+                    </series>
+                    <note>(Subscrita en México en junio de 1902.)</note>
+                    <ref>http://132.248.9.32:8080/fondoantiguo2/1481749-16272/JPEG/Index.html</ref>
+                    <ref>https://catalog.hathitrust.org/Record/006513933</ref>
+                    <ref>https://catalog.hathitrust.org/Record/012309312</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W162" xml:id="E204">
+                    <monogr>
+                        <author key="A84">Sánchez Mármol, Manuel</author>
+                        <title level="m" type="main">Antón Pérez</title>
+                        <title level="m" type="sub">Novela</title>
+                        <imprint>
+                            <publisher>F. Díaz de León</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1903">1903</date>
+                        </imprint>
+                        <extent n="216">En 4°, 216 pp.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/006533360</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W163" xml:id="E205">
+                    <monogr>
+                        <author key="A84">Sánchez Mármol, Manuel</author>
+                        <title level="m" type="main">Previvida</title>
+                        <title level="m" type="sub">Novela</title>
+                        <imprint>
+                            <publisher>Imprenta de I. Escalante</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1906">1906</date>
+                        </imprint>
+                        <extent n="243">En 8°, 243 pp.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/101404044</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W166" xml:id="E209">
+                    <monogr>
+                        <author key="A84">Sánchez Mármol, Manuel</author>
+                        <title level="m" type="main">Juanita Sousa</title>
+                        <edition>segunda edición</edition>
+                        <imprint>
+                            <publisher>F. Laso y Compañía</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1901">1901</date>
+                        </imprint>
+                        <extent n="201">201 pp.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/101404043</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W168" xml:id="E212">
+                    <monogr>
+                        <author key="A85">Segale, Atenógenes</author>
+                        <title level="a" type="main">Auras de abril</title>
+                        <title level="a" type="sub">Novela</title>
+                        <imprint>
+                            <publisher>Imprenta de El Tiempo</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1897">1897</date>
+                        </imprint>
+                        <extent n="242">En 8°, 242 pp.</extent>
+                    </monogr>
+                    <note>Escrita en 1892.</note>
+                    <ref>http://132.248.9.32:8080/fondoantiguo2/1481747-16275/JPEG/Index.html</ref>
+                    <ref>https://catalog.hathitrust.org/Record/101404074</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W184" xml:id="E238">
+                    <monogr>
+                        <author key="A88">Sierra, Luis G. de la</author>
+                        <title level="m" type="main">Carmen en amparo de la obrera</title>
+                        <title level="m" type="sub">Lecturas morales</title>
+                        <imprint>
+                            <publisher>Tipografía de la Secretaría de Fomento</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1894">1894</date>
+                        </imprint>
+                        <extent n="115">En 4°, XI, 115 pp.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/006116725</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W186" xml:id="E242">
+                    <monogr>
+                        <author key="A90">Silva, Agapito</author>
+                        <title level="m" type="main">Ernestina</title>
+                        <title level="m" type="sub">Escenas del mundo real</title>
+                        <imprint>
+                            <publisher>Imprenta y Litografía de Ireneo Paz</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1886">1886</date>
+                        </imprint>
+                        <extent n="296">En 8°, 296 pp.</extent>
+                    </monogr>
+                    <ref>http://132.248.9.32:8080/fondoantiguo2/1481901-687274/JPEG/Index.html</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W188" xml:id="E244">
+                    <monogr>
+                        <author key="A91">Sosa, Francisco</author>
+                        <title level="m" type="main">Magdalena</title>
+                        <title level="m" type="sub">Leyenda histórica</title>
+                        <imprint>
+                            <publisher>Imprenta de F. Díaz de León y S. White</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1871">1871</date>
+                        </imprint>
+                        <extent n="83">En 4°, 83 pp.</extent>
+                    </monogr>
+                    <note>Publicada por primera vez en El Domingo.</note>
+                    <ref>http://cd.dgb.uanl.mx/handle/201504211/9797</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W212" xml:id="E276">
+                    <monogr>
+                        <author key="A95">Daireaux, Godofredo</author>
+                        <title level="m" type="main">Las dos patrias</title>
+                        <title level="m" type="sub">(Novela argentina.)</title>
+                        <imprint>
+                            <publisher>La Nación</publisher>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <date when="1908">1908</date>
+                        </imprint>
+                        <extent n="315">315 pp.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/101405895</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W217" xml:id="E283">
+                    <monogr>
+                        <author key="A99">Díaz Olazábal, Rodolfo</author>
+                        <title level="m" type="main">Buenos Aires cosmopolita</title>
+                        <title level="m" type="sub">Novela</title>
+                        <imprint>
+                            <publisher>José Bosch</publisher>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <date when="1900">1900</date>
+                        </imprint>
+                        <extent n="220">220 pp.</extent>
+                    </monogr>
+                    <ref>https://archive.org/details/aqc4355.0001.001.umich.edu</ref>
+                    <ref>https://archive.org/details/buenosairescosm01olazgoog</ref>
+                    <ref>https://archive.org/details/buenosairescosm00olazgoog</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W223" xml:id="E289">
+                    <monogr>
+                        <author key="A101">Rabasa, Emilio</author>
+                        <title level="m" type="main">La Bola</title>
+                        <title level="m" type="sub">Novela original de Sancho Polo</title>
+                        <imprint>
+                            <publisher>Tipografía de Alfonso E. López y Compañía</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1887">1887</date>
+                        </imprint>
+                        <extent n="230">En 8°, de 230 pp.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/008618567</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W233" xml:id="E304">
+                    <monogr>
+                        <author key="A102">Ramírez, José María</author>
+                        <title level="m" type="main">Una rosa y un harapo</title>
+                        <title level="m" type="sub">Novela original</title>
+                        <imprint>
+                            <publisher>Imprenta de F. Díaz de León y Santiago White, ed.</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1868">1868</date>
+                        </imprint>
+                        <extent n="438">En 4°, 438 pp.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/011536606</ref>
+                    <ref>https://archive.org/details/unarosayunharap00ramgoog</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W235" xml:id="E307">
+                    <monogr>
+                        <author key="A104">Olavarría y Ferrari, Enrique</author>
+                        <title level="m" type="main">La derrota de las Cruces</title>
+                        <title level="m" type="sub">Memorias de un criollo</title>
+                        <title level="m" type="sub">1810</title>
+                        <imprint>
+                            <publisher>Dublán y Compañía, Editores; Imprenta del
+                                Comercio</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1880">1880</date>
+                        </imprint>
+                        <extent n="200">1 vol. en 8°, 200 pp.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s" type="main">Episodios nacionales mexicanos</title>
+                        <title level="s" type="sub">por Eduardo Ramos</title>
+                    </series>
+                    <ref>http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/11000023225.pdf</ref>
+                    <ref>http://bdh-rd.bne.es/viewer.vm?id=0000125193</ref>
+                    <ref>https://archive.org/details/3747786</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W236" xml:id="E308">
+                    <monogr>
+                        <author key="A104">Olavarría y Ferrari, Enrique</author>
+                        <title level="m" type="main">La Virgen de los Remedios</title>
+                        <title level="m" type="sub">Memorias de un criollo</title>
+                        <title level="m" type="sub">1810</title>
+                        <imprint>
+                            <publisher>Dublán y Compañía, Editores; Imprenta del
+                                Comercio</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1880">1880</date>
+                        </imprint>
+                        <extent n="205">1 vol. en 8°, 205 pp.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s">Episodios nacionales mexicanos</title>
+                    </series>
+                    <ref>http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/12000026046.pdf</ref>
+                    <ref>http://bdh-rd.bne.es/viewer.vm?id=0000125194</ref>
+                    <ref>http://132.248.9.32:8080/fondoantiguo6/1418983-665067/JPEG/Index.html</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W237" xml:id="E309">
+                    <monogr>
+                        <author key="A104">Olavarría y Ferrari, Enrique</author>
+                        <title level="m" type="main">Las perlas de la reina Luisa</title>
+                        <title level="m" type="sub">Memorias de un criollo</title>
+                        <title level="m" type="sub">1808</title>
+                        <imprint>
+                            <publisher>Dublán y Compañía, Editores; Imprenta del
+                                Comercio</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1880">1880</date>
+                        </imprint>
+                        <extent n="208">1 vol. en 8°, 208 pp.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s">Episodios nacionales mexicanos</title>
+                    </series>
+                    <ref>http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/11000023226.pdf</ref>
+                    <ref>http://bdh-rd.bne.es/viewer.vm?id=0000040110</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W238" xml:id="E310">
+                    <monogr>
+                        <author key="A104">Olavarría y Ferrari, Enrique</author>
+                        <title level="m" type="main">El puente de Calderón</title>
+                        <title level="m" type="sub">Memorias de un criollo</title>
+                        <imprint>
+                            <publisher>Dublán y Compañía, Editores; Imprenta del
+                                Comercio</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1880">1880</date>
+                        </imprint>
+                        <extent n="214">1 vol. en 8°, 214 pp.</extent>
+                    </monogr>
+                    <series>
+                        <title level="s">Episodios nacionales mexicanos</title>
+                    </series>
+                    <ref>http://bdh-rd.bne.es/viewer.vm?id=0000125173</ref>
+                </biblStruct>
+                <biblStruct corresp="W259" xml:id="E350">
+                    <monogr>
+                        <author key="A105">Rebolledo, Efrén</author>
+                        <title level="m" type="main">Hojas de bambú</title>
+                        <imprint>
+                            <publisher>Cía. Ed. Nacional, S. A.</publisher>
+                            <pubPlace corresp="MX">México</pubPlace>
+                            <date when="1910">1910</date>
+                        </imprint>
+                        <extent n="51">En 8°, 51 pp.</extent>
+                    </monogr>
+                    <note>(Subscrita en San Francisco, California, septiembre, 1910)</note>
+                    <ref>https://archive.org/details/3747790</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W263" xml:id="E355">
+                    <monogr>
+                        <author key="A108">Riva Palacio, Vicente</author>
+                        <title type="main" level="m">Martín Garatuza</title>
+                        <title type="sub" level="m">Memorias de la Inquisición</title>
+                        <imprint>
+                            <publisher>Ed. Manuel C. de Villegas</publisher>
+                            <publisher>Imprenta de la Constitución Social</publisher>
+                            <pubPlace corresp="countries.xml#MX">México</pubPlace>
+                            <date when="1868">1868</date>
+                        </imprint>
+                        <extent n="606">4°, 606 pp., con láminas</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/100859929</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W538" xml:id="E773">
+                    <monogr>
+                        <author key="A217">Mohr, Luis Alberto</author>
+                        <title level="m" type="main">Alberto Trejo</title>
+                        <title level="m" type="sub">(Historia de la vida íntima)</title>
+                        <imprint>
+                            <publisher>E. de Mársico</publisher>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <date when="1888">1888</date>
+                        </imprint>
+                        <extent n="256">256 pp.</extent>
+                    </monogr>
+                    <ref>https://commons.wikimedia.org/wiki/File:Alberto_Trejo_-_Luis_A._Mohr.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W545" xml:id="E781">
+                    <monogr>
+                        <author key="A223">Ocantos, Carlos María</author>
+                        <title level="m" type="main">La cruz de la falta</title>
+                        <imprint>
+                            <publisher>Pablo E. Coni</publisher>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <date when="1883">1883</date>
+                        </imprint>
+                        <extent n="179">179 pp.</extent>
+                    </monogr>
+                    <ref>https://catalog.hathitrust.org/Record/007371881</ref>
+                    <!-- unvollständig -->
+                    <ref>https://commons.wikimedia.org/wiki/File:La_cruz_de_la_falta_-_Carlos_Maria_Ocantos.pdf</ref>
+                </biblStruct>
+                <biblStruct corresp="works.xml#W115" xml:id="E1820">
+                    <monogr>
+                        <author key="A58">Cambaceres, Eugenio</author>
+                        <title type="main" level="m">Sin rumbo</title>
+                        <title type="sub" level="m">(Estudio)</title>
+                        <edition>segunda edición</edition>
+                        <imprint>
+                            <publisher>Félix Lajouane</publisher>
+                            <pubPlace corresp="countries.xml#AR">Buenos Aires</pubPlace>
+                            <date when="1885">1885</date>
+                        </imprint>
+                        <extent n="295">295 pp.</extent>
+                    </monogr>
+                    <ref>http://www.cervantesvirtual.com/obra/sin-rumbo--0/</ref>
+                    <ref>https://catalog.hathitrust.org/Record/008297094</ref>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>
+

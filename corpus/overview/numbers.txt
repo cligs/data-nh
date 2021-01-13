@@ -1,0 +1,72 @@
+Number of different works in Bib-ACMé: 829
+Number of different works in Conha19: 256 (30.880579010856453559 %)
+Number of different authors in Bib-ACMé: 383
+Number of different authors in Conha19: 121 (31.592689295039164491 %)
+Mean number of works per author in Bib-ACMé: 2.164490861618798956
+Mean number of works per author in Conha19: 2.115702479338842975
+Number of works written by male authors in Bib-ACMé: 756 (91.194209891435464415 %)
+Number of works written by female authors in Bib-ACMé: 58 (6.996381182147165259 %)
+Number of works written by authors of unknown gender in Bib-ACMé: 15 (1.809408926417370326 %)
+Number of works written by male authors in Conha19: 229 (89.453125 %)
+Number of works written by female authors in Conha19: 26 (10.15625 %)
+Number of works written by authors of unknown gender in Conha19: 1 (0.390625 %)
+Number of authors with unknown birth date (Bib-ACMé): 129
+Number of authors with unknown birth date (Conha19): 11
+Number of authors with unknown death date (Bib-ACMé): 136
+Number of authors with unknown death date (Conha19): 13
+Novels in Conha19 with first person narrator: 44 (17.1875%)
+Novels in Conha19 with third person narrator: 212 (82.8125%)
+Novels in Conha19 that are high prestige: 174 (67.96875%)
+Novels in Conha19 that are low prestige: 82 (32.03125%)
+Number of editions in Bib-ACMé: 1220
+Number of editions in Conha19: 498 (40.819672131147540984%)
+Number of novels with explicit subgenre signal in Bib-ACMé: 622 (75.030156815440289505%)
+Number of novels with explicit subgenre signal Conha19: 204 (79.6875%)
+Number of novels carrying the explicit label "novela" in Bib-ACMé: 404 (48.733413751507840772%)
+Number of novels carrying the explicit label "novela" in Conha19: 134 (52.34375%)
+Number of novels with "identity labels" in Bib-ACMé: 272 (32.810615199034981906%)
+Number of novels with "identity labels" in Conha19: 100 (39.0625%)
+Number of novels with implicit signals in Bib-ACMé: 511 (61.640530759951749095%)
+Number of novels with implicit signals in Conha19: 207 (80.859375%)
+Number of novels with signals in Bib-ACMé: 738 (89.022919179734620024%)
+Number of novels with signals in Conha19: 254 (99.21875%)
+Number of novels with literary historical subgenre assignments in Bib-ACMé: 433 (52.231604342581423402%)
+Number of novels with literary historical subgenre assignments in Conha19: 224 (87.5%)
+Overall number of different subgenre labels in Bib-ACMé: 124
+Overall number of different subgenre labels in Conha19: 90
+Overall amount of subgenre labels in Bib-ACMé: 3192
+Overall amount of subgenre labels in Conha19: 1316
+Overall number of different explicit subgenre labels in Bib-ACMé: 108
+Overall number of different explicit subgenre labels in Conha19: 70
+Overall amount of explicit subgenre labels in Bib-ACMé: 1669
+Overall amount of explicit subgenre labels in Conha19: 564
+Overall number of different literary historical subgenre labels in Bib-ACMé: 34
+Overall number of different literary historical subgenre labels in Conha19: 32
+Overall amount of literary historical subgenre labels in Bib-ACMé: 1119
+Overall amount of literary historical subgenre labels in Conha19: 685
+Number of different thematic subgenre labels in Bib-ACMé: 48
+Number of thematic subgenre labels in Bib-ACMé that are assigned to at least 10 works: 18
+Number of different subgenre labels related to literary currents in Bib-ACMé: 6
+Number of different subgenre labels related to the mode of representation in Bib-ACMé: 45
+Number of subgenre labels related to the mode of representation in Bib-ACMé that are assigned to at least 5 works: 17
+Number of different subgenre labels related to the mode of reality in Bib-ACMé: 10
+Number of different subgenre labels related to the identity in Bib-ACMé: 25
+Number of different subgenre labels related to the medium in Bib-ACMé: 14
+Number of different subgenre labels related to the attitude in Bib-ACMé: 5
+Number of different subgenre labels related to the intention in Bib-ACMé: 13
+Number of works with thematic subgenre labels in Bib-ACMé: 695 (83.83594692400482509%)
+Number of works with thematic subgenre labels in Conha19: 256 (100%)
+Number of works with subgenre labels related to literary currents in Bib-ACMé: 405 (48.854041013268998794%)
+Number of works with subgenre labels related to literary currents in Conha19: 201 (78.515625%)
+Number of works with subgenre labels related to the mode of representation in Bib-ACMé: 556 (67.068757539203860072%)
+Number of works with subgenre labels related to the mode of representation in Conha19: 188 (73.4375%)
+Number of works with subgenre labels related to the mode of reality in Bib-ACMé: 279 (33.655006031363088058%)
+Number of works with subgenre labels related to the mode of reality in Conha19: 95 (37.109375%)
+Number of works with identity subgenre labels in Bib-ACMé: 273 (32.931242460796139928%)
+Number of works with identity subgenre labels in Conha19: 101 (39.453125%)
+Number of works with subgenre labels related to the medium in Bib-ACMé: 47 (5.669481302774427021%)
+Number of works with subgenre labels related to the medium in Conha19: 23 (8.984375%)
+Number of works with subgenre labels related to the attitude in Bib-ACMé: 57 (6.875753920386007238%)
+Number of works with subgenre labels related to the attitude in Conha19: 32 (12.5%)
+Number of works with subgenre labels related to the intention in Bib-ACMé: 34 (4.101326899879372738%)
+Number of works with subgenre labels related to the intention in Conha19: 15 (5.859375%)

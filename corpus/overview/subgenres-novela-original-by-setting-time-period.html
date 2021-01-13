@@ -1,0 +1,75 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 1000px; height: 400px;"></div><script>
+                        var trace1 = {
+                        labels: ["novela original","other","none"],
+                        
+                        values: [29,44,115],
+                        type: "pie",
+                        hole: 0.5,
+                        direction: "clockwise",
+                        name: "contemporary",
+                        domain: {row: 0, column: 0}
+                        };
+                        var trace2 = {
+                        labels: ["novela original","other","none"],
+                        
+                        values: [2,11,27],
+                        type: "pie",
+                        hole: 0.5,
+                        direction: "clockwise",
+                        name: "past",
+                        domain: {row: 0, column: 1}
+                        };
+                        var trace3 = {
+                        labels: ["novela original","other","none"],
+                        
+                        values: [5,10,13],
+                        type: "pie",
+                        hole: 0.5,
+                        direction: "clockwise",
+                        name: "recent past",
+                        domain: {row: 0, column: 2}
+                        };
+                        
+                        var data = [trace1, trace2, trace3];
+                        var layout = {
+                        grid: {rows: 1, columns: 3},
+                        font: {size: 12},
+                        legend: {font: {size: 14}},
+                        colorway: ["rgb(227, 119, 194)","rgb(148, 103, 189)","rgb(31, 119, 180)"],
+                        annotations: [
+                        {
+                        font: {
+                        size: 16
+                        },
+                        showarrow: false,
+                        text: 'contemp.',
+                        x: 0.1,
+                        y: 0.5
+                        },
+                        {
+                        font: {
+                        size: 16
+                        },
+                        showarrow: false,
+                        text: 'past',
+                        x: 0.5,
+                        y: 0.5
+                        },
+                        {
+                        font: {
+                        size: 16
+                        },
+                        showarrow: false,
+                        text: 'recent',
+                        x: 0.88,
+                        y: 0.5
+                        }
+                        ]
+                        };
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

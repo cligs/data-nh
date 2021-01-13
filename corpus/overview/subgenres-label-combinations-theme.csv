@@ -1,0 +1,157 @@
+label_combination,amount_bib,amount_corp
+"Bildungsroman-novela de costumbres",2,2
+"Bildungsroman-novela de costumbres-novela picaresca",1,1
+"Künstlerroman-confesiones-novela sentimental",1,1
+"Künstlerroman-novela de la ciudad-novela social",1,1
+"Künstlerroman-novela histórica-novela sentimental-novela social",1,1
+"Künstlerroman-novela psicológica",1,0
+"Künstlerroman-novela sentimental",4,4
+"Künstlerroman-novela social",3,3
+"comedia de carácter-novela de costumbres-novela política",1,1
+"confesiones-novela histórica",1,1
+"crónica-novela de familia-novela histórica-novela sentimental-novela social",1,1
+"crónica-novela histórica",5,4
+"crónica-novela histórica-novela sentimental",3,2
+"crónica-novela política",4,2
+"crónica-novela política-tragedia",1,1
+"elegía-novela de costumbres-novela histórica-novela sentimental",1,1
+"epopeya-novela de la ciudad-novela histórica",1,0
+"leyenda-novela histórica",29,5
+"leyenda-novela histórica-novela indigenista",2,0
+"leyenda-novela histórica-novela moralista",2,0
+"leyenda-novela histórica-novela moralista-novela patriótica",1,0
+"leyenda-novela histórica-novela sentimental",6,1
+"leyenda-novela histórica-tradición",1,0
+"leyenda-novela indigenista",6,0
+"leyenda-novela indigenista-novela sentimental-novela social",1,0
+"leyenda-novela indigenista-novela social",3,0
+"leyenda-novela psicológica-novela sentimental",1,0
+"leyenda-novela sentimental",13,1
+"novela abolicionista-novela de costumbres",8,6
+"novela abolicionista-novela de costumbres-novela histórica-novela indigenista-novela sentimental-novela social",1,1
+"novela abolicionista-novela de costumbres-novela regional-novela sentimental-novela social",1,1
+"novela abolicionista-novela de costumbres-novela regional-novela social",2,2
+"novela abolicionista-novela de costumbres-novela sentimental-novela social",4,4
+"novela abolicionista-novela de costumbres-novela social",6,5
+"novela abolicionista-novela de familia-novela social",1,1
+"novela abolicionista-novela histórica",2,2
+"novela abolicionista-novela sentimental-novela social",5,5
+"novela abolicionista-novela social",9,8
+"novela biográfica-novela de aventuras-novela histórica",1,0
+"novela biográfica-novela histórica",2,1
+"novela biográfica-novela picaresca",1,0
+"novela biográfica-tragedia",1,0
+"novela científica-novela de la ciudad",1,0
+"novela científica-novela de viajes",2,2
+"novela científica-novela de viajes-novela espiritista-novela fantástica",1,1
+"novela científica-novela fantástica",2,2
+"novela contemporánea-novela de actualidad-novela de costumbres-novela social",1,1
+"novela contemporánea-novela de actualidad-novela social",2,1
+"novela contemporánea-novela de costumbres-novela social",4,3
+"novela contemporánea-novela histórica-novela política",3,0
+"novela contemporánea-novela histórica-novela política-tragedia",1,0
+"novela contemporánea-novela histórica-novela sentimental-novela social-romance",1,1
+"novela contemporánea-novela sentimental-novela social",2,2
+"novela contemporánea-novela social",8,6
+"novela criminal-novela de aventuras-novela de costumbres-novela de la ciudad-novela gauchesca-novela social",1,0
+"novela criminal-novela de aventuras-novela de costumbres-novela gauchesca-novela policial-novela social",3,2
+"novela criminal-novela de costumbres-novela de crímenes-novela histórica-novela sentimental",1,1
+"novela criminal-novela de costumbres-novela histórica-romance",1,1
+"novela criminal-novela de familia-novela jurídica-novela social",1,1
+"novela criminal-novela de misterio",2,1
+"novela criminal-novela de misterio-novela policial",1,1
+"novela criminal-novela de viajes",1,0
+"novela criminal-novela gauchesca-novela policial",8,2
+"novela criminal-novela histórica",5,2
+"novela criminal-novela histórica-novela social",1,0
+"novela criminal-novela jurídica-novela policial",1,1
+"novela criminal-novela jurídica-novela sentimental",1,1
+"novela criminal-novela policial",13,4
+"novela criminal-novela policial-novela sentimental",1,0
+"novela de aventuras-novela de costumbres-novela gauchesca-novela política",1,1
+"novela de aventuras-novela de viajes",1,1
+"novela de aventuras-novela en acción-novela sentimental",1,0
+"novela de aventuras-novela gauchesca-novela social",5,2
+"novela de aventuras-novela histórica",2,0
+"novela de costumbres-novela de familia-novela sentimental-novela social",1,1
+"novela de costumbres-novela de familia-novela social",2,2
+"novela de costumbres-novela de la ciudad-novela política-novela social",1,1
+"novela de costumbres-novela de la ciudad-novela sentimental",3,3
+"novela de costumbres-novela de la ciudad-novela sentimental-novela social",2,2
+"novela de costumbres-novela de la ciudad-novela social",7,4
+"novela de costumbres-novela filosófica",2,1
+"novela de costumbres-novela filosófica-novela sentimental",1,1
+"novela de costumbres-novela gauchesca-novela histórica-novela militar-novela social",1,1
+"novela de costumbres-novela gauchesca-novela sentimental-novela social",1,1
+"novela de costumbres-novela gauchesca-novela social",7,4
+"novela de costumbres-novela histórica",16,14
+"novela de costumbres-novela histórica-novela moralista-novela sentimental",1,1
+"novela de costumbres-novela histórica-novela picaresca-novela sentimental",1,1
+"novela de costumbres-novela histórica-novela política",3,3
+"novela de costumbres-novela histórica-novela política-novela sentimental-novela social",1,1
+"novela de costumbres-novela histórica-novela política-novela social",2,2
+"novela de costumbres-novela histórica-novela popular-tradición",1,0
+"novela de costumbres-novela histórica-novela sentimental",8,7
+"novela de costumbres-novela histórica-novela social",5,5
+"novela de costumbres-novela indigenista",3,2
+"novela de costumbres-novela moralista-novela social",2,1
+"novela de costumbres-novela política",13,12
+"novela de costumbres-novela política-novela social",6,6
+"novela de costumbres-novela popular-novela social",1,0
+"novela de costumbres-novela regional",5,3
+"novela de costumbres-novela regional-novela sentimental",2,1
+"novela de costumbres-novela sentimental",37,30
+"novela de costumbres-novela sentimental-novela social",16,16
+"novela de costumbres-novela sentimental-romance",1,0
+"novela de costumbres-novela social",58,48
+"novela de familia-novela de la ciudad-novela social",1,0
+"novela de familia-novela histórica-novela indigenista-novela social",1,0
+"novela de familia-novela social",10,6
+"novela de la ciudad-novela histórica",3,0
+"novela de la ciudad-novela sentimental",10,4
+"novela de la ciudad-novela sentimental-novela social",3,2
+"novela de la ciudad-novela social",13,6
+"novela de misterio-novela sentimental",1,1
+"novela de propaganda-novela política-novela social",2,0
+"novela de viajes-novela indigenista-novela sentimental",1,0
+"novela de viajes-novela sentimental",4,0
+"novela didáctica-novela enciclopédica",1,0
+"novela didáctica-novela fantástica-novela moralista-novela social",1,0
+"novela didáctica-novela moralista-novela sentimental",1,0
+"novela didáctica-novela moralista-novela social",2,0
+"novela didáctica-novela social",3,0
+"novela documentaria-novela histórica",1,1
+"novela doméstica-novela social",2,2
+"novela fantástica-novela histórica",2,0
+"novela fantástica-novela política",1,1
+"novela fantástica-novela sentimental",1,0
+"novela filosófica-novela moralista",1,0
+"novela gauchesca-novela histórica",7,5
+"novela gauchesca-novela histórica-novela militar",5,4
+"novela gauchesca-novela sentimental",2,2
+"novela histórica-novela indigenista",15,7
+"novela histórica-novela indigenista-novela política-novela social",1,1
+"novela histórica-novela indigenista-novela sentimental-novela social",3,2
+"novela histórica-novela indigenista-novela social",9,7
+"novela histórica-novela indigenista-romance",1,0
+"novela histórica-novela militar",8,4
+"novela histórica-novela militar-novela sentimental",2,0
+"novela histórica-novela política",18,10
+"novela histórica-novela política-novela sentimental",5,4
+"novela histórica-novela política-novela social",4,4
+"novela histórica-novela psicológica",1,1
+"novela histórica-novela sentimental",51,26
+"novela histórica-novela sentimental-novela social",9,7
+"novela histórica-tradición",3,0
+"novela histórica-tragedia",2,0
+"novela indigenista-novela sentimental",7,2
+"novela indigenista-novela social",13,7
+"novela moralista-novela social",8,2
+"novela política-novela regional",1,0
+"novela política-novela sentimental",8,5
+"novela política-novela social",13,9
+"novela psicológica-novela sentimental",2,1
+"novela regional-novela social",3,2
+"novela sentimental-novela social",41,31
+"novela sentimental-romance",3,1
+"novela social-romance",2,2

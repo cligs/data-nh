@@ -1,0 +1,3 @@
+.*i(t|ll)(a|o)s?\b
+.*uel[ao]s?\b
+.*et[ao]s\b

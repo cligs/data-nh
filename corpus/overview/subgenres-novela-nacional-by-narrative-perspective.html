@@ -1,0 +1,56 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 700px; height: 400px;"></div><script>
+                        var trace1 = {
+                        labels: ["novela mexicana","novela argentina","novela cubana","other","none"],
+                        
+                        values: [29,6,21,32,124],
+                        type: "pie",
+                        hole: 0.5,
+                        direction: "clockwise",
+                        name: "third person",
+                        domain: {row: 0, column: 0}
+                        };
+                        var trace2 = {
+                        labels: ["novela mexicana","novela argentina","novela cubana","other","none"],
+                        
+                        values: [1,3,1,8,31],
+                        type: "pie",
+                        hole: 0.5,
+                        direction: "clockwise",
+                        name: "first person",
+                        domain: {row: 0, column: 1}
+                        };
+                        
+                        var data = [trace1, trace2];
+                        var layout = {
+                        grid: {rows: 1, columns: 2},
+                        font: {size: 12},
+                        legend: {font: {size: 14}},
+                        colorway: ["rgb(227, 119, 194)","rgb(148, 103, 189)","rgb(44, 160, 44)","rgb(214, 39, 40)","rgb(31, 119, 180)"],
+                        annotations: [
+                        {
+                        font: {
+                        size: 16
+                        },
+                        showarrow: false,
+                        text: 'third',
+                        x: 0.18,
+                        y: 0.5
+                        },
+                        {
+                        font: {
+                        size: 16
+                        },
+                        showarrow: false,
+                        text: 'first',
+                        x: 0.81,
+                        y: 0.5
+                        }
+                        ]
+                        };
+                        Plotly.newPlot('myDiv', data, layout);
+                    </script></body>
+</html>

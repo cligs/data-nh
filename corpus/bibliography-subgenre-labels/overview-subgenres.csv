@@ -1,0 +1,125 @@
+Subgenre label,Kind(s),Supplement,Explicit occurrence
+apuntamientos,"mode.medium, mode.representation",-,yes
+apuntes,"mode.medium, mode.representation",-,yes
+auto-novela,mode.reality,-,yes
+Bildungsroman,theme,-,no
+boceto,"mode.medium, mode.representation",-,yes
+bosquejo,"mode.medium, mode.representation",-,yes
+capricho,mode.representation,-,yes
+cinematógrafo,"mode.medium, mode.representation",-,yes
+comedia de carácter,"theme, mode.intention",comedia,yes
+confesiones,"theme, mode.representation",-,yes
+contornos,mode.representation,-,yes
+croquis,"mode.medium, mode.representation",-,yes
+crónica,"theme, mode.representation",novela histórica,yes
+cuadros,"mode.medium, mode.representation",novela de costumbres,yes
+cuento,mode.representation,-,yes
+drama,mode.representation,novela romántica,yes
+elegía,"theme, mode.medium, mode.attitude",-,yes
+ensayo,mode.representation,-,yes
+entretenimientos,mode.intention,-,yes
+episodios,mode.representation,novela histórica,yes
+epopeya,"theme, mode.representation",novela histórica,yes
+esbozos,"mode.representation, mode.medium",-,yes
+escenas,"mode.medium, mode.representation",-,yes
+estudio,"mode.representation, mode.intention","novela social, novela realista, novela naturalista",yes
+fragmentos,mode.representation,-,yes
+historia,mode.representation,-,yes
+impresiones,mode.representation,-,yes
+juguete,mode.intention,-,yes
+Künstlerroman,theme,-,no
+lecturas,mode.intention,novela didáctica,yes
+leyenda,"theme, mode.reality","novela histórica, novela romántica",yes
+medallones,mode.representation,-,yes
+memorias,mode.representation (theme),-,yes
+narración,mode.representation,-,yes
+notas,"mode.medium, mode.representation",-,yes
+novela,mode.representation,-,yes
+novela abolicionista,theme (mode.attitude),novela social,yes
+novela americana,identity (theme),-,yes
+novela analítica,mode.representation (mode.intention),-,yes
+novela andaluza,identity (theme),-,yes
+novela anecdótica,mode.representation,-,yes
+novela argentina,identity (theme),-,yes
+novela azteca,identity (theme),(novela mexicana),yes
+novela biográfica,theme,-,no
+novela bonaerense,identity (theme),(novela argentina),yes
+novela camagüeyana,identity (theme),(novela cubana),yes
+novela científica,"theme, mode.reality",-,(yes)
+novela clasicista,current (theme),-,no
+novela cómica,mode.intention (mode.attitude),novela humorística,(yes)
+novela contemporánea,"theme, mode.reality",novela social and/or novela política,yes
+novela corta,mode.representation,-,yes
+novela criminal,theme,-,(yes)
+novela criolla,identity (theme),(novela americana),yes
+novela cubana,identity (theme),-,yes
+novela curiosa,mode.intention,-,yes
+novela de actualidad,"theme, mode.reality","novela contemporánea, novela social and/or novela política",yes
+novela de aventuras,theme,-,(yes)
+novela de costumbres,theme (current),(novela social),yes
+novela de crímenes,theme,novela criminal,yes
+novela de familia,theme,novela social,no
+novela habanera,identity (theme),(novela cubana),yes
+novela de horrores,mode.intention,-,yes
+novela de la ciudad,theme,novela social,no
+novela de misterio,"theme, mode.reality",-,no
+novela de propaganda,"theme, mode.intention",novela política and/or novela social,yes
+novela de Tabasco,identity (theme),(novela mexicana),yes
+novela de viajes,theme,-,(yes)
+novela didáctica,"theme, mode.intention",novela social,yes
+novela documentaria,"theme, mode.representation",novela social and/or novela política,no
+novela doméstica,theme,novela social,yes
+novela en acción,theme,novela de aventuras,yes
+novela enciclopédica,"theme, mode.intention",novela didáctica,yes
+novela epistolar,"mode.medium, mode.representation",-,yes
+novela espiritista,"theme, mode.reality",novela científica,yes
+novela fantástica,"theme, mode.reality",-,yes
+novela festiva,mode.attitude,-,yes
+novela filosófica,"theme, mode.representation",-,yes
+novela franco-argentina,identity (theme),(novela argentina),yes
+novela gauchesca,theme,-,no
+novela histórica,"theme, mode.reality",-,yes
+novela humorística,mode.intention (mode.attitude),-,yes
+novela india,identity (theme),-,yes
+novela indigenista,theme,-,no
+novela jurídica,theme,novela criminal,yes
+novela kantabro-americana,identity (theme),(novela americana),yes
+novela mexicana,identity (theme),-,yes
+novela militar,theme,novela histórica,yes
+novela mixteca,identity (theme),(novela mexicana),yes
+novela modernista,current (theme),,no
+novela moralista,"theme, mode.intention",novela social,no
+novela nacional,identity (theme),-,yes
+novela naturalista,current (theme),"novela realista, novela social",yes
+novela original,identity,-,yes
+novela patriótica,"theme, identity",-,yes
+novela picaresca,theme,-,no
+novela policial,theme,novela criminal,yes
+novela política,"theme, mode.attitude",-,yes
+novela popular,theme,novela social,yes
+novela porteña,identity (theme),(novela argentina),yes
+novela psicológica,"theme, mode.representation",-,no
+novela realista,current (theme),novela social,yes
+novela regional,"theme, identity",-,yes
+novela romana,identity (theme),-,yes
+novela romántica,current (theme),-,no
+novela satírica,mode.attitude,-,yes
+novela sentimental,theme,-,yes
+novela siciliana,identity (theme),-,yes
+novela social,theme (mode.intention),-,yes
+novela suriana,identity (theme),-,yes
+novela tapatía,identity (theme),(novela mexicana),yes
+novela verista,current (theme),"novela realista, novela social",no
+novela yucateca,identity (theme),(novela mexicana),yes
+panorama,"mode.medium, mode.representation",-,yes
+perfiles,mode.representation,-,yes
+páginas,"mode.medium, mode.representation",-,yes
+recuerdos,"mode.representation, theme",-,yes
+reflexiones,mode.representation,novela filosófica,yes
+relación,mode.representation,-,yes
+relato,mode.representation,-,yes
+reseña,"mode.attitude, mode.representation",-,yes
+romance,"theme, mode.representation","novela sentimental, novela histórica",yes
+silueta,mode.representation,-,yes
+tradición,"theme, mode.reality",-,yes
+tragedia,"theme, mode.representation",-,yes

@@ -1,0 +1,154 @@
+<html xmlns:cligs="https://cligs.hypotheses.org/ns/cligs">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://cdn.plot.ly/plotly-latest.min.js"></script></head>
+   <body>
+      <div id="myDiv" style="width: 1000px; height: 600px;"></div><script>
+                        var trace1 = {
+                        x: ["before 1880","in or after 1880"],
+                        y: [59,244],
+                        xaxis: "x1",
+                        yaxis: "y1",
+                        name: "AR Bib-ACMé",
+                        type: "bar",
+                        legendgroup: "a",
+                        domain: {row: 0, column: 0}
+                        };
+                        
+                        var trace2 = {
+                        x: ["before 1880","in or after 1880"],
+                        y: [26,73],
+                        name: "AR Conha19",
+                        type: "bar",
+                        xaxis: "x1",
+                        yaxis: "y1",
+                        legendgroup: "a",
+                        domain: {row: 0, column: 0}
+                        };
+                        
+                        var trace3 = {
+                        x: ["before 1880","in or after 1880"],
+                        y: [129,266],
+                        name: "MX Bib-ACMé",
+                        type: "bar",
+                        xaxis: "x2",
+                        yaxis: "y2",
+                        legendgroup: "b",
+                        domain: {row: 0, column: 1}
+                        };
+                        
+                        var trace4 = {
+                        x: ["before 1880","in or after 1880"],
+                        y: [48,60],
+                        name: "MX Conha19",
+                        type: "bar",
+                        xaxis: "x2",
+                        yaxis: "y2",
+                        legendgroup: "b",
+                        domain: {row: 0, column: 1}
+                        };
+                        
+                        var trace5 = {
+                        x: ["before 1880","in or after 1880"],
+                        y: [80,51],
+                        name: "CU Bib-ACMé",
+                        type: "bar",
+                        xaxis: "x3",
+                        yaxis: "y3",
+                        legendgroup: "c",
+                        domain: {row: 0, column: 2}
+                        };
+                        
+                        var trace6 = {
+                        x: ["before 1880","in or after 1880"],
+                        y: [24,25],
+                        name: "CU Conha19",
+                        type: "bar",
+                        xaxis: "x3",
+                        yaxis: "y3",
+                        legendgroup: "c",
+                        domain: {row: 0, column: 2}
+                        };
+                        
+                        var data = [trace1, trace2, trace3, trace4, trace5, trace6];
+                        var layout = {
+                        grid: {rows: 1, columns: 3},
+                        barmode: "group",
+                        xaxis: {tickmode: "linear", dtick: 1, tickfont: {size: 16}},
+                        yaxis: {title: "number of works", range: [0,270], titlefont: {size: 16}},
+                        xaxis2: {anchor: "y2", tickmode: "linear", dtick: 1, tickfont: {size: 16}},
+                        yaxis2: {title: "number of works", range: [0,270], titlefont: {size: 16},visible: false},
+                        xaxis3: {anchor: "y3", tickmode: "linear", dtick: 1, tickfont: {size: 16}},
+                        yaxis3: {title: "number of works", range: [0,270], titlefont: {size: 16},visible: false},
+                        legend: {font: {size: 16}, orientation: "h"},
+                        font: {size: 16},
+                        annotations: [{
+                            x: 0.25,
+                            y: 26,
+                            xref: "x",
+                            yref: "y",
+                            text: "44%",
+                            showarrow: false,
+                            xanchor: "center",
+                            yanchor: "bottom",
+                            font: {size: 16}
+                            },
+                            {
+                            x: 1.25,
+                            y: 73,
+                            xref: "x",
+                            yref: "y",
+                            text: "30%",
+                            showarrow: false,
+                            xanchor: "center",
+                            yanchor: "bottom",
+                            font: {size: 16}
+                            },
+                            {
+                            x: 0.25,
+                            y: 48,
+                            xref: "x2",
+                            yref: "y2",
+                            text: "37%",
+                            showarrow: false,
+                            xanchor: "center",
+                            yanchor: "bottom",
+                            font: {size: 16}
+                            },
+                            {
+                            x: 1.25,
+                            y: 60,
+                            xref: "x2",
+                            yref: "y2",
+                            text: "23%",
+                            showarrow: false,
+                            xanchor: "center",
+                            yanchor: "bottom",
+                            font: {size: 16}
+                            },
+                            {
+                            x: 0.25,
+                            y: 24,
+                            xref: "x3",
+                            yref: "y3",
+                            text: "30%",
+                            showarrow: false,
+                            xanchor: "center",
+                            yanchor: "bottom",
+                            font: {size: 16}
+                            },
+                            {
+                            x: 1.25,
+                            y: 25,
+                            xref: "x3",
+                            yref: "y3",
+                            text: "49%",
+                            showarrow: false,
+                            xanchor: "center",
+                            yanchor: "bottom",
+                            font: {size: 16}
+                            }
+                        ]
+                        };
+                        Plotly.newPlot("myDiv", data, layout);
+                    </script></body>
+</html>

@@ -1,0 +1,1631 @@
+<listBibl xmlns="http://www.tei-c.org/ns/1.0">
+   <biblStruct corresp="W85" xml:id="E111">
+      <analytic>
+         <author key="A38">Bunge, Carlos Octavio</author>
+         <title level="a" type="main">La madrina de Lita</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Thespis</title>
+         <title level="m" type="sub">(Novelas cortas y cuentos)</title>
+         <imprint>
+            <publisher>Imp. y estereotipia de La Nación</publisher>
+            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+            <date when="1907">1907</date>
+            <biblScope unit="page" n="24">p. 61-85</biblScope>
+         </imprint>
+         <extent n="228">228 pp.</extent>
+      </monogr>
+      <ref>http://www.gutenberg.org/files/26771/26771-h/26771-h.htm#LA_MADRINA_DE_LITA</ref>
+      <ref>https://catalog.hathitrust.org/Record/009103038</ref>
+   </biblStruct>
+   <biblStruct corresp="W86" xml:id="E112">
+      <analytic>
+         <author key="A38">Bunge, Carlos Octavio</author>
+         <title level="a" type="main">El último grande de España</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Thespis</title>
+         <title level="m" type="sub">(Novelas cortas y cuentos)</title>
+         <imprint>
+            <publisher>Imp. y estereotipia de La Nación</publisher>
+            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+            <date when="1907">1907</date>
+            <biblScope unit="page" n="34">p. 11-45</biblScope>
+         </imprint>
+         <extent n="228">228 pp.</extent>
+      </monogr>
+      <ref>http://www.gutenberg.org/files/26771/26771-h/26771-h.htm#EL_ULTIMO_GRANDE_DE_ESPANA</ref>
+      <ref>https://catalog.hathitrust.org/Record/009103038</ref>
+   </biblStruct>
+   <biblStruct corresp="W87" xml:id="E113">
+      <analytic>
+         <author key="A38">Bunge, Carlos Octavio</author>
+         <title level="a" type="main">El capitán Pérez</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Thespis</title>
+         <title level="m" type="sub">(Novelas cortas y cuentos)</title>
+         <imprint>
+            <publisher>Imp. y estereotipia de La Nación</publisher>
+            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+            <date when="1907">1907</date>
+            <biblScope unit="page" n="53">175-228</biblScope>
+         </imprint>
+         <extent n="228">228 pp.</extent>
+      </monogr>
+      <ref>http://www.gutenberg.org/files/26771/26771-h/26771-h.htm#EL_CAPITAN_PEREZ</ref>
+      <ref>https://catalog.hathitrust.org/Record/009103038</ref>
+   </biblStruct>
+   <biblStruct corresp="W290" xml:id="E394">
+      <analytic>
+         <author key="A116">Rodríguez Galván, Ignacio</author>
+         <title level="a" type="main">La hija del oidor</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Novelas cortas de varios autores</title>
+         <imprint>
+            <publisher>Impr. de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="23">p. 91-114</biblScope>
+         </imprint>
+      </monogr>
+      <series>
+         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+         <biblScope unit="volume">33</biblScope>
+      </series>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/14788</ref>
+   </biblStruct>
+   <biblStruct corresp="W291" xml:id="E395">
+      <analytic>
+         <author key="A116">Rodríguez Galván, Ignacio</author>
+         <title level="a" type="main">Manolito el Pisaverde</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Novelas cortas de varios autores</title>
+         <imprint>
+            <publisher>Impr. de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="41">p. 115-156</biblScope>
+         </imprint>
+      </monogr>
+      <series>
+         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+         <biblScope unit="volume">33</biblScope>
+      </series>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/14788</ref>
+   </biblStruct>
+   <biblStruct corresp="W292" xml:id="E396">
+      <analytic>
+         <author key="A116">Rodríguez Galván, Ignacio</author>
+         <title level="a" type="main">La procesión</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Novelas cortas de varios autores</title>
+         <imprint>
+            <publisher>Impr. de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="55">p. 157-212</biblScope>
+         </imprint>
+      </monogr>
+      <series>
+         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+         <biblScope unit="volume">33</biblScope>
+      </series>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/14788</ref>
+   </biblStruct>
+   <biblStruct corresp="W293" xml:id="E397">
+      <analytic>
+         <author key="A116">Rodríguez Galván, Ignacio</author>
+         <title level="a" type="main">Tras un mal vienen ciento</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Novelas cortas de varios autores</title>
+         <imprint>
+            <publisher>Impr. de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="49">p. 213-262</biblScope>
+         </imprint>
+      </monogr>
+      <series>
+         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+         <biblScope unit="volume">33</biblScope>
+      </series>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/14788</ref>
+   </biblStruct>
+   <biblStruct corresp="W294" xml:id="E407">
+      <analytic>
+         <author key="A116">Rodríguez Galván, Ignacio</author>
+         <title level="a" type="main">El visitador</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Novelas cortas de varios autores</title>
+         <imprint>
+            <publisher>Impr. de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="20">p. 413-433</biblScope>
+         </imprint>
+      </monogr>
+      <series>
+         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+         <biblScope unit="volume">33</biblScope>
+      </series>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/14788</ref>
+   </biblStruct>
+   <biblStruct corresp="W325" xml:id="E441">
+      <analytic>
+         <author key="A138">Franquelo, Carlos</author>
+         <title type="main" level="a">La amante del muerto</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Concurso de novelas cortas</title>
+         <imprint>
+            <publisher>Ortega y Radaelli</publisher>
+            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+            <date when="1902">1902</date>
+            <biblScope unit="page" n="26">p. 13-39</biblScope>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct corresp="W334" xml:id="E452">
+      <analytic>
+         <author key="A146">Rodríguez Émbil, Luis</author>
+         <title level="a" type="main">Gil Luna, artista</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Gil Luna, artista</title>
+         <title level="m" type="sub">Novelas cortas</title>
+         <imprint>
+            <publisher>Pérez Villavicencio</publisher>
+            <pubPlace corresp="ES">Madrid</pubPlace>
+            <date when="1908">1908</date>
+            <biblScope unit="page" n="56">p. 7-63</biblScope>
+         </imprint>
+      </monogr>
+      <ref>https://archive.org/details/gillunaartista00rodrgoog</ref>
+   </biblStruct>
+   <biblStruct corresp="W335" xml:id="E453">
+      <analytic>
+         <author key="A146">Rodríguez Émbil, Luis</author>
+         <title level="a" type="main">El velo de la diosa</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Gil Luna, artista</title>
+         <title level="m" type="sub">Novelas cortas</title>
+         <imprint>
+            <publisher>Pérez Villavicencio</publisher>
+            <pubPlace corresp="ES">Madrid</pubPlace>
+            <date when="1908">1908</date>
+            <biblScope unit="page" n="31">p. 67-98</biblScope>
+         </imprint>
+      </monogr>
+      <ref>https://archive.org/details/gillunaartista00rodrgoog</ref>
+   </biblStruct>
+   <biblStruct corresp="W473" xml:id="E669">
+      <analytic>
+         <author key="A179">Labastié, Luis</author>
+         <title type="main" level="m">El cuento del tío</title>
+         <title type="sub" level="m">(Novela histórica)</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Concurso de novelas cortas</title>
+         <imprint>
+            <publisher>Ortega y Radaelli</publisher>
+            <pubPlace corresp="AR">Buenos Aires</pubPlace>
+            <date when="1902">1902</date>
+            <biblScope unit="page" n="22">p. 71-93</biblScope>
+         </imprint>
+      </monogr>
+   </biblStruct>
+   <biblStruct corresp="W487" xml:id="E239">
+      <monogr>
+         <author key="A187">Lavalle Cobo, Jorge</author>
+         <title level="m" type="main">Voces perdidas</title>
+         <title level="m" type="sub">(Novelas cortas y cuentos)</title>
+         <imprint>
+            <publisher>Librería de la Vda. de Ch. Bouret</publisher>
+            <pubPlace corresp="FR">París</pubPlace>
+            <date when="1907">1907</date>
+         </imprint>
+         <extent n="206">206 pp.</extent>
+      </monogr>
+      <ref>https://catalog.hathitrust.org/Record/011696148</ref>
+      <ref>http://libsysdigi.library.uiuc.edu/OCA/Books2010-10/3404302/</ref>
+   </biblStruct>
+   <biblStruct corresp="W570" xml:id="E812">
+      <analytic>
+         <author key="A230">Pacheco, J. R.</author>
+         <title level="m" type="main">El criollo</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Novelas cortas de varios autores</title>
+         <imprint>
+            <publisher>Impr. de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="43">p. 339-382</biblScope>
+         </imprint>
+      </monogr>
+      <series>
+         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+         <biblScope unit="volume">33</biblScope>
+      </series>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/14788</ref>
+   </biblStruct>
+   <biblStruct corresp="W590" xml:id="E838">
+      <analytic>
+         <author key="A240">Payno, Manuel</author>
+         <title type="main" level="a">María</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Obras de Don Manuel Payno</title>
+         <title type="sub" level="m">Novelas cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros, editor</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="28">p. 1-28</biblScope>
+         </imprint>
+      </monogr>
+      <ref>https://archive.org/details/obras00payngoog</ref>
+   </biblStruct>
+   <biblStruct corresp="W591" xml:id="E839">
+      <analytic>
+         <author key="A240">Payno, Manuel</author>
+         <title type="main" level="a">El doctor</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Obras de Don Manuel Payno</title>
+         <title type="sub" level="m">Novelas cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros, editor</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="16">p. 29-45</biblScope>
+         </imprint>
+      </monogr>
+      <ref>https://archive.org/details/obras00payngoog</ref>
+   </biblStruct>
+   <biblStruct corresp="W592" xml:id="E840">
+      <analytic>
+         <author key="A240">Payno, Manuel</author>
+         <title type="main" level="a">La víspera y el día de una boda</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Obras de Don Manuel Payno</title>
+         <title type="sub" level="m">Novelas cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros, editor</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="32">p. 56-88</biblScope>
+         </imprint>
+      </monogr>
+      <ref>https://archive.org/details/obras00payngoog</ref>
+   </biblStruct>
+   <biblStruct corresp="W593" xml:id="E841">
+      <analytic>
+         <author key="A240">Payno, Manuel</author>
+         <title type="main" level="a">¡¡Loca!!</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Obras de Don Manuel Payno</title>
+         <title type="sub" level="m">Novelas cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros, editor</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="39">p. 89-128</biblScope>
+         </imprint>
+      </monogr>
+      <ref>https://archive.org/details/obras00payngoog</ref>
+   </biblStruct>
+   <biblStruct corresp="W594" xml:id="E842">
+      <analytic>
+         <author key="A240">Payno, Manuel</author>
+         <title type="main" level="a">El Monte Virgen</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Obras de Don Manuel Payno</title>
+         <title type="sub" level="m">Novelas cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros, editor</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="32">p. 129-161</biblScope>
+         </imprint>
+      </monogr>
+      <ref>https://archive.org/details/obras00payngoog</ref>
+   </biblStruct>
+   <biblStruct corresp="W595" xml:id="E843">
+      <analytic>
+         <author key="A240">Payno, Manuel</author>
+         <title type="main" level="a">Pepita</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Obras de Don Manuel Payno</title>
+         <title type="sub" level="m">Novelas cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros, editor</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="34">p. 163-197</biblScope>
+         </imprint>
+      </monogr>
+      <ref>https://archive.org/details/obras00payngoog</ref>
+   </biblStruct>
+   <biblStruct corresp="W596" xml:id="E844">
+      <analytic>
+         <author key="A240">Payno, Manuel</author>
+         <title type="main" level="a">Alberto y Teresa</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Obras de Don Manuel Payno</title>
+         <title type="sub" level="m">Novelas cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros, editor</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="20">p. 199-219</biblScope>
+         </imprint>
+      </monogr>
+      <ref>https://archive.org/details/obras00payngoog</ref>
+   </biblStruct>
+   <biblStruct corresp="W597" xml:id="E845">
+      <analytic>
+         <author key="A240">Payno, Manuel</author>
+         <title type="main" level="a">La Esposa del Insurgente</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Obras de Don Manuel Payno</title>
+         <title type="sub" level="m">Novelas cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros, editor</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="33">p. 221-254</biblScope>
+         </imprint>
+      </monogr>
+      <ref>https://archive.org/details/obras00payngoog</ref>
+   </biblStruct>
+   <biblStruct corresp="W598" xml:id="E846">
+      <analytic>
+         <author key="A240">Payno, Manuel</author>
+         <title type="main" level="a">Aventura de un Veterano</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Obras de Don Manuel Payno</title>
+         <title type="sub" level="m">Novelas cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros, editor</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="46">p. 255-301</biblScope>
+         </imprint>
+      </monogr>
+      <ref>https://archive.org/details/obras00payngoog</ref>
+   </biblStruct>
+   <biblStruct corresp="W599" xml:id="E848">
+      <analytic>
+         <author key="A240">Payno, Manuel</author>
+         <title type="main" level="a">El Lucero de Málaga</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Obras de Don Manuel Payno</title>
+         <title type="sub" level="m">Novelas cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros, editor</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="36">p. 339-375</biblScope>
+         </imprint>
+      </monogr>
+      <ref>https://archive.org/details/obras00payngoog</ref>
+   </biblStruct>
+   <biblStruct corresp="W600" xml:id="E850">
+      <analytic>
+         <author key="A240">Payno, Manuel</author>
+         <title type="main" level="a">El Cura y la Ópera</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Obras de Don Manuel Payno</title>
+         <title type="sub" level="m">Novelas cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros, editor</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="24">p. 377-402</biblScope>
+         </imprint>
+      </monogr>
+      <ref>https://archive.org/details/obras00payngoog</ref>
+   </biblStruct>
+   <biblStruct corresp="W601" xml:id="E852">
+      <analytic>
+         <author key="A240">Payno, Manuel</author>
+         <title type="main" level="a">El Rosario de Concha Nácar</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Obras de Don Manuel Payno</title>
+         <title type="sub" level="m">Novelas cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros, editor</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="58">p. 404-462</biblScope>
+         </imprint>
+      </monogr>
+      <ref>https://archive.org/details/obras00payngoog</ref>
+   </biblStruct>
+   <biblStruct corresp="W602" xml:id="E853">
+      <analytic>
+         <author key="A240">Payno, Manuel</author>
+         <title type="main" level="a">Trinidad de Juárez</title>
+         <title type="sub" level="a">Leyenda del año de 1648</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Obras de Don Manuel Payno</title>
+         <title type="sub" level="m">Novelas cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros, editor</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="43">p. 477-540</biblScope>
+         </imprint>
+      </monogr>
+      <ref>https://archive.org/details/obras00payngoog</ref>
+   </biblStruct>
+   <biblStruct corresp="W641" xml:id="E900">
+      <analytic>
+         <author key="A250">Pesado, José Joaquín</author>
+         <title level="a" type="main">El inquisidor de México</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Novelas cortas de varios autores</title>
+         <imprint>
+            <publisher>Impr. de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="43">p. 3-46</biblScope>
+         </imprint>
+      </monogr>
+      <series>
+         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+         <biblScope unit="volume">33</biblScope>
+      </series>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/14788</ref>
+   </biblStruct>
+   <biblStruct corresp="W642" xml:id="E901">
+      <analytic>
+         <author key="A250">Pesado, José Joaquín</author>
+         <title level="a" type="main">El amor frustrado</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Novelas cortas de varios autores</title>
+         <imprint>
+            <publisher>Impr. de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="40">p. 47-87</biblScope>
+         </imprint>
+      </monogr>
+      <series>
+         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+         <biblScope unit="volume">33</biblScope>
+      </series>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/14788</ref>
+   </biblStruct>
+   <biblStruct corresp="W709" xml:id="E974">
+      <analytic>
+         <author key="A278">Navarro, Mariano</author>
+         <title level="a" type="main">Ángela</title>
+         <title level="a" type="sub">Acontecimiento histórico</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Novelas cortas de varios autores</title>
+         <imprint>
+            <publisher>Impr. de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="26">p. 309-335</biblScope>
+         </imprint>
+      </monogr>
+      <series>
+         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+         <biblScope unit="volume">33</biblScope>
+      </series>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/14788</ref>
+   </biblStruct>
+   <biblStruct corresp="W780" xml:id="E1071">
+      <analytic>
+         <author key="A307">Lacunza, José María</author>
+         <title level="a" type="main">Netzula</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Novelas cortas de varios autores</title>
+         <imprint>
+            <publisher>Impr. de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1901">1901</date>
+            <biblScope unit="volume">Tomo I</biblScope>
+            <biblScope unit="page" n="41">p. 265-306</biblScope>
+         </imprint>
+      </monogr>
+      <series>
+         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+         <biblScope unit="volume">33</biblScope>
+      </series>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/14788</ref>
+   </biblStruct>
+   <biblStruct corresp="W791" xml:id="E1087">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">Nieves</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1900">1900</date>
+            <biblScope unit="volume">I</biblScope>
+            <biblScope unit="page" n="133">5-138</biblScope>
+         </imprint>
+         <extent n="590">En 8°, de VII, 590 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo II</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">27</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez02lope</ref>
+   </biblStruct>
+   <biblStruct corresp="W792" xml:id="E1088">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">El primer amor</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1900">1900</date>
+            <biblScope unit="volume">I</biblScope>
+            <biblScope unit="page" n="161">139-300</biblScope>
+         </imprint>
+         <extent n="590">En 8°, de VII, 590 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo II</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">27</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez02lope</ref>
+   </biblStruct>
+   <biblStruct corresp="W793" xml:id="E1089">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">El Espejo</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1900">1900</date>
+            <biblScope unit="volume">I</biblScope>
+            <biblScope unit="page" n="41">301-342</biblScope>
+         </imprint>
+         <extent n="590">En 8°, de VII, 590 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo II</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">27</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez02lope</ref>
+   </biblStruct>
+   <biblStruct corresp="W794" xml:id="E1090">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">En Diligencia</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1900">1900</date>
+            <biblScope unit="volume">I</biblScope>
+            <biblScope unit="page" n="47">343-390</biblScope>
+         </imprint>
+         <extent n="590">En 8°, de VII, 590 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo II</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">27</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez02lope</ref>
+   </biblStruct>
+   <biblStruct corresp="W795" xml:id="E1091">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">Adalinda</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1900">1900</date>
+            <biblScope unit="volume">I</biblScope>
+            <biblScope unit="page" n="21">391-412</biblScope>
+         </imprint>
+         <extent n="590">En 8°, de VII, 590 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo II</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">27</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez02lope</ref>
+   </biblStruct>
+   <biblStruct corresp="W796" xml:id="E1092">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">El Arpa</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1900">1900</date>
+            <biblScope unit="volume">I</biblScope>
+            <biblScope unit="page" n="31">413-444</biblScope>
+         </imprint>
+         <extent n="590">En 8°, de VII, 590 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo II</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">27</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez02lope</ref>
+   </biblStruct>
+   <biblStruct corresp="W797" xml:id="E1093">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">Un Pacto con el Diablo</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1900">1900</date>
+            <biblScope unit="volume">I</biblScope>
+            <biblScope unit="page" n="33">445-478</biblScope>
+         </imprint>
+         <extent n="590">En 8°, de VII, 590 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo II</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">27</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez02lope</ref>
+   </biblStruct>
+   <biblStruct corresp="W798" xml:id="E1094">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">La Fuga</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1900">1900</date>
+            <biblScope unit="volume">I</biblScope>
+            <biblScope unit="page" n="63">479-542</biblScope>
+         </imprint>
+         <extent n="590">En 8°, de VII, 590 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo II</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">27</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez02lope</ref>
+   </biblStruct>
+   <biblStruct corresp="W799" xml:id="E1095">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">El Brazalete</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1900">1900</date>
+            <biblScope unit="volume">I</biblScope>
+            <biblScope unit="page" n="29">543-572</biblScope>
+         </imprint>
+         <extent n="590">En 8°, de VII, 590 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo II</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">27</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez02lope</ref>
+   </biblStruct>
+   <biblStruct corresp="W800" xml:id="E1096">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">La Suerte del Bueno</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1900">1900</date>
+            <biblScope unit="volume">I</biblScope>
+            <biblScope unit="page" n="12">573-585</biblScope>
+         </imprint>
+         <extent n="590">En 8°, de VII, 590 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo II</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">27</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez02lope</ref>
+   </biblStruct>
+   <biblStruct corresp="W801" xml:id="E1097">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">El proscripto</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="volume">II</biblScope>
+            <biblScope unit="page" n="19">5-24</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de (4), 609 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo III</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">49</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez03lope</ref>
+      <ref>https://archive.org/details/3693879_3</ref>
+   </biblStruct>
+   <biblStruct corresp="W801" xml:id="E1111">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">El proscrito</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Sucesos y Novelas Cortas</title>
+         <title level="m" type="sub">por José López-Portillo y Rojas Miembro correspondiente de la
+            Real Academia Española e individuo de número de la Mexicana </title>
+         <imprint>
+            <publisher>Tipografía de "El Tiempo."</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="page" n="39">5-44</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de IV, 609 pp.</extent>
+      </monogr>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/9764</ref>
+   </biblStruct>
+   <biblStruct corresp="W802" xml:id="E1098">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">El rector y el colegial</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="volume">II</biblScope>
+            <biblScope unit="page" n="19">25-44</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de (4), 609 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo III</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">49</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez03lope</ref>
+      <ref>https://archive.org/details/3693879_3</ref>
+   </biblStruct>
+   <biblStruct corresp="W803" xml:id="E1099">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">Pía</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="volume">II</biblScope>
+            <biblScope unit="page" n="21">45-66</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de (4), 609 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo III</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">49</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez03lope</ref>
+      <ref>https://archive.org/details/3693879_3</ref>
+   </biblStruct>
+   <biblStruct corresp="W803" xml:id="E1112">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">Pía</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Sucesos y Novelas Cortas</title>
+         <title level="m" type="sub">por José López-Portillo y Rojas Miembro correspondiente de la
+            Real Academia Española e individuo de número de la Mexicana </title>
+         <imprint>
+            <publisher>Tipografía de "El Tiempo."</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="page" n="21">45-66</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de IV, 609 pp.</extent>
+      </monogr>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/9764</ref>
+   </biblStruct>
+   <biblStruct corresp="W804" xml:id="E1100">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">Luz de rayo</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="volume">II</biblScope>
+            <biblScope unit="page" n="17">67-84</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de (4), 609 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo III</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">49</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez03lope</ref>
+      <ref>https://archive.org/details/3693879_3</ref>
+   </biblStruct>
+   <biblStruct corresp="W804" xml:id="E1113">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">Luz de rayo</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Sucesos y Novelas Cortas</title>
+         <title level="m" type="sub">por José López-Portillo y Rojas Miembro correspondiente de la
+            Real Academia Española e individuo de número de la Mexicana </title>
+         <imprint>
+            <publisher>Tipografía de "El Tiempo."</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="page" n="17">67-84</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de IV, 609 pp.</extent>
+      </monogr>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/9764</ref>
+   </biblStruct>
+   <biblStruct corresp="W805" xml:id="E1101">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">Sor María Margarita</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="volume">II</biblScope>
+            <biblScope unit="page" n="25">85-110</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de (4), 609 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo III</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">49</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez03lope</ref>
+      <ref>https://archive.org/details/3693879_3</ref>
+   </biblStruct>
+   <biblStruct corresp="W805" xml:id="E1114">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">Sor María Margarita</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Sucesos y Novelas Cortas</title>
+         <title level="m" type="sub">por José López-Portillo y Rojas Miembro correspondiente de la
+            Real Academia Española e individuo de número de la Mexicana </title>
+         <imprint>
+            <publisher>Tipografía de "El Tiempo."</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="page" n="25">85-110</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de IV, 609 pp.</extent>
+      </monogr>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/9764</ref>
+   </biblStruct>
+   <biblStruct corresp="W806" xml:id="E1102">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">La horma de su zapato</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="volume">II</biblScope>
+            <biblScope unit="page" n="29">111-140</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de (4), 609 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo III</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">49</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez03lope</ref>
+      <ref>https://archive.org/details/3693879_3</ref>
+   </biblStruct>
+   <biblStruct corresp="W806" xml:id="E1115">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">La horma de su zapato</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Sucesos y Novelas Cortas</title>
+         <title level="m" type="sub">por José López-Portillo y Rojas Miembro correspondiente de la
+            Real Academia Española e individuo de número de la Mexicana </title>
+         <imprint>
+            <publisher>Tipografía de "El Tiempo."</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="page" n="28">111-139</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de IV, 609 pp.</extent>
+      </monogr>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/9764</ref>
+   </biblStruct>
+   <biblStruct corresp="W807" xml:id="E1103">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">El dolor y la honra</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="volume">II</biblScope>
+            <biblScope unit="page" n="31">141-172</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de (4), 609 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo III</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">49</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez03lope</ref>
+      <ref>https://archive.org/details/3693879_3</ref>
+   </biblStruct>
+   <biblStruct corresp="W807" xml:id="E1116">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">El dolor y la horna</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Sucesos y Novelas Cortas</title>
+         <title level="m" type="sub">por José López-Portillo y Rojas Miembro correspondiente de la
+            Real Academia Española e individuo de número de la Mexicana </title>
+         <imprint>
+            <publisher>Tipografía de "El Tiempo."</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="page" n="32">140-172</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de IV, 609 pp.</extent>
+      </monogr>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/9764</ref>
+   </biblStruct>
+   <biblStruct corresp="W808" xml:id="E1104">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">Egoísmo trágico</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="volume">II</biblScope>
+            <biblScope unit="page" n="83">173-256</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de (4), 609 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo III</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">49</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez03lope</ref>
+      <ref>https://archive.org/details/3693879_3</ref>
+   </biblStruct>
+   <biblStruct corresp="W808" xml:id="E1117">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">Egoísmo trágico</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Sucesos y Novelas Cortas</title>
+         <title level="m" type="sub">por José López-Portillo y Rojas Miembro correspondiente de la
+            Real Academia Española e individuo de número de la Mexicana </title>
+         <imprint>
+            <publisher>Tipografía de "El Tiempo."</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="page" n="82">173-255</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de IV, 609 pp.</extent>
+      </monogr>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/9764</ref>
+   </biblStruct>
+   <biblStruct corresp="W809" xml:id="E1105">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">El billete de lotería</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="volume">II</biblScope>
+            <biblScope unit="page" n="39">257-296</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de (4), 609 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo III</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">49</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez03lope</ref>
+      <ref>https://archive.org/details/3693879_3</ref>
+   </biblStruct>
+   <biblStruct corresp="W809" xml:id="E1118">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">El billete de lotería</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Sucesos y Novelas Cortas</title>
+         <title level="m" type="sub">por José López-Portillo y Rojas Miembro correspondiente de la
+            Real Academia Española e individuo de número de la Mexicana </title>
+         <imprint>
+            <publisher>Tipografía de "El Tiempo."</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="page" n="40">256-296</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de IV, 609 pp.</extent>
+      </monogr>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/9764</ref>
+   </biblStruct>
+   <biblStruct corresp="W810" xml:id="E1106">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">El pro y el contra</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="volume">II</biblScope>
+            <biblScope unit="page" n="39">297-436</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de (4), 609 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo III</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">49</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez03lope</ref>
+      <ref>https://archive.org/details/3693879_3</ref>
+   </biblStruct>
+   <biblStruct corresp="W810" xml:id="E1119">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">El pro y el contra</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Sucesos y Novelas Cortas</title>
+         <title level="m" type="sub">por José López-Portillo y Rojas Miembro correspondiente de la
+            Real Academia Española e individuo de número de la Mexicana </title>
+         <imprint>
+            <publisher>Tipografía de "El Tiempo."</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="page" n="138">297-435</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de IV, 609 pp.</extent>
+      </monogr>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/9764</ref>
+   </biblStruct>
+   <biblStruct corresp="W811" xml:id="E1107">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">Un drama de tres horas</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="volume">II</biblScope>
+            <biblScope unit="page" n="65">437-502</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de (4), 609 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo III</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">49</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez03lope</ref>
+      <ref>https://archive.org/details/3693879_3</ref>
+   </biblStruct>
+   <biblStruct corresp="W811" xml:id="E1120">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">Un drama de tres horas</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Sucesos y Novelas Cortas</title>
+         <title level="m" type="sub">por José López-Portillo y Rojas Miembro correspondiente de la
+            Real Academia Española e individuo de número de la Mexicana </title>
+         <imprint>
+            <publisher>Tipografía de "El Tiempo."</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="page" n="66">436-502</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de IV, 609 pp.</extent>
+      </monogr>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/9764</ref>
+   </biblStruct>
+   <biblStruct corresp="W812" xml:id="E1108">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">Tres desenlaces ilógicos</title>
+         <title level="a" type="main">El brazo del coronel</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="volume">II</biblScope>
+            <biblScope unit="page" n="27">505-532</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de (4), 609 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo III</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">49</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez03lope</ref>
+      <ref>https://archive.org/details/3693879_3</ref>
+   </biblStruct>
+   <biblStruct corresp="W812" xml:id="E1121">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">Tres desenlaces ilógicos</title>
+         <title level="a" type="main">El brazo del coronel</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Sucesos y Novelas Cortas</title>
+         <title level="m" type="sub">por José López-Portillo y Rojas Miembro correspondiente de la
+            Real Academia Española e individuo de número de la Mexicana </title>
+         <imprint>
+            <publisher>Tipografía de "El Tiempo."</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="page" n="26">505-531</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de IV, 609 pp.</extent>
+      </monogr>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/9764</ref>
+   </biblStruct>
+   <biblStruct corresp="W813" xml:id="E1109">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">Tres desenlaces ilógicos</title>
+         <title level="a" type="main">Suprema fineza</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="volume">II</biblScope>
+            <biblScope unit="page" n="21">533-554</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de (4), 609 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo III</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">49</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez03lope</ref>
+      <ref>https://archive.org/details/3693879_3</ref>
+   </biblStruct>
+   <biblStruct corresp="W813" xml:id="E1122">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">Tres desenlaces ilógicos</title>
+         <title level="a" type="main">Suprema fineza</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Sucesos y Novelas Cortas</title>
+         <title level="m" type="sub">por José López-Portillo y Rojas Miembro correspondiente de la
+            Real Academia Española e individuo de número de la Mexicana </title>
+         <imprint>
+            <publisher>Tipografía de "El Tiempo."</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="page" n="20">533-553</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de IV, 609 pp.</extent>
+      </monogr>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/9764</ref>
+   </biblStruct>
+   <biblStruct corresp="W814" xml:id="E1110">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">Tres desenlaces ilógicos</title>
+         <title level="a" type="main">Orvañanos</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Novelas Cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="volume">II</biblScope>
+            <biblScope unit="page" n="50">555-605</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de (4), 609 pp.</extent>
+      </monogr>
+      <series>
+         <title level="s">Obras del Lic. D. J. López-Portillo y Rojas</title>
+         <biblScope unit="part">Tomo III</biblScope>
+      </series>
+      <series>
+         <title level="s">Biblioteca de autores Mexicanos</title>
+         <biblScope unit="volume">49</biblScope>
+      </series>
+      <ref>https://archive.org/details/obraslopez03lope</ref>
+      <ref>https://archive.org/details/3693879_3</ref>
+   </biblStruct>
+   <biblStruct corresp="W814" xml:id="E1123">
+      <analytic>
+         <author key="A313">López Portillo y Rojas, José</author>
+         <title level="a" type="main">Tres desenlaces ilógicos</title>
+         <title level="a" type="main">Orvañanos</title>
+      </analytic>
+      <monogr>
+         <title level="m" type="main">Sucesos y Novelas Cortas</title>
+         <title level="m" type="sub">por José López-Portillo y Rojas Miembro correspondiente de la
+            Real Academia Española e individuo de número de la Mexicana </title>
+         <imprint>
+            <publisher>Tipografía de "El Tiempo."</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1903">1903</date>
+            <biblScope unit="page" n="50">555-605</biblScope>
+         </imprint>
+         <extent n="609">En 8°, de IV, 609 pp.</extent>
+      </monogr>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/9764</ref>
+   </biblStruct>
+   <biblStruct corresp="W1001" xml:id="E1421">
+      <monogr>
+         <author key="A383">Castellanos, Jesús</author>
+         <title level="m" type="main">La manigua sentimental</title>
+         <title level="m" type="sub">Novela corta</title>
+         <imprint>
+            <publisher>Alrededor del Mundo</publisher>
+            <pubPlace corresp="ES">Madrid</pubPlace>
+            <date when="1910">1910</date>
+         </imprint>
+         <extent n="20">20 pp.</extent>
+      </monogr>
+      <ref>http://online-db.iai.spk-berlin.de/han/789416484</ref>
+      <ref>https://catalog.hathitrust.org/Record/100780833</ref>
+   </biblStruct>
+   <biblStruct corresp="W1100" xml:id="E1546">
+      <analytic>
+         <author key="A9">Castillo, Florencio M. del</author>
+         <title type="main" level="a">Amor y desgracia</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Obras de Don Florencio M. del Castillo</title>
+         <title type="sub" level="m">Novelas cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1902">1902</date>
+            <biblScope unit="page" n="55">p. 1-56</biblScope>
+         </imprint>
+         <extent n="501">En 8°, de XXII, 501 pp. más el retrato del autor</extent>
+      </monogr>
+      <series>
+         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+         <biblScope unit="volume">44</biblScope>
+      </series>
+      <note resp="#Iguiniz">Precedidas de una biografía del mismo por D. Alejandro Villaseñor y
+         Villaseñor. </note>
+      <ref>http://www.cervantesvirtual.com/obra/obras-de-don-florencio-m-del-castillo-novelas-cortas/</ref>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/14794</ref>
+   </biblStruct>
+   <biblStruct corresp="W1101" xml:id="E1551">
+      <analytic>
+         <author key="A9">Castillo, Florencio M. del</author>
+         <title type="main" level="a">La corona de azucenas</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Obras de Don Florencio M. del Castillo</title>
+         <title type="sub" level="m">Novelas cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1902">1902</date>
+            <biblScope unit="page" n="74">p. 57-131</biblScope>
+         </imprint>
+         <extent n="501">En 8°, de XXII, 501 pp. más el retrato del autor</extent>
+      </monogr>
+      <series>
+         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+         <biblScope unit="volume">44</biblScope>
+      </series>
+      <note resp="#Iguiniz">Precedidas de una biografía del mismo por D. Alejandro Villaseñor y
+         Villaseñor. </note>
+      <ref>http://www.cervantesvirtual.com/obra/obras-de-don-florencio-m-del-castillo-novelas-cortas/</ref>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/14794</ref>
+   </biblStruct>
+   <biblStruct corresp="W1102" xml:id="E1557">
+      <analytic>
+         <author key="A9">Castillo, Florencio M. del</author>
+         <title type="main" level="a">¡Hasta el cielo!</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Obras de Don Florencio M. del Castillo</title>
+         <title type="sub" level="m">Novelas cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1902">1902</date>
+            <biblScope unit="page" n="57">p. 133-190</biblScope>
+         </imprint>
+         <extent n="501">En 8°, de XXII, 501 pp. más el retrato del autor</extent>
+      </monogr>
+      <series>
+         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+         <biblScope unit="volume">44</biblScope>
+      </series>
+      <note resp="#Iguiniz">Precedidas de una biografía del mismo por D. Alejandro Villaseñor y
+         Villaseñor. </note>
+      <ref>http://www.cervantesvirtual.com/obra/obras-de-don-florencio-m-del-castillo-novelas-cortas/</ref>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/14794</ref>
+   </biblStruct>
+   <biblStruct corresp="W1104" xml:id="E1563">
+      <analytic>
+         <author key="A9">Castillo, Florencio M. del</author>
+         <title type="main" level="a">Dos horas en el Hospital de San Andrés</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Obras de Don Florencio M. del Castillo</title>
+         <title type="sub" level="m">Novelas cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1902">1902</date>
+            <biblScope unit="page" n="48">p. 197-245</biblScope>
+         </imprint>
+         <extent n="501">En 8°, de XXII, 501 pp. más el retrato del autor</extent>
+      </monogr>
+      <series>
+         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+         <biblScope unit="volume">44</biblScope>
+      </series>
+      <note resp="#Iguiniz">Precedidas de una biografía del mismo por D. Alejandro Villaseñor y
+         Villaseñor. </note>
+      <ref>http://www.cervantesvirtual.com/obra/obras-de-don-florencio-m-del-castillo-novelas-cortas/</ref>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/14794</ref>
+   </biblStruct>
+   <biblStruct corresp="W1105" xml:id="E1565">
+      <analytic>
+         <author key="A423">Castillo, Florencio M. del</author>
+         <title type="main" level="a">Culpa</title>
+      </analytic>
+      <monogr>
+         <title type="main" level="m">Obras de Don Florencio M. del Castillo</title>
+         <title type="sub" level="m">Novelas cortas</title>
+         <imprint>
+            <publisher>Imprenta de V. Agüeros</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1902">1902</date>
+            <biblScope unit="page" n="64">p. 399-463</biblScope>
+         </imprint>
+         <extent n="501">En 8°, de XXII, 501 pp. más el retrato del autor</extent>
+      </monogr>
+      <series>
+         <title level="s" type="main">Biblioteca de Autores Mexicanos</title>
+         <biblScope unit="volume">44</biblScope>
+      </series>
+      <note resp="#Iguiniz">Precedidas de una biografía del mismo por D. Alejandro Villaseñor y
+         Villaseñor. </note>
+      <ref>http://www.cervantesvirtual.com/obra/obras-de-don-florencio-m-del-castillo-novelas-cortas/</ref>
+      <ref>http://cd.dgb.uanl.mx/handle/201504211/14794</ref>
+   </biblStruct>
+   <biblStruct corresp="W1120" xml:id="E1586">
+      <monogr>
+         <author key="A432">Covarrubias y Acevedo, Manuel</author>
+         <title type="sub" level="m">Colección de Novelas Cortas</title>
+         <title type="main" level="m">La Capilla de los Alamos</title>
+         <title type="sub" level="m">Por Manuel Covarrubias y Acevedo</title>
+         <imprint>
+            <publisher>Eduardo Rodríguez y Compañía</publisher>
+            <pubPlace corresp="MX">México</pubPlace>
+            <date when="1892">1892</date>
+         </imprint>
+         <extent n="123">En 8°, de 123 pp.</extent>
+      </monogr>
+      <ref>http://dgb.conaculta.gob.mx/coleccion_sep/libro_pdf/21000026865.pdf</ref>
+   </biblStruct>
+</listBibl>
