@@ -1,4 +1,4 @@
-# data-nh (data for _novelas hispanoamericanas_)
+# data-nh
 Data accompanying the dissertation __Genre analysis and corpus design: 19th century Spanish American novels (1830-1910)__ by Ulrike Henny-Krahmer
 
 Links to the data contained in this repository are given in the text of the dissertation. This repository holds research data that resulted from applying the scripts of scripts-nh (see below) to the corpus files (see below) and is related to the following other GitHub repositories:
