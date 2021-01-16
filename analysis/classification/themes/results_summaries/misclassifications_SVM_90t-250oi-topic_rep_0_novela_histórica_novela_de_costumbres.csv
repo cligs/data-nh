@@ -1,0 +1,118 @@
+,y_true,true_abs,true_rel,false_abs,false_rel
+nh0001,novela de costumbres,99,0.99,1,0.01
+nh0004,novela histórica,80,1.0,0,0.0
+nh0005,novela de costumbres,94,0.94,6,0.06
+nh0007,novela histórica,23,0.2875,57,0.7125
+nh0008,novela de costumbres,100,1.0,0,0.0
+nh0009,novela histórica,80,1.0,0,0.0
+nh0010,novela de costumbres,100,1.0,0,0.0
+nh0015,novela histórica,80,1.0,0,0.0
+nh0017,novela histórica,70,1.0,0,0.0
+nh0020,novela histórica,62,0.8857142857142857,8,0.11428571428571428
+nh0022,novela histórica,80,1.0,0,0.0
+nh0025,novela histórica,70,1.0,0,0.0
+nh0026,novela histórica,80,1.0,0,0.0
+nh0027,novela de costumbres,100,1.0,0,0.0
+nh0035,novela histórica,80,1.0,0,0.0
+nh0036,novela de costumbres,55,0.55,45,0.45
+nh0037,novela histórica,70,1.0,0,0.0
+nh0039,novela de costumbres,100,1.0,0,0.0
+nh0040,novela histórica,58,0.9666666666666667,2,0.03333333333333333
+nh0041,novela histórica,90,1.0,0,0.0
+nh0042,novela de costumbres,100,1.0,0,0.0
+nh0048,novela de costumbres,100,1.0,0,0.0
+nh0049,novela histórica,70,1.0,0,0.0
+nh0050,novela de costumbres,100,1.0,0,0.0
+nh0051,novela de costumbres,100,1.0,0,0.0
+nh0054,novela histórica,70,1.0,0,0.0
+nh0055,novela histórica,100,1.0,0,0.0
+nh0056,novela histórica,80,1.0,0,0.0
+nh0057,novela de costumbres,100,1.0,0,0.0
+nh0061,novela de costumbres,73,0.73,27,0.27
+nh0062,novela de costumbres,100,1.0,0,0.0
+nh0063,novela de costumbres,100,1.0,0,0.0
+nh0064,novela histórica,60,1.0,0,0.0
+nh0065,novela de costumbres,90,0.9,10,0.1
+nh0066,novela de costumbres,100,1.0,0,0.0
+nh0069,novela histórica,80,1.0,0,0.0
+nh0070,novela de costumbres,100,1.0,0,0.0
+nh0071,novela de costumbres,100,1.0,0,0.0
+nh0073,novela de costumbres,100,1.0,0,0.0
+nh0077,novela de costumbres,88,0.88,12,0.12
+nh0078,novela de costumbres,100,1.0,0,0.0
+nh0079,novela de costumbres,100,1.0,0,0.0
+nh0081,novela histórica,60,1.0,0,0.0
+nh0084,novela histórica,60,1.0,0,0.0
+nh0086,novela histórica,77,0.9625,3,0.0375
+nh0090,novela de costumbres,99,0.99,1,0.01
+nh0091,novela histórica,81,0.9,9,0.1
+nh0093,novela de costumbres,100,1.0,0,0.0
+nh0094,novela histórica,70,1.0,0,0.0
+nh0097,novela histórica,100,1.0,0,0.0
+nh0100,novela histórica,42,0.7,18,0.3
+nh0101,novela de costumbres,100,1.0,0,0.0
+nh0103,novela histórica,90,1.0,0,0.0
+nh0105,novela de costumbres,100,1.0,0,0.0
+nh0106,novela histórica,60,1.0,0,0.0
+nh0107,novela histórica,80,1.0,0,0.0
+nh0108,novela histórica,70,1.0,0,0.0
+nh0111,novela histórica,100,1.0,0,0.0
+nh0115,novela histórica,70,1.0,0,0.0
+nh0116,novela histórica,48,0.96,2,0.04
+nh0117,novela histórica,100,1.0,0,0.0
+nh0118,novela de costumbres,100,1.0,0,0.0
+nh0120,novela de costumbres,99,0.99,1,0.01
+nh0122,novela histórica,80,1.0,0,0.0
+nh0125,novela histórica,0,0.0,70,1.0
+nh0129,novela de costumbres,100,1.0,0,0.0
+nh0131,novela de costumbres,100,1.0,0,0.0
+nh0133,novela de costumbres,100,1.0,0,0.0
+nh0135,novela de costumbres,84,0.84,16,0.16
+nh0137,novela de costumbres,95,0.95,5,0.05
+nh0138,novela de costumbres,100,1.0,0,0.0
+nh0139,novela histórica,52,0.8666666666666667,8,0.13333333333333333
+nh0141,novela de costumbres,79,0.79,21,0.21
+nh0142,novela histórica,70,1.0,0,0.0
+nh0143,novela histórica,80,1.0,0,0.0
+nh0144,novela de costumbres,100,1.0,0,0.0
+nh0147,novela de costumbres,100,1.0,0,0.0
+nh0149,novela histórica,90,1.0,0,0.0
+nh0150,novela histórica,50,1.0,0,0.0
+nh0152,novela histórica,80,1.0,0,0.0
+nh0158,novela histórica,70,1.0,0,0.0
+nh0159,novela histórica,80,1.0,0,0.0
+nh0160,novela histórica,60,1.0,0,0.0
+nh0161,novela histórica,90,1.0,0,0.0
+nh0164,novela de costumbres,100,1.0,0,0.0
+nh0165,novela histórica,11,0.18333333333333332,49,0.8166666666666667
+nh0166,novela histórica,57,0.95,3,0.05
+nh0168,novela histórica,80,1.0,0,0.0
+nh0169,novela histórica,90,1.0,0,0.0
+nh0172,novela de costumbres,100,1.0,0,0.0
+nh0176,novela histórica,79,0.9875,1,0.0125
+nh0179,novela de costumbres,100,1.0,0,0.0
+nh0180,novela histórica,40,1.0,0,0.0
+nh0181,novela histórica,70,1.0,0,0.0
+nh0182,novela histórica,60,1.0,0,0.0
+nh0184,novela histórica,79,0.9875,1,0.0125
+nh0196,novela histórica,70,1.0,0,0.0
+nh0197,novela de costumbres,100,1.0,0,0.0
+nh0199,novela de costumbres,100,1.0,0,0.0
+nh0203,novela histórica,60,1.0,0,0.0
+nh0208,novela histórica,70,1.0,0,0.0
+nh0210,novela histórica,88,0.9777777777777777,2,0.022222222222222223
+nh0213,novela de costumbres,95,0.95,5,0.05
+nh0214,novela de costumbres,97,0.97,3,0.03
+nh0217,novela de costumbres,100,1.0,0,0.0
+nh0220,novela de costumbres,95,0.95,5,0.05
+nh0222,novela histórica,80,1.0,0,0.0
+nh0227,novela histórica,100,1.0,0,0.0
+nh0231,novela histórica,70,1.0,0,0.0
+nh0238,novela de costumbres,100,1.0,0,0.0
+nh0242,novela de costumbres,100,1.0,0,0.0
+nh0243,novela histórica,79,0.9875,1,0.0125
+nh0246,novela de costumbres,93,0.93,7,0.07
+nh0247,novela histórica,72,0.9,8,0.1
+nh0248,novela histórica,60,1.0,0,0.0
+nh0249,novela histórica,80,1.0,0,0.0
+nh0253,novela histórica,3,0.04285714285714286,67,0.9571428571428572

@@ -1,0 +1,242 @@
+,y_true,true_abs,true_rel,false_abs,false_rel
+nh0001,novela de costumbres,99,0.99,1,0.01
+nh0002,other,18,0.9,2,0.1
+nh0003,other,18,0.9,2,0.1
+nh0004,other,10,1.0,0,0.0
+nh0005,novela de costumbres,99,0.99,1,0.01
+nh0006,other,30,1.0,0,0.0
+nh0007,other,4,0.13333333333333333,26,0.8666666666666667
+nh0008,novela de costumbres,100,1.0,0,0.0
+nh0009,other,60,1.0,0,0.0
+nh0010,novela de costumbres,98,0.98,2,0.02
+nh0011,other,18,0.6,12,0.4
+nh0012,other,11,0.275,29,0.725
+nh0013,other,37,0.925,3,0.075
+nh0014,other,50,1.0,0,0.0
+nh0015,other,20,1.0,0,0.0
+nh0016,other,10,1.0,0,0.0
+nh0017,other,30,1.0,0,0.0
+nh0018,other,10,1.0,0,0.0
+nh0019,other,30,1.0,0,0.0
+nh0021,other,11,0.55,9,0.45
+nh0022,other,40,1.0,0,0.0
+nh0023,other,10,1.0,0,0.0
+nh0024,other,14,0.7,6,0.3
+nh0025,other,20,1.0,0,0.0
+nh0027,novela de costumbres,100,1.0,0,0.0
+nh0028,other,22,0.44,28,0.56
+nh0029,other,50,1.0,0,0.0
+nh0030,other,30,1.0,0,0.0
+nh0031,other,39,0.975,1,0.025
+nh0032,other,30,1.0,0,0.0
+nh0033,other,20,1.0,0,0.0
+nh0034,other,31,0.62,19,0.38
+nh0035,other,19,0.95,1,0.05
+nh0036,novela de costumbres,46,0.46,54,0.54
+nh0037,other,39,0.975,1,0.025
+nh0038,other,9,0.9,1,0.1
+nh0039,novela de costumbres,100,1.0,0,0.0
+nh0040,other,30,1.0,0,0.0
+nh0041,other,50,1.0,0,0.0
+nh0042,novela de costumbres,99,0.99,1,0.01
+nh0043,other,29,0.9666666666666667,1,0.03333333333333333
+nh0044,other,20,1.0,0,0.0
+nh0045,other,30,1.0,0,0.0
+nh0046,other,55,0.9166666666666666,5,0.08333333333333333
+nh0047,other,26,0.65,14,0.35
+nh0048,novela de costumbres,42,0.42,58,0.58
+nh0049,other,18,0.9,2,0.1
+nh0050,novela de costumbres,100,1.0,0,0.0
+nh0051,novela de costumbres,100,1.0,0,0.0
+nh0052,other,29,0.9666666666666667,1,0.03333333333333333
+nh0054,other,10,1.0,0,0.0
+nh0056,other,20,1.0,0,0.0
+nh0057,novela de costumbres,98,0.98,2,0.02
+nh0058,other,7,0.35,13,0.65
+nh0059,other,48,0.96,2,0.04
+nh0060,other,2,0.2,8,0.8
+nh0061,novela de costumbres,88,0.88,12,0.12
+nh0062,novela de costumbres,79,0.79,21,0.21
+nh0063,novela de costumbres,100,1.0,0,0.0
+nh0065,novela de costumbres,90,0.9,10,0.1
+nh0066,novela de costumbres,88,0.88,12,0.12
+nh0067,other,40,1.0,0,0.0
+nh0068,other,25,0.8333333333333334,5,0.16666666666666666
+nh0069,other,10,1.0,0,0.0
+nh0070,novela de costumbres,87,0.87,13,0.13
+nh0071,novela de costumbres,55,0.55,45,0.45
+nh0072,other,20,1.0,0,0.0
+nh0073,novela de costumbres,91,0.91,9,0.09
+nh0074,other,9,0.9,1,0.1
+nh0075,other,28,0.9333333333333333,2,0.06666666666666667
+nh0076,other,3,0.3,7,0.7
+nh0077,novela de costumbres,73,0.73,27,0.27
+nh0078,novela de costumbres,100,1.0,0,0.0
+nh0079,novela de costumbres,97,0.97,3,0.03
+nh0080,other,30,1.0,0,0.0
+nh0081,other,10,1.0,0,0.0
+nh0082,other,20,1.0,0,0.0
+nh0083,other,30,1.0,0,0.0
+nh0084,other,30,1.0,0,0.0
+nh0085,other,10,1.0,0,0.0
+nh0086,other,40,1.0,0,0.0
+nh0087,other,36,0.72,14,0.28
+nh0088,other,39,0.975,1,0.025
+nh0090,novela de costumbres,100,1.0,0,0.0
+nh0091,other,18,0.9,2,0.1
+nh0092,other,50,1.0,0,0.0
+nh0093,novela de costumbres,100,1.0,0,0.0
+nh0094,other,10,1.0,0,0.0
+nh0095,other,19,0.95,1,0.05
+nh0096,other,12,0.6,8,0.4
+nh0098,other,30,1.0,0,0.0
+nh0099,other,36,0.9,4,0.1
+nh0101,novela de costumbres,97,0.97,3,0.03
+nh0102,other,10,1.0,0,0.0
+nh0103,other,30,1.0,0,0.0
+nh0104,other,30,1.0,0,0.0
+nh0105,novela de costumbres,100,1.0,0,0.0
+nh0106,other,30,1.0,0,0.0
+nh0107,other,10,1.0,0,0.0
+nh0109,other,19,0.95,1,0.05
+nh0110,other,18,0.6,12,0.4
+nh0111,other,20,1.0,0,0.0
+nh0112,other,4,0.13333333333333333,26,0.8666666666666667
+nh0113,other,40,1.0,0,0.0
+nh0114,other,18,0.9,2,0.1
+nh0115,other,30,1.0,0,0.0
+nh0116,other,30,1.0,0,0.0
+nh0117,other,30,1.0,0,0.0
+nh0118,novela de costumbres,98,0.98,2,0.02
+nh0119,other,13,0.65,7,0.35
+nh0120,novela de costumbres,100,1.0,0,0.0
+nh0121,other,30,1.0,0,0.0
+nh0122,other,30,1.0,0,0.0
+nh0123,other,0,0.0,20,1.0
+nh0124,other,29,0.9666666666666667,1,0.03333333333333333
+nh0125,other,0,0.0,10,1.0
+nh0127,other,29,0.9666666666666667,1,0.03333333333333333
+nh0128,other,20,1.0,0,0.0
+nh0129,novela de costumbres,100,1.0,0,0.0
+nh0130,other,2,0.1,18,0.9
+nh0131,novela de costumbres,100,1.0,0,0.0
+nh0133,novela de costumbres,100,1.0,0,0.0
+nh0134,other,10,1.0,0,0.0
+nh0135,novela de costumbres,0,0.0,100,1.0
+nh0136,other,19,0.95,1,0.05
+nh0137,novela de costumbres,87,0.87,13,0.13
+nh0138,novela de costumbres,99,0.99,1,0.01
+nh0139,other,14,0.28,36,0.72
+nh0140,other,20,1.0,0,0.0
+nh0141,novela de costumbres,100,1.0,0,0.0
+nh0142,other,40,1.0,0,0.0
+nh0143,other,30,1.0,0,0.0
+nh0144,novela de costumbres,98,0.98,2,0.02
+nh0145,other,38,0.95,2,0.05
+nh0146,other,20,1.0,0,0.0
+nh0147,novela de costumbres,99,0.99,1,0.01
+nh0148,other,10,1.0,0,0.0
+nh0149,other,30,1.0,0,0.0
+nh0151,other,19,0.6333333333333333,11,0.36666666666666664
+nh0152,other,30,1.0,0,0.0
+nh0153,other,30,1.0,0,0.0
+nh0154,other,30,1.0,0,0.0
+nh0155,other,9,0.225,31,0.775
+nh0156,other,50,1.0,0,0.0
+nh0157,other,10,1.0,0,0.0
+nh0158,other,20,1.0,0,0.0
+nh0160,other,10,1.0,0,0.0
+nh0161,other,20,1.0,0,0.0
+nh0162,other,0,0.0,10,1.0
+nh0163,other,9,0.9,1,0.1
+nh0164,novela de costumbres,96,0.96,4,0.04
+nh0165,other,10,1.0,0,0.0
+nh0166,other,30,1.0,0,0.0
+nh0167,other,30,0.75,10,0.25
+nh0168,other,40,1.0,0,0.0
+nh0169,other,28,0.9333333333333333,2,0.06666666666666667
+nh0170,other,48,0.96,2,0.04
+nh0171,other,20,1.0,0,0.0
+nh0172,novela de costumbres,71,0.71,29,0.29
+nh0173,other,10,1.0,0,0.0
+nh0174,other,10,1.0,0,0.0
+nh0175,other,10,1.0,0,0.0
+nh0176,other,29,0.9666666666666667,1,0.03333333333333333
+nh0177,other,2,0.06666666666666667,28,0.9333333333333333
+nh0179,novela de costumbres,100,1.0,0,0.0
+nh0180,other,20,1.0,0,0.0
+nh0181,other,40,1.0,0,0.0
+nh0182,other,20,1.0,0,0.0
+nh0183,other,30,1.0,0,0.0
+nh0184,other,16,0.5333333333333333,14,0.4666666666666667
+nh0185,other,30,1.0,0,0.0
+nh0186,other,10,1.0,0,0.0
+nh0187,other,39,0.975,1,0.025
+nh0189,other,19,0.95,1,0.05
+nh0190,other,30,1.0,0,0.0
+nh0191,other,10,1.0,0,0.0
+nh0192,other,10,1.0,0,0.0
+nh0193,other,30,1.0,0,0.0
+nh0194,other,20,1.0,0,0.0
+nh0195,other,30,1.0,0,0.0
+nh0196,other,30,1.0,0,0.0
+nh0197,novela de costumbres,100,1.0,0,0.0
+nh0198,other,30,1.0,0,0.0
+nh0199,novela de costumbres,100,1.0,0,0.0
+nh0200,other,20,1.0,0,0.0
+nh0201,other,19,0.95,1,0.05
+nh0202,other,20,1.0,0,0.0
+nh0203,other,20,1.0,0,0.0
+nh0204,other,35,0.875,5,0.125
+nh0205,other,28,0.9333333333333333,2,0.06666666666666667
+nh0206,other,20,1.0,0,0.0
+nh0207,other,50,1.0,0,0.0
+nh0208,other,30,1.0,0,0.0
+nh0209,other,40,1.0,0,0.0
+nh0210,other,19,0.95,1,0.05
+nh0211,other,37,0.925,3,0.075
+nh0212,other,30,1.0,0,0.0
+nh0213,novela de costumbres,72,0.72,28,0.28
+nh0214,novela de costumbres,99,0.99,1,0.01
+nh0215,other,10,1.0,0,0.0
+nh0216,other,17,0.85,3,0.15
+nh0217,novela de costumbres,93,0.93,7,0.07
+nh0218,other,10,1.0,0,0.0
+nh0219,other,30,1.0,0,0.0
+nh0220,novela de costumbres,82,0.82,18,0.18
+nh0221,other,30,1.0,0,0.0
+nh0222,other,30,1.0,0,0.0
+nh0223,other,13,0.325,27,0.675
+nh0224,other,30,1.0,0,0.0
+nh0225,other,20,1.0,0,0.0
+nh0226,other,30,1.0,0,0.0
+nh0227,other,50,1.0,0,0.0
+nh0228,other,10,1.0,0,0.0
+nh0229,other,19,0.95,1,0.05
+nh0230,other,0,0.0,10,1.0
+nh0231,other,10,1.0,0,0.0
+nh0232,other,0,0.0,30,1.0
+nh0233,other,19,0.95,1,0.05
+nh0234,other,0,0.0,20,1.0
+nh0235,other,19,0.95,1,0.05
+nh0236,other,1,0.1,9,0.9
+nh0237,other,24,0.8,6,0.2
+nh0238,novela de costumbres,100,1.0,0,0.0
+nh0239,other,19,0.95,1,0.05
+nh0240,other,20,1.0,0,0.0
+nh0241,other,30,1.0,0,0.0
+nh0242,novela de costumbres,94,0.94,6,0.06
+nh0243,other,29,0.9666666666666667,1,0.03333333333333333
+nh0244,other,5,0.5,5,0.5
+nh0245,other,20,1.0,0,0.0
+nh0246,novela de costumbres,100,1.0,0,0.0
+nh0247,other,18,0.9,2,0.1
+nh0248,other,10,1.0,0,0.0
+nh0249,other,30,1.0,0,0.0
+nh0250,other,40,1.0,0,0.0
+nh0251,other,28,0.9333333333333333,2,0.06666666666666667
+nh0252,other,19,0.95,1,0.05
+nh0253,other,0,0.0,50,1.0
+nh0254,other,9,0.9,1,0.1
+nh0255,other,0,0.0,20,1.0
+nh0256,other,1,0.1,9,0.9

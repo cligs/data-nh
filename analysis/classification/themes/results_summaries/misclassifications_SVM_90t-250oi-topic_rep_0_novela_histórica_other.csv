@@ -1,0 +1,253 @@
+,y_true,true_abs,true_rel,false_abs,false_rel
+nh0001,other,36,0.9,4,0.1
+nh0002,other,36,0.9,4,0.1
+nh0003,other,56,0.9333333333333333,4,0.06666666666666667
+nh0004,novela histórica,100,1.0,0,0.0
+nh0005,other,36,0.9,4,0.1
+nh0006,other,29,0.725,11,0.275
+nh0007,novela histórica,96,0.96,4,0.04
+nh0008,other,20,1.0,0,0.0
+nh0009,novela histórica,100,1.0,0,0.0
+nh0010,other,40,1.0,0,0.0
+nh0011,other,20,1.0,0,0.0
+nh0012,other,30,1.0,0,0.0
+nh0013,other,30,1.0,0,0.0
+nh0014,other,30,0.75,10,0.25
+nh0015,novela histórica,100,1.0,0,0.0
+nh0016,other,38,0.95,2,0.05
+nh0017,novela histórica,100,1.0,0,0.0
+nh0018,other,39,0.975,1,0.025
+nh0019,other,40,1.0,0,0.0
+nh0020,novela histórica,73,0.73,27,0.27
+nh0021,other,50,1.0,0,0.0
+nh0022,novela histórica,100,1.0,0,0.0
+nh0023,other,19,0.6333333333333333,11,0.36666666666666664
+nh0024,other,29,0.9666666666666667,1,0.03333333333333333
+nh0025,novela histórica,89,0.89,11,0.11
+nh0026,novela histórica,100,1.0,0,0.0
+nh0027,other,60,1.0,0,0.0
+nh0028,other,50,1.0,0,0.0
+nh0029,other,9,0.9,1,0.1
+nh0030,other,19,0.95,1,0.05
+nh0031,other,57,0.95,3,0.05
+nh0032,other,48,0.96,2,0.04
+nh0033,other,47,0.94,3,0.06
+nh0034,other,47,0.94,3,0.06
+nh0035,novela histórica,100,1.0,0,0.0
+nh0036,other,43,0.5375,37,0.4625
+nh0037,novela histórica,100,1.0,0,0.0
+nh0038,other,50,1.0,0,0.0
+nh0039,other,20,1.0,0,0.0
+nh0040,novela histórica,53,0.53,47,0.47
+nh0041,novela histórica,100,1.0,0,0.0
+nh0042,other,39,0.975,1,0.025
+nh0043,other,20,1.0,0,0.0
+nh0044,other,20,1.0,0,0.0
+nh0045,other,40,1.0,0,0.0
+nh0046,other,40,1.0,0,0.0
+nh0047,other,40,1.0,0,0.0
+nh0048,other,40,1.0,0,0.0
+nh0049,novela histórica,100,1.0,0,0.0
+nh0050,other,10,1.0,0,0.0
+nh0051,other,30,1.0,0,0.0
+nh0052,other,20,1.0,0,0.0
+nh0053,other,27,0.675,13,0.325
+nh0054,novela histórica,100,1.0,0,0.0
+nh0055,novela histórica,100,1.0,0,0.0
+nh0056,novela histórica,100,1.0,0,0.0
+nh0057,other,30,1.0,0,0.0
+nh0058,other,30,1.0,0,0.0
+nh0059,other,30,1.0,0,0.0
+nh0060,other,50,1.0,0,0.0
+nh0061,other,2,0.06666666666666667,28,0.9333333333333333
+nh0062,other,50,1.0,0,0.0
+nh0063,other,40,1.0,0,0.0
+nh0064,novela histórica,99,0.99,1,0.01
+nh0065,other,20,1.0,0,0.0
+nh0066,other,40,1.0,0,0.0
+nh0067,other,29,0.9666666666666667,1,0.03333333333333333
+nh0068,other,50,1.0,0,0.0
+nh0069,novela histórica,100,1.0,0,0.0
+nh0070,other,50,1.0,0,0.0
+nh0071,other,60,1.0,0,0.0
+nh0072,other,0,0.0,50,1.0
+nh0073,other,10,1.0,0,0.0
+nh0074,other,20,1.0,0,0.0
+nh0075,other,40,1.0,0,0.0
+nh0076,other,30,1.0,0,0.0
+nh0077,other,29,0.9666666666666667,1,0.03333333333333333
+nh0078,other,48,0.96,2,0.04
+nh0079,other,20,1.0,0,0.0
+nh0080,other,30,1.0,0,0.0
+nh0081,novela histórica,99,0.99,1,0.01
+nh0082,other,50,1.0,0,0.0
+nh0083,other,30,1.0,0,0.0
+nh0084,novela histórica,100,1.0,0,0.0
+nh0085,other,31,0.775,9,0.225
+nh0086,novela histórica,92,0.92,8,0.08
+nh0087,other,20,1.0,0,0.0
+nh0088,other,20,1.0,0,0.0
+nh0089,other,60,1.0,0,0.0
+nh0090,other,1,0.025,39,0.975
+nh0091,novela histórica,78,0.78,22,0.22
+nh0092,other,30,1.0,0,0.0
+nh0093,other,40,1.0,0,0.0
+nh0094,novela histórica,100,1.0,0,0.0
+nh0095,other,29,0.9666666666666667,1,0.03333333333333333
+nh0096,other,30,1.0,0,0.0
+nh0097,novela histórica,100,1.0,0,0.0
+nh0098,other,46,0.92,4,0.08
+nh0099,other,70,1.0,0,0.0
+nh0100,novela histórica,78,0.78,22,0.22
+nh0101,other,30,1.0,0,0.0
+nh0102,other,19,0.95,1,0.05
+nh0103,novela histórica,96,0.96,4,0.04
+nh0104,other,40,1.0,0,0.0
+nh0106,novela histórica,100,1.0,0,0.0
+nh0107,novela histórica,100,1.0,0,0.0
+nh0108,novela histórica,100,1.0,0,0.0
+nh0109,other,30,1.0,0,0.0
+nh0110,other,38,0.95,2,0.05
+nh0111,novela histórica,100,1.0,0,0.0
+nh0112,other,50,1.0,0,0.0
+nh0113,other,50,1.0,0,0.0
+nh0115,novela histórica,100,1.0,0,0.0
+nh0116,novela histórica,100,1.0,0,0.0
+nh0117,novela histórica,100,1.0,0,0.0
+nh0118,other,50,1.0,0,0.0
+nh0119,other,20,1.0,0,0.0
+nh0120,other,20,0.5,20,0.5
+nh0121,other,20,1.0,0,0.0
+nh0122,novela histórica,100,1.0,0,0.0
+nh0123,other,10,1.0,0,0.0
+nh0124,other,20,1.0,0,0.0
+nh0125,novela histórica,94,0.94,6,0.06
+nh0126,other,30,1.0,0,0.0
+nh0127,other,20,1.0,0,0.0
+nh0128,other,0,0.0,30,1.0
+nh0129,other,20,1.0,0,0.0
+nh0130,other,20,1.0,0,0.0
+nh0131,other,30,1.0,0,0.0
+nh0132,other,20,1.0,0,0.0
+nh0133,other,40,1.0,0,0.0
+nh0134,other,20,1.0,0,0.0
+nh0135,other,50,1.0,0,0.0
+nh0136,other,50,1.0,0,0.0
+nh0137,other,49,0.98,1,0.02
+nh0138,other,20,1.0,0,0.0
+nh0139,novela histórica,100,1.0,0,0.0
+nh0140,other,50,1.0,0,0.0
+nh0141,other,0,0.0,60,1.0
+nh0142,novela histórica,100,1.0,0,0.0
+nh0143,novela histórica,100,1.0,0,0.0
+nh0144,other,40,1.0,0,0.0
+nh0145,other,10,1.0,0,0.0
+nh0147,other,10,1.0,0,0.0
+nh0148,other,20,1.0,0,0.0
+nh0149,novela histórica,100,1.0,0,0.0
+nh0150,novela histórica,23,0.23,77,0.77
+nh0151,other,40,1.0,0,0.0
+nh0152,novela histórica,100,1.0,0,0.0
+nh0153,other,38,0.95,2,0.05
+nh0154,other,40,1.0,0,0.0
+nh0155,other,20,1.0,0,0.0
+nh0156,other,20,1.0,0,0.0
+nh0157,other,40,1.0,0,0.0
+nh0158,novela histórica,100,1.0,0,0.0
+nh0159,novela histórica,100,1.0,0,0.0
+nh0160,novela histórica,100,1.0,0,0.0
+nh0161,novela histórica,100,1.0,0,0.0
+nh0162,other,40,1.0,0,0.0
+nh0163,other,50,1.0,0,0.0
+nh0164,other,20,1.0,0,0.0
+nh0165,novela histórica,30,0.3,70,0.7
+nh0166,novela histórica,27,0.27,73,0.73
+nh0167,other,30,1.0,0,0.0
+nh0168,novela histórica,100,1.0,0,0.0
+nh0169,novela histórica,98,0.98,2,0.02
+nh0170,other,10,1.0,0,0.0
+nh0171,other,50,1.0,0,0.0
+nh0172,other,50,1.0,0,0.0
+nh0173,other,39,0.975,1,0.025
+nh0174,other,40,1.0,0,0.0
+nh0175,other,20,1.0,0,0.0
+nh0176,novela histórica,100,1.0,0,0.0
+nh0177,other,20,1.0,0,0.0
+nh0178,other,39,0.975,1,0.025
+nh0179,other,70,1.0,0,0.0
+nh0180,novela histórica,100,1.0,0,0.0
+nh0181,novela histórica,100,1.0,0,0.0
+nh0182,novela histórica,100,1.0,0,0.0
+nh0183,other,50,1.0,0,0.0
+nh0184,novela histórica,100,1.0,0,0.0
+nh0185,other,29,0.9666666666666667,1,0.03333333333333333
+nh0186,other,30,1.0,0,0.0
+nh0187,other,10,1.0,0,0.0
+nh0188,other,90,1.0,0,0.0
+nh0189,other,50,1.0,0,0.0
+nh0191,other,60,1.0,0,0.0
+nh0192,other,40,1.0,0,0.0
+nh0193,other,10,1.0,0,0.0
+nh0194,other,17,0.85,3,0.15
+nh0195,other,17,0.85,3,0.15
+nh0196,novela histórica,100,1.0,0,0.0
+nh0197,other,40,1.0,0,0.0
+nh0198,other,30,1.0,0,0.0
+nh0199,other,40,1.0,0,0.0
+nh0200,other,56,0.9333333333333333,4,0.06666666666666667
+nh0201,other,10,1.0,0,0.0
+nh0202,other,40,1.0,0,0.0
+nh0203,novela histórica,100,1.0,0,0.0
+nh0204,other,58,0.9666666666666667,2,0.03333333333333333
+nh0205,other,20,1.0,0,0.0
+nh0206,other,50,1.0,0,0.0
+nh0207,other,40,1.0,0,0.0
+nh0208,novela histórica,100,1.0,0,0.0
+nh0209,other,50,1.0,0,0.0
+nh0210,novela histórica,91,0.91,9,0.09
+nh0211,other,28,0.9333333333333333,2,0.06666666666666667
+nh0212,other,40,1.0,0,0.0
+nh0213,other,50,1.0,0,0.0
+nh0214,other,38,0.95,2,0.05
+nh0215,other,47,0.94,3,0.06
+nh0216,other,34,0.68,16,0.32
+nh0217,other,60,1.0,0,0.0
+nh0218,other,40,1.0,0,0.0
+nh0219,other,26,0.65,14,0.35
+nh0220,other,20,1.0,0,0.0
+nh0221,other,19,0.95,1,0.05
+nh0222,novela histórica,59,0.59,41,0.41
+nh0223,other,30,1.0,0,0.0
+nh0224,other,28,0.9333333333333333,2,0.06666666666666667
+nh0225,other,13,0.43333333333333335,17,0.5666666666666667
+nh0226,other,17,0.5666666666666667,13,0.43333333333333335
+nh0227,novela histórica,100,1.0,0,0.0
+nh0228,other,10,1.0,0,0.0
+nh0229,other,30,1.0,0,0.0
+nh0230,other,50,1.0,0,0.0
+nh0231,novela histórica,100,1.0,0,0.0
+nh0232,other,50,1.0,0,0.0
+nh0233,other,30,1.0,0,0.0
+nh0234,other,30,1.0,0,0.0
+nh0235,other,40,1.0,0,0.0
+nh0236,other,38,0.76,12,0.24
+nh0237,other,30,1.0,0,0.0
+nh0238,other,20,1.0,0,0.0
+nh0239,other,29,0.9666666666666667,1,0.03333333333333333
+nh0240,other,36,0.9,4,0.1
+nh0241,other,30,1.0,0,0.0
+nh0242,other,60,1.0,0,0.0
+nh0243,novela histórica,100,1.0,0,0.0
+nh0244,other,8,0.8,2,0.2
+nh0245,other,20,1.0,0,0.0
+nh0246,other,56,0.9333333333333333,4,0.06666666666666667
+nh0247,novela histórica,92,0.92,8,0.08
+nh0248,novela histórica,82,0.82,18,0.18
+nh0249,novela histórica,96,0.96,4,0.04
+nh0250,other,20,1.0,0,0.0
+nh0251,other,30,1.0,0,0.0
+nh0252,other,40,1.0,0,0.0
+nh0253,novela histórica,99,0.99,1,0.01
+nh0254,other,60,1.0,0,0.0
+nh0255,other,50,1.0,0,0.0
+nh0256,other,40,1.0,0,0.0

@@ -1,0 +1,106 @@
+,y_true,true_abs,true_rel,false_abs,false_rel
+nh0001,novela de costumbres,94,0.94,6,0.06
+nh0003,novela sentimental,66,0.9428571428571428,4,0.05714285714285714
+nh0005,novela de costumbres,100,1.0,0,0.0
+nh0006,novela sentimental,90,1.0,0,0.0
+nh0008,novela de costumbres,99,0.99,1,0.01
+nh0010,novela de costumbres,100,1.0,0,0.0
+nh0013,novela sentimental,100,1.0,0,0.0
+nh0014,novela sentimental,100,1.0,0,0.0
+nh0018,novela sentimental,100,1.0,0,0.0
+nh0021,novela sentimental,90,1.0,0,0.0
+nh0027,novela de costumbres,100,1.0,0,0.0
+nh0034,novela sentimental,0,0.0,90,1.0
+nh0036,novela de costumbres,100,1.0,0,0.0
+nh0039,novela de costumbres,100,1.0,0,0.0
+nh0042,novela de costumbres,100,1.0,0,0.0
+nh0043,novela sentimental,90,1.0,0,0.0
+nh0045,novela sentimental,90,1.0,0,0.0
+nh0048,novela de costumbres,100,1.0,0,0.0
+nh0050,novela de costumbres,100,1.0,0,0.0
+nh0051,novela de costumbres,100,1.0,0,0.0
+nh0057,novela de costumbres,100,1.0,0,0.0
+nh0061,novela de costumbres,100,1.0,0,0.0
+nh0062,novela de costumbres,74,0.74,26,0.26
+nh0063,novela de costumbres,100,1.0,0,0.0
+nh0065,novela de costumbres,90,0.9,10,0.1
+nh0066,novela de costumbres,100,1.0,0,0.0
+nh0068,novela sentimental,76,0.8444444444444444,14,0.15555555555555556
+nh0070,novela de costumbres,100,1.0,0,0.0
+nh0071,novela de costumbres,0,0.0,100,1.0
+nh0072,novela sentimental,80,1.0,0,0.0
+nh0073,novela de costumbres,90,0.9,10,0.1
+nh0076,novela sentimental,0,0.0,90,1.0
+nh0077,novela de costumbres,100,1.0,0,0.0
+nh0078,novela de costumbres,100,1.0,0,0.0
+nh0079,novela de costumbres,100,1.0,0,0.0
+nh0082,novela sentimental,100,1.0,0,0.0
+nh0087,novela sentimental,81,0.9,9,0.1
+nh0089,novela sentimental,79,0.9875,1,0.0125
+nh0090,novela de costumbres,100,1.0,0,0.0
+nh0092,novela sentimental,89,0.9888888888888889,1,0.011111111111111112
+nh0093,novela de costumbres,100,1.0,0,0.0
+nh0096,novela sentimental,90,1.0,0,0.0
+nh0098,novela sentimental,80,1.0,0,0.0
+nh0099,novela sentimental,100,1.0,0,0.0
+nh0101,novela de costumbres,100,1.0,0,0.0
+nh0102,novela sentimental,99,0.99,1,0.01
+nh0104,novela sentimental,80,1.0,0,0.0
+nh0105,novela de costumbres,100,1.0,0,0.0
+nh0118,novela de costumbres,96,0.96,4,0.04
+nh0119,novela sentimental,80,1.0,0,0.0
+nh0120,novela de costumbres,100,1.0,0,0.0
+nh0123,novela sentimental,4,0.04,96,0.96
+nh0129,novela de costumbres,100,1.0,0,0.0
+nh0130,novela sentimental,0,0.0,100,1.0
+nh0131,novela de costumbres,100,1.0,0,0.0
+nh0132,novela sentimental,78,0.78,22,0.22
+nh0133,novela de costumbres,100,1.0,0,0.0
+nh0135,novela de costumbres,0,0.0,100,1.0
+nh0136,novela sentimental,100,1.0,0,0.0
+nh0137,novela de costumbres,100,1.0,0,0.0
+nh0138,novela de costumbres,100,1.0,0,0.0
+nh0140,novela sentimental,90,1.0,0,0.0
+nh0141,novela de costumbres,100,1.0,0,0.0
+nh0144,novela de costumbres,100,1.0,0,0.0
+nh0145,novela sentimental,32,0.35555555555555557,58,0.6444444444444445
+nh0146,novela sentimental,90,1.0,0,0.0
+nh0147,novela de costumbres,100,1.0,0,0.0
+nh0151,novela sentimental,100,1.0,0,0.0
+nh0154,novela sentimental,90,1.0,0,0.0
+nh0156,novela sentimental,90,1.0,0,0.0
+nh0162,novela sentimental,62,0.62,38,0.38
+nh0164,novela de costumbres,100,1.0,0,0.0
+nh0171,novela sentimental,90,1.0,0,0.0
+nh0172,novela de costumbres,4,0.04,96,0.96
+nh0179,novela de costumbres,100,1.0,0,0.0
+nh0183,novela sentimental,89,0.9888888888888889,1,0.011111111111111112
+nh0187,novela sentimental,88,0.9777777777777777,2,0.022222222222222223
+nh0188,novela sentimental,90,1.0,0,0.0
+nh0195,novela sentimental,100,1.0,0,0.0
+nh0197,novela de costumbres,100,1.0,0,0.0
+nh0199,novela de costumbres,100,1.0,0,0.0
+nh0202,novela sentimental,68,0.68,32,0.32
+nh0207,novela sentimental,90,1.0,0,0.0
+nh0209,novela sentimental,90,1.0,0,0.0
+nh0212,novela sentimental,70,1.0,0,0.0
+nh0213,novela de costumbres,100,1.0,0,0.0
+nh0214,novela de costumbres,100,1.0,0,0.0
+nh0216,novela sentimental,72,0.9,8,0.1
+nh0217,novela de costumbres,100,1.0,0,0.0
+nh0218,novela sentimental,100,1.0,0,0.0
+nh0219,novela sentimental,90,1.0,0,0.0
+nh0220,novela de costumbres,90,0.9,10,0.1
+nh0228,novela sentimental,100,1.0,0,0.0
+nh0230,novela sentimental,48,0.48,52,0.52
+nh0233,novela sentimental,80,1.0,0,0.0
+nh0237,novela sentimental,78,0.975,2,0.025
+nh0238,novela de costumbres,100,1.0,0,0.0
+nh0241,novela sentimental,90,1.0,0,0.0
+nh0242,novela de costumbres,100,1.0,0,0.0
+nh0245,novela sentimental,100,1.0,0,0.0
+nh0246,novela de costumbres,100,1.0,0,0.0
+nh0250,novela sentimental,80,1.0,0,0.0
+nh0251,novela sentimental,80,1.0,0,0.0
+nh0252,novela sentimental,100,1.0,0,0.0
+nh0254,novela sentimental,90,1.0,0,0.0
