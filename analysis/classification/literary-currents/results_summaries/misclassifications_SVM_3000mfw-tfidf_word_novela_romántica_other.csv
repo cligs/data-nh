@@ -1,0 +1,202 @@
+,y_true,true_abs,true_rel,false_abs,false_rel
+nh0001,novela romántica,76,0.95,4,0.05
+nh0002,other,100,1.0,0,0.0
+nh0003,novela romántica,80,1.0,0,0.0
+nh0005,novela romántica,80,1.0,0,0.0
+nh0006,novela romántica,90,1.0,0,0.0
+nh0007,novela romántica,80,1.0,0,0.0
+nh0008,other,100,1.0,0,0.0
+nh0009,novela romántica,70,1.0,0,0.0
+nh0010,other,100,1.0,0,0.0
+nh0011,other,100,1.0,0,0.0
+nh0012,other,100,1.0,0,0.0
+nh0013,other,100,1.0,0,0.0
+nh0015,other,100,1.0,0,0.0
+nh0016,novela romántica,80,1.0,0,0.0
+nh0017,novela romántica,90,1.0,0,0.0
+nh0019,other,100,1.0,0,0.0
+nh0021,novela romántica,72,0.9,8,0.1
+nh0022,other,100,1.0,0,0.0
+nh0023,other,100,1.0,0,0.0
+nh0024,novela romántica,90,1.0,0,0.0
+nh0025,novela romántica,70,1.0,0,0.0
+nh0026,novela romántica,70,1.0,0,0.0
+nh0027,other,100,1.0,0,0.0
+nh0028,other,90,0.9,10,0.1
+nh0029,other,100,1.0,0,0.0
+nh0030,other,100,1.0,0,0.0
+nh0031,other,100,1.0,0,0.0
+nh0032,other,100,1.0,0,0.0
+nh0033,other,100,1.0,0,0.0
+nh0034,other,100,1.0,0,0.0
+nh0035,novela romántica,80,1.0,0,0.0
+nh0036,other,100,1.0,0,0.0
+nh0037,novela romántica,80,1.0,0,0.0
+nh0038,other,100,1.0,0,0.0
+nh0039,other,100,1.0,0,0.0
+nh0040,novela romántica,100,1.0,0,0.0
+nh0041,novela romántica,80,1.0,0,0.0
+nh0043,novela romántica,80,1.0,0,0.0
+nh0044,other,100,1.0,0,0.0
+nh0045,novela romántica,80,1.0,0,0.0
+nh0046,other,100,1.0,0,0.0
+nh0047,other,100,1.0,0,0.0
+nh0048,other,100,1.0,0,0.0
+nh0049,novela romántica,90,1.0,0,0.0
+nh0050,novela romántica,40,1.0,0,0.0
+nh0052,other,100,1.0,0,0.0
+nh0053,novela romántica,80,1.0,0,0.0
+nh0054,novela romántica,70,1.0,0,0.0
+nh0055,novela romántica,70,1.0,0,0.0
+nh0056,novela romántica,70,1.0,0,0.0
+nh0057,other,100,1.0,0,0.0
+nh0058,other,100,1.0,0,0.0
+nh0059,other,100,1.0,0,0.0
+nh0060,other,100,1.0,0,0.0
+nh0061,novela romántica,63,0.9,7,0.1
+nh0062,other,100,1.0,0,0.0
+nh0063,novela romántica,80,1.0,0,0.0
+nh0064,novela romántica,50,1.0,0,0.0
+nh0065,novela romántica,60,1.0,0,0.0
+nh0067,other,100,1.0,0,0.0
+nh0068,other,100,1.0,0,0.0
+nh0069,novela romántica,80,1.0,0,0.0
+nh0071,novela romántica,72,0.9,8,0.1
+nh0072,novela romántica,80,1.0,0,0.0
+nh0073,novela romántica,50,1.0,0,0.0
+nh0074,other,100,1.0,0,0.0
+nh0075,other,100,1.0,0,0.0
+nh0076,other,100,1.0,0,0.0
+nh0080,other,100,1.0,0,0.0
+nh0082,novela romántica,72,0.9,8,0.1
+nh0084,other,100,1.0,0,0.0
+nh0085,novela romántica,60,1.0,0,0.0
+nh0086,other,100,1.0,0,0.0
+nh0087,novela romántica,60,1.0,0,0.0
+nh0088,other,100,1.0,0,0.0
+nh0089,other,100,1.0,0,0.0
+nh0090,other,90,0.9,10,0.1
+nh0092,novela romántica,90,1.0,0,0.0
+nh0094,novela romántica,40,1.0,0,0.0
+nh0095,novela romántica,80,1.0,0,0.0
+nh0096,novela romántica,70,1.0,0,0.0
+nh0097,novela romántica,80,1.0,0,0.0
+nh0098,novela romántica,90,1.0,0,0.0
+nh0099,other,100,1.0,0,0.0
+nh0102,novela romántica,70,1.0,0,0.0
+nh0104,novela romántica,100,1.0,0,0.0
+nh0105,novela romántica,54,0.9,6,0.1
+nh0106,novela romántica,40,1.0,0,0.0
+nh0108,novela romántica,70,1.0,0,0.0
+nh0109,other,100,1.0,0,0.0
+nh0110,novela romántica,90,1.0,0,0.0
+nh0111,novela romántica,70,1.0,0,0.0
+nh0113,novela romántica,60,1.0,0,0.0
+nh0114,other,100,1.0,0,0.0
+nh0115,novela romántica,70,1.0,0,0.0
+nh0116,novela romántica,80,1.0,0,0.0
+nh0117,novela romántica,70,1.0,0,0.0
+nh0118,novela romántica,54,0.9,6,0.1
+nh0119,other,100,1.0,0,0.0
+nh0120,novela romántica,70,1.0,0,0.0
+nh0121,novela romántica,80,1.0,0,0.0
+nh0122,novela romántica,80,1.0,0,0.0
+nh0124,novela romántica,90,1.0,0,0.0
+nh0125,novela romántica,60,1.0,0,0.0
+nh0126,novela romántica,90,1.0,0,0.0
+nh0127,other,100,1.0,0,0.0
+nh0129,novela romántica,39,0.975,1,0.025
+nh0131,novela romántica,100,1.0,0,0.0
+nh0133,other,100,1.0,0,0.0
+nh0135,other,90,0.9,10,0.1
+nh0136,other,100,1.0,0,0.0
+nh0138,novela romántica,70,1.0,0,0.0
+nh0140,novela romántica,60,1.0,0,0.0
+nh0141,novela romántica,80,1.0,0,0.0
+nh0142,novela romántica,70,1.0,0,0.0
+nh0143,novela romántica,70,1.0,0,0.0
+nh0144,novela romántica,90,1.0,0,0.0
+nh0145,novela romántica,73,0.9125,7,0.0875
+nh0146,novela romántica,80,1.0,0,0.0
+nh0147,novela romántica,64,0.9142857142857143,6,0.08571428571428572
+nh0148,other,100,1.0,0,0.0
+nh0149,novela romántica,50,1.0,0,0.0
+nh0150,novela romántica,80,1.0,0,0.0
+nh0151,novela romántica,60,1.0,0,0.0
+nh0152,novela romántica,70,1.0,0,0.0
+nh0155,other,100,1.0,0,0.0
+nh0156,novela romántica,50,1.0,0,0.0
+nh0157,novela romántica,70,1.0,0,0.0
+nh0158,novela romántica,70,1.0,0,0.0
+nh0159,novela romántica,80,1.0,0,0.0
+nh0161,novela romántica,90,1.0,0,0.0
+nh0162,novela romántica,70,1.0,0,0.0
+nh0163,other,100,1.0,0,0.0
+nh0164,other,100,1.0,0,0.0
+nh0165,other,100,1.0,0,0.0
+nh0167,novela romántica,70,1.0,0,0.0
+nh0169,novela romántica,90,1.0,0,0.0
+nh0171,novela romántica,70,1.0,0,0.0
+nh0172,novela romántica,77,0.9625,3,0.0375
+nh0173,other,100,1.0,0,0.0
+nh0174,other,100,1.0,0,0.0
+nh0175,other,100,1.0,0,0.0
+nh0177,other,100,1.0,0,0.0
+nh0178,novela romántica,90,1.0,0,0.0
+nh0179,other,100,1.0,0,0.0
+nh0180,novela romántica,80,1.0,0,0.0
+nh0181,novela romántica,70,1.0,0,0.0
+nh0182,novela romántica,20,1.0,0,0.0
+nh0183,novela romántica,80,1.0,0,0.0
+nh0188,novela romántica,80,1.0,0,0.0
+nh0189,other,100,1.0,0,0.0
+nh0190,other,100,1.0,0,0.0
+nh0191,other,100,1.0,0,0.0
+nh0192,other,100,1.0,0,0.0
+nh0193,other,100,1.0,0,0.0
+nh0194,other,100,1.0,0,0.0
+nh0195,novela romántica,40,1.0,0,0.0
+nh0196,novela romántica,100,1.0,0,0.0
+nh0197,novela romántica,80,1.0,0,0.0
+nh0198,other,100,1.0,0,0.0
+nh0199,novela romántica,88,0.9777777777777777,2,0.022222222222222223
+nh0201,novela romántica,63,0.9,7,0.1
+nh0202,other,100,1.0,0,0.0
+nh0203,novela romántica,70,1.0,0,0.0
+nh0204,other,100,1.0,0,0.0
+nh0205,other,100,1.0,0,0.0
+nh0206,other,90,0.9,10,0.1
+nh0208,other,100,1.0,0,0.0
+nh0210,other,97,0.97,3,0.03
+nh0214,other,99,0.99,1,0.01
+nh0216,novela romántica,60,1.0,0,0.0
+nh0217,other,100,1.0,0,0.0
+nh0219,novela romántica,80,1.0,0,0.0
+nh0220,novela romántica,70,1.0,0,0.0
+nh0221,other,100,1.0,0,0.0
+nh0223,other,100,1.0,0,0.0
+nh0224,novela romántica,70,1.0,0,0.0
+nh0225,novela romántica,70,1.0,0,0.0
+nh0226,novela romántica,60,1.0,0,0.0
+nh0227,novela romántica,70,1.0,0,0.0
+nh0229,other,100,1.0,0,0.0
+nh0230,other,100,1.0,0,0.0
+nh0232,other,100,1.0,0,0.0
+nh0234,novela romántica,70,1.0,0,0.0
+nh0235,other,100,1.0,0,0.0
+nh0237,novela romántica,90,1.0,0,0.0
+nh0238,novela romántica,70,1.0,0,0.0
+nh0239,other,100,1.0,0,0.0
+nh0240,novela romántica,59,0.9833333333333333,1,0.016666666666666666
+nh0244,novela romántica,78,0.975,2,0.025
+nh0246,novela romántica,70,1.0,0,0.0
+nh0247,novela romántica,100,1.0,0,0.0
+nh0248,novela romántica,70,1.0,0,0.0
+nh0249,novela romántica,80,1.0,0,0.0
+nh0250,novela romántica,60,1.0,0,0.0
+nh0251,novela romántica,50,1.0,0,0.0
+nh0252,novela romántica,90,1.0,0,0.0
+nh0253,novela romántica,60,1.0,0,0.0
+nh0254,other,100,1.0,0,0.0
+nh0255,other,100,1.0,0,0.0
+nh0256,other,100,1.0,0,0.0
