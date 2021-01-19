@@ -9,4 +9,8 @@ Links to the data contained in this repository are given in the text of the diss
 
 The data in this repository is offered under a __Public Domain Mark 1.0 license__ (see https://creativecommons.org/publicdomain/mark/1.0/deed.en).
 
-Full texts of novels that still are under copyright are excluded. Also, files that are too large for GitHub (more than 25 MB) are not included in this repository. For a dataset which also includes larger files see ...
+Full texts of novels that still are under copyright are excluded here. Also, files that are too large for GitHub (more than 25 MB) are not included in this repository. To complement this GitHub repository, three datasets, which contain the complete data, were published on Zenodo:
+
+* (open access)
+* (open access)
+* Corpus of 19th century Spanish American novels for family resemblance analysis (part of data-nh) (2021, Version v1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4449014 (restricted access)
