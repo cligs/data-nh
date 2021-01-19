@@ -9,7 +9,7 @@ Links to the data contained in this repository are given in the text of the diss
 
 The data in this repository is offered under a __Public Domain Mark 1.0 license__ (see https://creativecommons.org/publicdomain/mark/1.0/deed.en).
 
-Full texts of novels that still are under copyright are excluded here. Also, files that are too large for GitHub (more than 25 MB) are not included in this repository. To complement this GitHub repository, three datasets, which contain the complete data, were published on Zenodo:
+Full texts of novels that still are under copyright are excluded here. Also, files that are too large for GitHub (more than 25 MB) are not included in this repository. To complement this GitHub repository three datasets which contain the complete data were published on Zenodo:
 
 * (open access)
 * (open access)
