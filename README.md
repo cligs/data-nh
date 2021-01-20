@@ -11,6 +11,6 @@ The data in this repository is offered under a __Public Domain Mark 1.0 license_
 
 Full texts of novels that still are under copyright are excluded here. Also, files that are too large for GitHub (more than 25 MB) are not included in this repository. To complement this GitHub repository three datasets which contain the complete data were published on Zenodo:
 
-* (open access)
+* Data accompanying the dissertation "Genre Analysis and Corpus Design: 19th Century Spanish American Novels (1830-1910)" (part of data-nh) (2021, Version v1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4451928 (open access)
 * Features for the classification of Spanish American 19th century novels by subgenre (part of data-nh) (2021, Version v1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4449494 (open access)
 * Corpus of 19th century Spanish American novels for family resemblance analysis (part of data-nh) (2021, Version v1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4449014 (restricted access)
